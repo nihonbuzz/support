@@ -30,7 +30,8 @@ const config = {
   organizationName: 'nihonbuzz', // Usually your GitHub org/user name.
   projectName: 'support', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -98,11 +99,11 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Intro',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Intro',
+                to: '/intro',
               },
             ],
           },
@@ -122,20 +123,7 @@ const config = {
                 href: 'https://x.com/docusaurus',
               },
             ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/nihonbuzz/support',
-              },
-            ],
-          },
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },

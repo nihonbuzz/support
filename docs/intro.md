@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-id: home
+id: intro
 slug: /
 title: Intro
 ---
