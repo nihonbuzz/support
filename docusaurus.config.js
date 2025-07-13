@@ -47,19 +47,6 @@ const config = {
     ],
   ],
 
-  plugins: [
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'guideline',
-        path: 'docs-guideline',
-        routeBasePath: 'guideline',
-        sidebarPath: require.resolve('./sidebarsGuideline.js'),
-        editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
-      },
-    ],
-  ],
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
