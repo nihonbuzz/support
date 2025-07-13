@@ -89,6 +89,11 @@ const config = {
             label: 'Pusat Bantuan',
           },
           {
+            position: 'left',
+            to: '/search',
+            label: 'Cari',
+          },
+          {
             href: 'https://academy.nihonbuzz.org',
             label: 'Kembali ke Academy',
             position: 'right',
@@ -101,16 +106,13 @@ const config = {
         indexName: process.env.ALGOLIA_INDEX_NAME,
         contextualSearch: true,
         searchParameters: {},
-        // searchPagePath: 'search',
+        searchPagePath: 'search',
         insights: false,
 
         replaceSearchResultPathname: {
           from: '/docs/', 
           to: '/',
         },
-
-        // OPTIONAL: hanya perlu jika kamu punya tautan eksternal
-        externalUrlRegex: 'external\\.com|domain\\.com',
       },
       footer: {
         style: 'dark',
