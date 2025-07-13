@@ -39,12 +39,6 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
         },
-        guidleine: {
-          path: 'docs-guideline',
-          routeBasePath: '/guideline',
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
-        },
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
