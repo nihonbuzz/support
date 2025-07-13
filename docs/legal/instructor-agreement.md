@@ -48,4 +48,4 @@ Kami dapat memperbarui perjanjian ini sewaktu-waktu. Perubahan akan diberlakukan
 
 ## 8. Hubungi Kami
 
-Untuk pertanyaan lebih lanjut mengenai perjanjian ini, silakan hubungi kami melalui halaman [Kontak](/contact).
+Untuk pertanyaan lebih lanjut mengenai perjanjian ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami).

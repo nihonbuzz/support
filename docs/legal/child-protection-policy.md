@@ -44,4 +44,4 @@ Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Perubahan akan diberit
 
 ## 8. Hubungi Kami
 
-Jika Anda memiliki pertanyaan atau kekhawatiran terkait kebijakan perlindungan anak, silakan hubungi kami melalui halaman [Kontak](/contact).
+Jika Anda memiliki pertanyaan atau kekhawatiran terkait kebijakan perlindungan anak, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami).
