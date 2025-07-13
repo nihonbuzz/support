@@ -57,10 +57,8 @@ const config = {
           path: 'docs',
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nihonbuzz/support/tree/main/',
+            'https://github.com/nihonbuzz/support/blob/main/',
         },
         blog: false,
         theme: {
@@ -70,10 +68,11 @@ const config = {
     ],
   ],
 
+  // themes: ['@docusaurus/theme-search-algolia'],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Nihonbuzz Support',
@@ -94,6 +93,24 @@ const config = {
             position: 'right',
           },
         ],
+      },
+      algolia: {
+        appId: process.env.ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME,
+        contextualSearch: true,
+        searchParameters: {},
+        // searchPagePath: 'search',
+        insights: false,
+
+        // OPTIONAL: jika kamu mengganti URL atau ingin ubah hasil pencarian
+        replaceSearchResultPathname: {
+          from: '/docs/', 
+          to: '/',
+        },
+
+        // OPTIONAL: hanya perlu jika kamu punya tautan eksternal
+        externalUrlRegex: 'external\\.com|domain\\.com',
       },
       footer: {
         style: 'dark',
@@ -125,7 +142,7 @@ const config = {
             ],
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2025 - ${new Date().getFullYear()} Nihonbuzz, Inc.`,
       },
       prism: {
         theme: prismThemes.github,

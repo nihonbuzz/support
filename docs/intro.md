@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 97
 id: intro
-slug: /
-title: Intro
+slug: /intro  
+title: intro
 ---
 
 # Tutorial Intro
