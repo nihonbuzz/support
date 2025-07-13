@@ -1,50 +1,79 @@
 ---
-sidebar_position: 97
 id: intro
-slug: /intro  
-title: intro
+slug: /
+title: Panduan & Dokumentasi Nihonbuzz Academy – Pusat Dukungan Resmi
+sidebar_label: Intro
+description: Dokumentasi resmi dan pusat bantuan untuk pengguna Nihonbuzz Academy. Temukan panduan teknis, solusi masalah umum, serta dokumentasi fitur platform.
+keywords:
+  - dokumentasi Nihonbuzz
+  - support Nihonbuzz Academy
+  - bantuan pengguna
+  - cara menggunakan Nihonbuzz
+  - panduan pelajar Jepang
+  - masalah login Nihonbuzz
+  - platform edukasi kerja Jepang
+  - pusat bantuan Nihonbuzz
+image: /img/og-image.png
+sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Selamat Datang di Pusat Dukungan Nihonbuzz Academy
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Selamat datang di **support.nihonbuzz.org**, situs **dokumentasi resmi** dan **pusat bantuan** untuk semua pengguna **[Nihonbuzz Academy](https://academy.nihonbuzz.org/)**. Di sini Anda akan menemukan:
 
-## Getting Started
+- **Panduan langkah-demi-langkah** penggunaan platform  
+- **Solusi** untuk berbagai kendala teknis umum  
+- **Referensi fitur** dan update terbaru  
+- **Dokumentasi khusus** untuk mentor & admin
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Mengapa Dokumentasi Ini Penting?
 
-### What you'll need
+Platform Nihonbuzz Academy menggabungkan fungsionalitas komunitas (BuddyBoss), sistem pembelajaran (Tutor LMS), dan marketplace (WooCommerce). Dengan banyak modul dan fitur, dokumentasi ini akan membantu Anda:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+1. **Memulai** dengan cepat tanpa kebingungan  
+2. **Menyelesaikan** kursus dan mendapatkan sertifikat  
+3. **Bertransaksi** dengan mudah di marketplace kursus  
+4. **Bergabung** dan berinteraksi dalam komunitas belajar  
+5. **Mengelola** konten dan peserta jika Anda mentor atau admin  
 
-## Generate a new site
+---
 
-Generate a new Docusaurus site using the **classic template**.
+## Struktur Dokumentasi
 
-The classic template will automatically be added to your project after you run the command:
+Dokumentasi kami terbagi dalam kategori utama:
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. **Mulai di Nihonbuzz Academy**  
+2. **Panduan Belajar**  
+3. **Marketplace & Pembelian**  
+4. **Komunitas & Sosial**  
+5. **Akun & Profil**  
+6. **Fitur Premium & Langganan**  
+7. **Bantuan Teknis**  
+8. **Untuk Mentor & Admin Kursus**  
+9. **Hubungi Kami**
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+Gunakan menu di sidebar untuk menavigasi topik yang Anda butuhkan.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+---
 
-## Start your site
+## Cara Menggunakan Dokumentasi
 
-Run the development server:
+1. **Cari Topik** — Ketik kata kunci di kotak pencarian di pojok kanan atas.  
+2. **Jelajahi Kategori** — Pilih kategori di sidebar untuk melihat daftar artikel.  
+3. **Baca & Terapkan** — Ikuti langkah-langkah panduan kami, lengkap dengan gambar dan contoh.  
+4. **Hubungi Kami** — Jika belum menemukan jawaban, buka halaman **Hubungi Kami** untuk formulir bantuan atau kanal komunikasi.
 
-```bash
-cd my-website
-npm run start
-```
+---
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Pembaruan & Kontribusi
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Dokumentasi ini terus diperbarui seiring perubahan platform. Setiap halaman mencantumkan tanggal “Last Updated” di bagian bawah. Jika Anda menemukan kesalahan, update yang terlewat, atau ingin menambahkan informasi, silakan:
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Lapor melalui formulir** di halaman Hubungi Kami  
+- **Gabung komunitas** di Telegram untuk berdiskusi langsung
+
+---
+
+**Terima kasih** telah menjadi bagian dari ekosistem Nihonbuzz. Semoga dokumentasi ini membantu Anda belajar, mengatasi kendala, dan memaksimalkan pengalaman di Nihonbuzz Academy!
