@@ -42,4 +42,16 @@
   box-shadow: var(--ifm-global-shadow-lw);
 }
 
+.preview-wrapper-light {
+  background-color: #5a0313;
+  border-radius: 12px;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');

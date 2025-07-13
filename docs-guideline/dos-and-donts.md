@@ -22,7 +22,12 @@ Contoh penggunaan yang benar:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
   <img src="/assets/Company/NihonBuzz-Logo-Landscape-Light.png" alt="Contoh Logo Valid" height="50" />
-  <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="Contoh Logo Akademi Valid" height="50" />
+  <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="Contoh Logo Academy Valid" height="50" />
+</div>
+
+<div class="preview-wrapper-light" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
+  <img src="/assets/Company/NihonBuzz-Logo-Landscape-Dark.png" alt="Contoh Logo Valid" height="50" />
+  <img src="/assets/Academy/Nihonbuzz-Academy-Dark-LS-Regular.png" alt="Contoh Logo Academy Valid" height="50" />
 </div>
 
 ## ❌ Yang Tidak Boleh Dilakukan (Don't)
@@ -38,7 +43,7 @@ Contoh penggunaan yang salah:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
   <img src="/assets/Company/NihonBuzz-Logo-Light.png" style={{ backgroundColor: '#460707ff' }} alt="Contoh Logo dengan Background Tidak Kontras" height="180" />
-  <img src="/assets/Company/NihonBuzz-Logo-Outlined.png" alt="Contoh Logo dengan Modifikasi Tak Resmi" height="180" width="120" />
+  <img src="/assets/Company/NihonBuzz-Logo-Outlined.png" style={{ transform: 'rotate(180deg)' }} alt="Contoh Logo dengan Modifikasi Tak Resmi" height="180" width="100" />
 </div>
 
 ## Tujuan Aturan Ini
