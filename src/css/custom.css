@@ -28,3 +28,19 @@
   --ifm-color-primary-lightest: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Card preview container */
+.preview-wrapper {
+  background-color: #f9cdd5;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  border-radius: 12px;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: var(--ifm-global-shadow-lw);
+}
