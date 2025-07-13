@@ -1,6 +1,7 @@
 ---
-title: Kebijakan Penggunaan dan Keamanan Pembayaran
-description: Informasi tentang keamanan transaksi dan perlindungan data pembayaran pengguna.
+title: Kebijakan Keamanan Pembayaran
+sidebar_position: 11
+description: Informasi tentang sistem keamanan dalam setiap transaksi pembayaran.
 ---
 
 # Kebijakan Penggunaan dan Keamanan Pembayaran

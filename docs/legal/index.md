@@ -1,6 +1,7 @@
 ---
 title: Kebijakan & Ketentuan
-description: Halaman pusat untuk semua kebijakan hukum dan ketentuan layanan platform.
+sidebar_position: 1
+description: Halaman pengantar untuk seluruh kebijakan dan ketentuan yang berlaku di platform kami.
 ---
 
 # Kebijakan & Ketentuan NihonBuzz Academy
@@ -22,7 +23,7 @@ Kami menyarankan Anda membaca dengan saksama setiap dokumen agar memahami bagaim
 - [Pemberitahuan DMCA](/legal/dmca-notice)
 - [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy)
 - [Kebijakan Kekayaan Intelektual](/legal/intellectual-property)
-- [Pernyataan Penyangkalan](/legal/disclaimer)
+- [Penafian (Disclaimer)](/legal/disclaimer)
 
 Jika Anda memiliki pertanyaan, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 

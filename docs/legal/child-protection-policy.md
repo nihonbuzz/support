@@ -1,6 +1,7 @@
 ---
 title: Kebijakan Perlindungan Anak
-description: Komitmen kami dalam melindungi privasi dan keselamatan anak-anak di platform.
+sidebar_position: 8
+description: Komitmen kami dalam melindungi anak di bawah umur dalam penggunaan platform.
 ---
 
 # Kebijakan Perlindungan Anak

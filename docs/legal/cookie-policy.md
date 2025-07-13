@@ -1,6 +1,7 @@
 ---
 title: Kebijakan Cookie
-description: Penjelasan tentang penggunaan cookie dan teknologi serupa di platform kami.
+sidebar_position: 5
+description: Informasi tentang penggunaan cookie di situs kami dan preferensi pengguna terkait.
 ---
 
 # Kebijakan Cookie

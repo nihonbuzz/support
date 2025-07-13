@@ -1,6 +1,7 @@
 ---
-title: Syarat dan Ketentuan Layanan
-description: Ketentuan penggunaan layanan platform kami.
+title: Syarat & Ketentuan Layanan
+sidebar_position: 3
+description: Persyaratan penggunaan layanan kami dan hak serta kewajiban pengguna.
 ---
 
 # Syarat dan Ketentuan Layanan

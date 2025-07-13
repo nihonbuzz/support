@@ -1,6 +1,7 @@
 ---
-title: Perjanjian Penyedia Layanan (Instruktur)
-description: Ketentuan kerja sama antara platform dan penyedia konten atau instruktur.
+title: Perjanjian Instruktur
+sidebar_position: 7
+description: Ketentuan kerja sama antara platform dan instruktur.
 ---
 
 # Perjanjian Penyedia Layanan (Instruktur)

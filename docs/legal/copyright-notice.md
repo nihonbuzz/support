@@ -1,6 +1,7 @@
 ---
 title: Pemberitahuan Hak Cipta
-description: Informasi mengenai perlindungan hak cipta atas konten dan materi di platform ini.
+sidebar_position: 9
+description: Pernyataan hak cipta atas konten dan materi yang tersedia di platform.
 ---
 
 # Pemberitahuan Hak Cipta

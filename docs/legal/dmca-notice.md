@@ -1,6 +1,7 @@
 ---
 title: Pemberitahuan DMCA
-description: Pemberitahuan pelanggaran hak cipta sesuai dengan Undang-Undang Hak Cipta Milenium Digital (DMCA).
+sidebar_position: 10
+description: Prosedur pelaporan pelanggaran hak cipta berdasarkan DMCA.
 ---
 
 # Pemberitahuan DMCA

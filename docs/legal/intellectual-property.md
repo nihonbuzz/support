@@ -1,6 +1,7 @@
 ---
-title: Kebijakan Kekayaan Intelektual
-description: Pedoman tentang perlindungan kekayaan intelektual dan penanganan pelanggaran hak cipta di platform kami.
+title: Hak Kekayaan Intelektual
+sidebar_position: 12
+description: Ketentuan mengenai kepemilikan dan penggunaan konten intelektual di platform.
 ---
 
 # Kebijakan Kekayaan Intelektual

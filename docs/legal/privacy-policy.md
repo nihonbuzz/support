@@ -1,6 +1,7 @@
 ---
 title: Kebijakan Privasi
-description: Ketahui bagaimana kami mengumpulkan, menggunakan, dan melindungi data pribadi Anda.
+sidebar_position: 2
+description: Menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda.
 ---
 
 # Kebijakan Privasi

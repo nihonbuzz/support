@@ -1,6 +1,7 @@
 ---
 title: Kebijakan Pengembalian Dana
-description: Informasi mengenai prosedur dan ketentuan pengembalian dana.
+sidebar_position: 4
+description: Ketentuan mengenai pengajuan dan proses pengembalian dana.
 ---
 
 # Kebijakan Pengembalian Dana

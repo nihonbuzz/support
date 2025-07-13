@@ -1,6 +1,7 @@
 ---
 title: Penafian (Disclaimer)
-description: Pernyataan penafian tentang penggunaan informasi dan layanan di platform kami.
+sidebar_position: 13
+description: Penyangkalan atas tanggung jawab hukum terkait konten, layanan, dan informasi di situs kami.
 ---
 
 # Penafian (Disclaimer)
@@ -25,4 +26,12 @@ Disarankan untuk membaca kebijakan dan syarat layanan dari situs pihak ketiga se
 
 ## Perubahan Informasi
 
-Informasi pada platform kami dapat berubah sewaktu-waktu tanpa pemberitahuan. Kami tidak berkewajiban untuk memperbarui informasi yang tersedia, meski
+Informasi pada platform kami dapat berubah sewaktu-waktu tanpa pemberitahuan. Kami tidak berkewajiban untuk memperbarui informasi yang tersedia, meskipun mungkin sudah usang.
+
+## Pertanyaan
+
+Jika Anda memiliki pertanyaan terkait penafian ini atau penggunaan platform, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+
+---
+
+Dengan menggunakan platform ini, Anda dianggap telah membaca, memahami, dan menyetujui seluruh isi penafian ini.

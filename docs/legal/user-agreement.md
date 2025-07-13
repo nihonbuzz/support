@@ -1,6 +1,7 @@
 ---
 title: Perjanjian Pengguna
-description: Syarat dan ketentuan penggunaan platform oleh pengguna.
+sidebar_position: 6
+description: Kesepakatan antara pengguna dan platform kami dalam penggunaan layanan.
 ---
 
 # Perjanjian Pengguna
