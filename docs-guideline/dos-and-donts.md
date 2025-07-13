@@ -37,8 +37,8 @@ Contoh penggunaan yang benar:
 Contoh penggunaan yang salah:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-  <img src="/assets/Company/NihonBuzz-Logo-Light.jpg" alt="Contoh Logo dengan Background Tidak Kontras" width="180" />
-  <img src="/assets/Company/NihonBuzz-Logo-Outlined.png" alt="Contoh Logo dengan Modifikasi Tak Resmi" width="180" />
+  <img src="/assets/Company/NihonBuzz-Logo-Light.png" style="background-color: #460707ff" alt="Contoh Logo dengan Background Tidak Kontras" height="180" />
+  <img src="/assets/Company/NihonBuzz-Logo-Outlined.png" alt="Contoh Logo dengan Modifikasi Tak Resmi" height="180" width="120" />
 </div>
 
 ## Tujuan Aturan Ini
