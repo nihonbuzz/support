@@ -63,7 +63,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/og-image.png',
+      metadata: [
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:image', content: 'img/og-image.png' },
+        { property: 'og:image', content: 'img/og-image.png' },
+      ],
       navbar: {
         title: 'Nihonbuzz Support',
         logo: {
