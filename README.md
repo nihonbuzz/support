@@ -1,41 +1,83 @@
-# Website
+# 📘 Nihonbuzz Support
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Ini adalah repositori dokumentasi pusat bantuan resmi untuk platform [Nihonbuzz Academy](https://academy.nihonbuzz.org). Dokumentasi ini ditujukan untuk membantu pengguna memahami cara kerja platform, fitur-fitur utama, dan solusi terhadap permasalahan umum.
 
-## Installation
+## 🌐 Live Site
 
-```bash
-yarn
+Dokumentasi ini dapat diakses secara publik di:
+🔗 **[https://support.nihonbuzz.org](https://support.nihonbuzz.org)**
+
+## 📁 Struktur Direktori
+
+```
+.
+├── docs/                # Konten dokumentasi
+├── src/                 # Kustomisasi frontend
+│   └── pages/search/    # Override halaman pencarian
+├── static/              # File statis (gambar, favicon, dll.)
+├── sidebars.js          # Struktur sidebar dokumentasi
+├── docusaurus.config.js # Konfigurasi utama situs
+└── .env.example         # Contoh file konfigurasi lingkungan
 ```
 
-## Local Development
+## ⚙️ Konfigurasi Lingkungan
+
+Sebelum menjalankan secara lokal atau melakukan deploy, salin file `.env.example` menjadi `.env`:
 
 ```bash
-yarn start
+cp .env.example .env
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Lalu isi variabel berikut sesuai kredensial Algolia Anda:
 
-## Build
+```ini
+ALGOLIA_APP_ID=...
+ALGOLIA_API_KEY=...
+ALGOLIA_INDEX_NAME=...
+```
+
+> **Catatan:** File `.env` telah dimasukkan ke dalam `.gitignore` agar tidak terbawa ke repository publik.
+
+## 🚀 Menjalankan Secara Lokal
+
+Pastikan Anda sudah menginstal Node.js dan `npm`.
+
+1. Instal dependensi:
+
+   ```bash
+   npm install
+   ```
+
+2. Jalankan server lokal:
+
+   ```bash
+   npm run start
+   ```
+
+3. Situs akan tersedia di `http://localhost:3000`.
+
+## 📦 Build Produksi
+
+Untuk membangun versi statis siap deploy:
 
 ```bash
-yarn build
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Hasilnya akan tersedia di direktori `/build` dan dapat dideploy ke layanan seperti Cloudflare Pages.
 
-## Deployment
+## ☁️ Deploy ke Cloudflare Pages
 
-Using SSH:
+Pastikan:
 
-```bash
-USE_SSH=true yarn deploy
-```
+* Output direktori adalah: `build`
+* Komando build: `npm run build`
+* Variabel `.env` dikelola melalui dashboard Cloudflare Pages
 
-Not using SSH:
+## 🔍 Fitur Pencarian
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+Situs ini dilengkapi pencarian langsung yang ditenagai oleh Algolia. Fitur ini memungkinkan pengguna mencari artikel bantuan secara cepat dan relevan.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 📄 Lisensi
+
+Dokumentasi ini merupakan hak cipta © 2025 Nihonbuzz, Inc. Semua hak dilindungi undang-undang.
