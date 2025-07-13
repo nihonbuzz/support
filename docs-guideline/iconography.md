@@ -1,7 +1,7 @@
 ---
 title: Ikonografi
 description: Panduan ikon resmi dan gaya ikonografi NihonBuzz.
-slug: /guideline/iconography/iconography
+slug: /iconography
 sidebar_position: 4
 ---
 

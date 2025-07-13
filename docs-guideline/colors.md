@@ -1,7 +1,7 @@
 ---
 title: Palet Warna
 description: Warna resmi merek NihonBuzz dan panduan penggunaannya.
-slug: /guideline/colors
+slug: /colors
 sidebar_position: 2
 ---
 

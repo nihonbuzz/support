@@ -1,7 +1,7 @@
 ---
 title: Pola Visual
 description: Panduan elemen pola dekoratif untuk identitas visual NihonBuzz.
-slug: /guideline/pattern/pattern
+slug: /pattern
 sidebar_position: 5
 ---
 

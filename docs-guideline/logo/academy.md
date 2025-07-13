@@ -1,7 +1,7 @@
 ---
 title: Logo Academy
 description: Panduan penggunaan logo resmi NihonBuzz Academy.
-slug: /guideline/logo/academy
+slug: /logo/academy
 sidebar_position: 2
 ---
 

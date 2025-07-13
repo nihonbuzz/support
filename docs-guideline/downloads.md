@@ -1,7 +1,7 @@
 ---
 title: Unduhan Aset
 description: Unduh aset resmi NihonBuzz seperti logo, ikon, pola, dan paket identitas visual lainnya.
-slug: /guideline/downloads/downloads
+slug: /downloads
 sidebar_position: 7
 ---
 

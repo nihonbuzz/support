@@ -1,7 +1,7 @@
 ---
 title: Do & Don'ts
 description: Panduan tentang praktik penggunaan yang benar dan yang harus dihindari dalam penerapan identitas visual NihonBuzz.
-slug: /guideline/dos-and-donts
+slug: /dos-and-donts
 sidebar_position: 6
 ---
 

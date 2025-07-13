@@ -1,7 +1,7 @@
 ---
 title: Logo Company
 description: Panduan penggunaan logo resmi NihonBuzz.
-slug: /guideline/logo/company
+slug: /logo/company
 sidebar_position: 1
 ---
 

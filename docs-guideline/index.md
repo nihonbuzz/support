@@ -4,7 +4,7 @@ title: Panduan Identitas Merek
 description: Panduan resmi identitas visual NihonBuzz
 slug: /
 sidebar_position: 0
---------------------
+---
 
 # Panduan Identitas Merek NihonBuzz
 
@@ -24,13 +24,14 @@ Panduan ini bertujuan untuk:
 
 Panduan ini terbagi dalam beberapa bagian:
 
-* [Logo](./logo/logo): Variasi dan penggunaan logo NihonBuzz.
-* [Warna](./colors/colors): Skema warna utama dan pendukung.
-* [Tipografi](./typography/typography): Font resmi yang digunakan.
-* [Ikonografi](./iconography/iconography): Gaya dan ikon resmi.
-* [Pola Visual](./pattern/pattern): Elemen dekoratif visual.
-* [Do & Don'ts](./dos-and-donts/usage): Praktik penggunaan yang benar dan salah.
-* [Unduhan](./downloads/downloads): Aset resmi dalam berbagai format.
+* [Logo NihonBuzz Company](./logo/company): Variasi dan penggunaan logo NihonBuzz Company.
+* [Logo NihonBuzz Academy](./logo/academy): Variasi dan penggunaan logo NihonBuzz Academy.
+* [Warna](./colors): Skema warna utama dan pendukung.
+* [Tipografi](./typography): Font resmi yang digunakan.
+* [Ikonografi](./iconography): Gaya dan ikon resmi.
+* [Pola Visual](./pattern): Elemen dekoratif visual.
+* [Do & Don'ts](./dos-and-donts): Praktik penggunaan yang benar dan salah.
+* [Unduhan](./downloads): Aset resmi dalam berbagai format.
 
 ---
 
