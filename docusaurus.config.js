@@ -89,8 +89,8 @@ const config = {
             label: 'Pusat Bantuan',
           },
           {
-            href: 'https://github.com/nihonbuzz/support',
-            label: 'GitHub',
+            href: 'https://academy.nihonbuzz.org',
+            label: 'Kembali ke Academy',
             position: 'right',
           },
         ],
@@ -116,31 +116,31 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Intro',
+            title: 'Panduan',
             items: [
-              {
-                label: 'Intro',
-                to: '/intro',
-              },
+              { label: 'Mulai', to: '/mulai/apa-itu-academy' },
+              { label: 'Belajar', to: '/belajar/mengikuti-kursus' },
+              { label: 'Marketplace', to: '/marketplace/cara-pembelian' },
+              { label: 'Komunitas', to: '/komunitas/forum-diskusi' },
+              { label: 'Akun', to: '/akun/edit-profil' },
+              { label: 'Instruktur', to: '/mentor/buat-kursus' },
             ],
           },
           {
-            title: 'Community',
+            title: 'Tautan Terkait',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
+              { label: 'Nihonbuzz Academy', href: 'https://academy.nihonbuzz.org' },
+              { label: 'Formulir Kontak', href: 'https://academy.nihonbuzz.org/contact' },
             ],
-          }
+          },
+          {
+            title: 'Sosial Media',
+            items: [
+              { label: 'Instagram', href: 'https://instagram.com/nihon_buzz' },
+              { label: 'YouTube', href: 'https://youtube.com/@nihonbuzz' },
+              { label: 'TikTok', href: 'https://tiktok.com/@nihonbuzz' },
+            ],
+          },
         ],
         copyright: `Copyright © 2025 - ${new Date().getFullYear()} Nihonbuzz, Inc.`,
       },
