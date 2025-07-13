@@ -1,83 +1,67 @@
-# 📘 Nihonbuzz Support
+# Nihonbuzz Support
 
-Ini adalah repositori dokumentasi pusat bantuan resmi untuk platform [Nihonbuzz Academy](https://academy.nihonbuzz.org). Dokumentasi ini ditujukan untuk membantu pengguna memahami cara kerja platform, fitur-fitur utama, dan solusi terhadap permasalahan umum.
+**Nihonbuzz Support** adalah dokumentasi pusat bantuan resmi untuk pengguna platform Nihonbuzz Academy. Dokumentasi ini membantu pengguna memahami fitur, navigasi, dan pemecahan masalah seputar layanan Academy.
 
-## 🌐 Live Site
+## Fitur
 
-Dokumentasi ini dapat diakses secara publik di:
-🔗 **[https://support.nihonbuzz.org](https://support.nihonbuzz.org)**
+* 📘 Dokumentasi terstruktur dan mudah dinavigasi
+* 🔍 Pencarian cepat menggunakan Algolia
+* 🌐 Dukungan untuk Bahasa Indonesia
+* 💡 Dikonfigurasi untuk pengalaman pengguna yang optimal di berbagai perangkat
 
-## 📁 Struktur Direktori
+## Struktur Dokumentasi
 
-```
-.
-├── docs/                # Konten dokumentasi
-├── src/                 # Kustomisasi frontend
-│   └── pages/search/    # Override halaman pencarian
-├── static/              # File statis (gambar, favicon, dll.)
-├── sidebars.js          # Struktur sidebar dokumentasi
-├── docusaurus.config.js # Konfigurasi utama situs
-└── .env.example         # Contoh file konfigurasi lingkungan
-```
+Dokumentasi disusun dalam beberapa kategori utama:
 
-## ⚙️ Konfigurasi Lingkungan
+* **Mulai** – Penjelasan dasar mengenai Nihonbuzz Academy
+* **Belajar** – Panduan mengikuti kursus
+* **Marketplace** – Informasi pembelian dan transaksi
+* **Komunitas** – Fitur sosial dan forum diskusi
+* **Akun** – Pengelolaan profil pengguna
+* **Instruktur** – Panduan untuk mentor dan pembuat kursus
 
-Sebelum menjalankan secara lokal atau melakukan deploy, salin file `.env.example` menjadi `.env`:
+## Teknologi
 
-```bash
-cp .env.example .env
-```
+Dokumentasi ini dibangun menggunakan [Docusaurus](https://docusaurus.io), dan dihosting melalui beberapa platform berikut:
 
-Lalu isi variabel berikut sesuai kredensial Algolia Anda:
+* [Cloudflare Pages](https://pages.cloudflare.com)
+* [Netlify](https://netlify.com)
+* [Vercel](https://vercel.com)
 
-```ini
-ALGOLIA_APP_ID=...
-ALGOLIA_API_KEY=...
-ALGOLIA_INDEX_NAME=...
-```
+## Kontribusi
 
-> **Catatan:** File `.env` telah dimasukkan ke dalam `.gitignore` agar tidak terbawa ke repository publik.
+Kami menyambut kontribusi dari siapa pun. Jika ingin memperbarui konten atau melaporkan kesalahan:
 
-## 🚀 Menjalankan Secara Lokal
+1. Fork repositori ini
+2. Buat branch baru: `git checkout -b update-panduan`
+3. Lakukan perubahan dan commit
+4. Kirim pull request
 
-Pastikan Anda sudah menginstal Node.js dan `npm`.
-
-1. Instal dependensi:
-
-   ```bash
-   npm install
-   ```
-
-2. Jalankan server lokal:
-
-   ```bash
-   npm run start
-   ```
-
-3. Situs akan tersedia di `http://localhost:3000`.
-
-## 📦 Build Produksi
-
-Untuk membangun versi statis siap deploy:
+## Jalankan Secara Lokal
 
 ```bash
-npm run build
+# Install dependensi
+npm install
+
+# Jalankan dalam mode development
+npm run start
 ```
 
-Hasilnya akan tersedia di direktori `/build` dan dapat dideploy ke layanan seperti Cloudflare Pages.
+## Deploy
 
-## ☁️ Deploy ke Cloudflare Pages
+Sebelum melakukan deploy ke production:
 
-Pastikan:
+1. Pastikan file `.env` **tidak** dikomit
+2. Sesuaikan nilai variabel Algolia dalam `.env`
 
-* Output direktori adalah: `build`
-* Komando build: `npm run build`
-* Variabel `.env` dikelola melalui dashboard Cloudflare Pages
+### Contoh `.env`
 
-## 🔍 Fitur Pencarian
+```
+ALGOLIA_API_KEY=your_algolia_api_key
+ALGOLIA_APP_ID=your_algolia_app_id
+ALGOLIA_INDEX_NAME=your_algolia_index_name
+```
 
-Situs ini dilengkapi pencarian langsung yang ditenagai oleh Algolia. Fitur ini memungkinkan pengguna mencari artikel bantuan secara cepat dan relevan.
+## Lisensi
 
-## 📄 Lisensi
-
-Dokumentasi ini merupakan hak cipta © 2025 Nihonbuzz, Inc. Semua hak dilindungi undang-undang.
+Dokumentasi ini dilindungi oleh lisensi [MIT](LICENSE).
