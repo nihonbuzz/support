@@ -90,8 +90,13 @@ const config = {
             label: 'Cari',
           },
           {
+            href: 'https://nihonbuzz.org',
+            label: 'Nihonbuzz',
+            position: 'right',
+          },
+          {
             href: 'https://academy.nihonbuzz.org',
-            label: 'Kembali ke Academy',
+            label: 'Nihonbuzz Academy',
             position: 'right',
           },
         ],
