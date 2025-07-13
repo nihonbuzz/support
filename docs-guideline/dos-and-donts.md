@@ -25,6 +25,8 @@ Contoh penggunaan yang benar:
   <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="Contoh Logo Academy Valid" height="50" />
 </div>
 
+Contoh penggunaan yang benar:
+
 <div class="preview-wrapper-light" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
   <img src="/assets/Company/NihonBuzz-Logo-Landscape-Dark.png" alt="Contoh Logo Valid" height="50" />
   <img src="/assets/Academy/Nihonbuzz-Academy-Dark-LS-Regular.png" alt="Contoh Logo Academy Valid" height="50" />
