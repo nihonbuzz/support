@@ -43,4 +43,4 @@ Kami berhak memperbarui perjanjian ini sewaktu-waktu. Perubahan akan diberlakuka
 
 ## 7. Kontak
 
-Jika Anda memiliki pertanyaan mengenai Perjanjian Pengguna ini, silakan hubungi kami melalui halaman [Kontak](/contact) di platform kami.
+Jika Anda memiliki pertanyaan mengenai Perjanjian Pengguna ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami) di platform kami.

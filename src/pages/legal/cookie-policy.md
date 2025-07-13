@@ -45,4 +45,4 @@ Kami dapat memperbarui Kebijakan Cookie ini dari waktu ke waktu. Setiap perubaha
 
 ## 6. Hubungi Kami
 
-Jika Anda memiliki pertanyaan mengenai Kebijakan Cookie ini, silakan hubungi kami melalui halaman [Kontak](/contact) atau email resmi yang tersedia di platform kami.
+Jika Anda memiliki pertanyaan mengenai Kebijakan Cookie ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami) atau email resmi yang tersedia di platform kami.
