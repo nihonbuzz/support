@@ -1,5 +1,5 @@
 ---
-title: Asset Downloads
+title: Downloads Brand Pack
 description: Download official Nihonbuzz assets such as logos, icons, patterns, and full brand identity packs.
 slug: /downloads
 sidebar_position: 7

@@ -1,5 +1,5 @@
 ---
-title: アセットダウンロード
+title: ブランドパックをダウンロード
 description: Nihonbuzzの公式ロゴ、アイコン、パターン、ブランドアイデンティティパックをダウンロードできます。
 slug: /downloads
 sidebar_position: 7

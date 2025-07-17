@@ -1,5 +1,5 @@
 ---
-title: Unduhan Aset
+title: Unduh Brand Pack
 description: Unduh aset resmi Nihonbuzz seperti logo, ikon, pola, dan paket identitas visual lainnya.
 slug: /downloads
 sidebar_position: 7
