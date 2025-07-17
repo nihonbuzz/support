@@ -1,0 +1,8 @@
+{
+  "label": "Akun",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Pengaturan akun pengguna termasuk edit profil, reset sandi, preferensi tampilan, hingga hapus akun."
+  }
+}
