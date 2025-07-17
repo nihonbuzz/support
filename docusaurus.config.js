@@ -126,6 +126,10 @@ const config = {
             label: 'Nihonbuzz Academy',
             position: 'right',
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       docs: {
