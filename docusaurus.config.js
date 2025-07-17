@@ -19,11 +19,16 @@ const config = {
 
   i18n: {
     defaultLocale: 'id',
-    locales: ['id'],
+    locales: ['id', 'en', 'ja'],
     localeConfigs: {
       id: {
         label: 'Bahasa Indonesia',
-        direction: 'ltr',
+      },
+      en: {
+        label: 'English',
+      },
+      ja: {
+        label: '日本語',
       },
     },
   },
@@ -73,11 +78,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/og-image.png',
+      image: 'https://support.nihonbuzz.org/img/og-image.png',
       metadata: [
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:image', content: 'img/og-image.png' },
-        { property: 'og:image', content: 'img/og-image.png' },
+        { name: 'twitter:image', content: 'https://support.nihonbuzz.org/img/og-image.png' },
+        { property: 'og:image', content: 'https://support.nihonbuzz.org/img/og-image.png' },
       ],
       navbar: {
         title: 'Nihonbuzz Support',
