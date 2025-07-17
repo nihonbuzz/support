@@ -49,10 +49,9 @@ Dokumentasi kami terbagi dalam kategori utama:
 3. **Marketplace & Pembelian**  
 4. **Komunitas & Sosial**  
 5. **Akun & Profil**  
-6. **Fitur Premium & Langganan**  
-7. **Bantuan Teknis**  
-8. **Untuk Mentor & Admin Kursus**  
-9. **Hubungi Kami**
+6. **Bantuan Teknis**  
+7. **Untuk Mentor & Admin Kursus**  
+8. **Hubungi Kami**
 
 Gunakan menu di sidebar untuk menavigasi topik yang Anda butuhkan.
 
