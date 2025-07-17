@@ -1,13 +1,13 @@
 ---
 title: Do & Don'ts
-description: Panduan tentang praktik penggunaan yang benar dan yang harus dihindari dalam penerapan identitas visual NihonBuzz.
+description: Panduan tentang praktik penggunaan yang benar dan yang harus dihindari dalam penerapan identitas visual Nihonbuzz.
 slug: /dos-and-donts
 sidebar_position: 6
 ---
 
 # Do & Don'ts
 
-Agar identitas visual NihonBuzz tetap kuat dan konsisten, penting untuk mengikuti panduan berikut mengenai penggunaan elemen brand seperti logo, warna, dan tipografi.
+Agar identitas visual Nihonbuzz tetap kuat dan konsisten, penting untuk mengikuti panduan berikut mengenai penggunaan elemen brand seperti logo, warna, dan tipografi.
 
 ## ✅ Yang Harus Dilakukan (Do)
 
@@ -21,7 +21,7 @@ Agar identitas visual NihonBuzz tetap kuat dan konsisten, penting untuk mengikut
 Contoh penggunaan yang benar:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-  <img src="/assets/Company/NihonBuzz-Logo-Landscape-Light.png" alt="Contoh Logo Valid" height="50" />
+  <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Light.png" alt="Contoh Logo Valid" height="50" />
   <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="Contoh Logo Academy Valid" height="50" />
 </div>
 
@@ -30,7 +30,7 @@ Contoh penggunaan yang benar:
 
 
 <div class="preview-wrapper-light" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-  <img src="/assets/Company/NihonBuzz-Logo-Landscape-Dark.png" alt="Contoh Logo Valid" height="50" />
+  <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Dark.png" alt="Contoh Logo Valid" height="50" />
   <img src="/assets/Academy/Nihonbuzz-Academy-Dark-LS-Regular.png" alt="Contoh Logo Academy Valid" height="50" />
 </div>
 
@@ -46,8 +46,8 @@ Contoh penggunaan yang benar:
 Contoh penggunaan yang salah:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-  <img src="/assets/Company/NihonBuzz-Logo-Light.png" style={{ backgroundColor: '#460707ff' }} alt="Contoh Logo dengan Background Tidak Kontras" height="180" />
-  <img src="/assets/Company/NihonBuzz-Logo-Outlined.png" style={{ transform: 'rotate(180deg)' }} alt="Contoh Logo dengan Modifikasi Tak Resmi" height="180" width="100" />
+  <img src="/assets/Company/Nihonbuzz-Logo-Light.png" style={{ backgroundColor: '#460707ff' }} alt="Contoh Logo dengan Background Tidak Kontras" height="180" />
+  <img src="/assets/Company/Nihonbuzz-Logo-Outlined.png" style={{ transform: 'rotate(180deg)' }} alt="Contoh Logo dengan Modifikasi Tak Resmi" height="180" width="100" />
 </div>
 
 ## Tujuan Aturan Ini

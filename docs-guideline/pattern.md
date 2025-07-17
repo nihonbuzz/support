@@ -1,13 +1,13 @@
 ---
 title: Pola Visual
-description: Panduan elemen pola dekoratif untuk identitas visual NihonBuzz.
+description: Panduan elemen pola dekoratif untuk identitas visual Nihonbuzz.
 slug: /pattern
 sidebar_position: 5
 ---
 
-# Pola Visual NihonBuzz
+# Pola Visual Nihonbuzz
 
-Pola visual merupakan elemen dekoratif yang digunakan untuk memperkuat identitas NihonBuzz secara estetis. Pola-pola ini dapat digunakan sebagai latar belakang, pengisi ruang negatif, atau elemen desain tambahan dalam berbagai media.
+Pola visual merupakan elemen dekoratif yang digunakan untuk memperkuat identitas Nihonbuzz secara estetis. Pola-pola ini dapat digunakan sebagai latar belakang, pengisi ruang negatif, atau elemen desain tambahan dalam berbagai media.
 
 ## Filosofi Pola
 
@@ -19,7 +19,7 @@ Pola kami dirancang dengan mempertimbangkan filosofi berikut:
 
 ## Contoh Pola
 
-Berikut adalah contoh visual dari pola utama NihonBuzz:
+Berikut adalah contoh visual dari pola utama Nihonbuzz:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
   <img src="/assets/Pattern/pattern.png" alt="Contoh Pola PNG" width="200" />

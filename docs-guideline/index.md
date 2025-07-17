@@ -1,7 +1,7 @@
 ---
 
 title: Panduan Identitas Merek
-description: Panduan resmi identitas visual NihonBuzz
+description: Panduan resmi identitas visual Nihonbuzz
 slug: /
 sidebar_position: 0
 ---

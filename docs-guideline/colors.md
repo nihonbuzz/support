@@ -1,21 +1,21 @@
 ---
 title: Palet Warna
-description: Warna resmi merek NihonBuzz dan panduan penggunaannya.
+description: Warna resmi merek Nihonbuzz dan panduan penggunaannya.
 slug: /colors
 sidebar_position: 2
 ---
 
-# Palet Warna NihonBuzz
+# Palet Warna Nihonbuzz
 
-Palet warna adalah elemen penting dalam identitas visual NihonBuzz. Warna digunakan secara konsisten di semua materi komunikasi untuk memperkuat pengenalan merek.
+Palet warna adalah elemen penting dalam identitas visual Nihonbuzz. Warna digunakan secara konsisten di semua materi komunikasi untuk memperkuat pengenalan merek.
 
 ## Warna Utama
 
-Gunakan warna utama sebagai fondasi visual dalam semua desain resmi NihonBuzz.
+Gunakan warna utama sebagai fondasi visual dalam semua desain resmi Nihonbuzz.
 
 | Nama Warna | Kode HEX | RGB           | Penggunaan                     |
 |------------|----------|---------------|--------------------------------|
-| Merah NihonBuzz | `#DA0037` | `218, 0, 55`   | Logo, tombol utama, aksen utama |
+| Merah Nihonbuzz | `#DA0037` | `218, 0, 55`   | Logo, tombol utama, aksen utama |
 | Hitam | `#1A1A1A` | `26, 26, 26`     | Teks utama, latar, logo dark   |
 | Putih | `#FFFFFF` | `255, 255, 255` | Teks terang, latar bersih      |
 

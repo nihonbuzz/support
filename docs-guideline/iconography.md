@@ -1,13 +1,13 @@
 ---
 title: Ikonografi
-description: Panduan ikon resmi dan gaya ikonografi NihonBuzz.
+description: Panduan ikon resmi dan gaya ikonografi Nihonbuzz.
 slug: /iconography
 sidebar_position: 4
 ---
 
-# Ikonografi NihonBuzz
+# Ikonografi Nihonbuzz
 
-Ikon adalah elemen penting dalam komunikasi visual NihonBuzz. Ikonografi kami dirancang untuk mendukung pesan secara jelas, intuitif, dan konsisten di seluruh platform.
+Ikon adalah elemen penting dalam komunikasi visual Nihonbuzz. Ikonografi kami dirancang untuk mendukung pesan secara jelas, intuitif, dan konsisten di seluruh platform.
 
 ## Gaya Ikon
 
@@ -25,8 +25,8 @@ Kami menggunakan ikon dengan gaya minimalis, solid, dan mudah dikenali. Setiap i
 Berikut adalah beberapa contoh ikon resmi kami:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-  <img src="/assets/Site-Icon/NihonBuzz-Logo-Icon-512.png" alt="Ikon Aplikasi" width="64" />
-  <img src="/assets/Site-Icon/NihonBuzz-Logo-Icon-1024-Circle.png" alt="Ikon Bulat" width="64" />
+  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-512.png" alt="Ikon Aplikasi" width="64" />
+  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-1024-Circle.png" alt="Ikon Bulat" width="64" />
   <img src="/assets/Site-Icon/BIMI/nihonbuzz-tiny.svg" alt="Ikon BIMI SVG" width="64" />
 </div>
 

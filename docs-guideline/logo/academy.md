@@ -1,15 +1,15 @@
 ---
 title: Logo Academy
-description: Panduan penggunaan logo resmi NihonBuzz Academy.
+description: Panduan penggunaan logo resmi Nihonbuzz Academy.
 slug: /logo/academy
 sidebar_position: 2
 ---
 
-# Logo NihonBuzz
+# Logo Nihonbuzz
 
-Logo merupakan elemen paling esensial dari identitas visual NihonBuzz. Kami memiliki dua identitas utama: **NihonBuzz** sebagai entitas perusahaan, dan **NihonBuzz Academy** sebagai divisi pendidikan.
+Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
 
-## Logo NihonBuzz Academy
+## Logo Nihonbuzz Academy
 
 Gunakan logo Academy dalam konteks edukatif seperti kursus, konten pelatihan, dan acara pembelajaran.
 
