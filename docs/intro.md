@@ -13,7 +13,7 @@ keywords:
   - masalah login Nihonbuzz
   - platform edukasi kerja Jepang
   - pusat bantuan Nihonbuzz
-image: /img/og-image.png
+image: https://support.nihonbuzz.org/img/og-image-nihonbuzz.png
 sidebar_position: 1
 ---
 
