@@ -23,7 +23,7 @@ Kami menyarankan Anda membaca dengan saksama setiap dokumen agar memahami bagaim
 - [Pemberitahuan Hak Cipta](/legal/copyright-notice)
 - [Pemberitahuan DMCA](/legal/dmca-notice)
 - [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy)
-- [Kebijakan Kekayaan Intelektual](/legal/intellectual-property-policy)
+- [Kebijakan Kekayaan Intelektual](/legal/intellectual-property-policy-policy)
 - [Penafian (Disclaimer)](/legal/disclaimer)
 
 Jika Anda memiliki pertanyaan, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).

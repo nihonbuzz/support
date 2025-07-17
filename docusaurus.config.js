@@ -193,7 +193,7 @@ const config = {
               { label: 'Pemberitahuan Hak Cipta', to: '/legal/copyright-notice' },
               { label: 'Pemberitahuan DMCA', to: '/legal/dmca-notice' },
               { label: 'Keamanan Pembayaran', to: '/legal/payment-security-policy' },
-              { label: 'Kekayaan Intelektual', to: '/legal/intellectual-property' },
+              { label: 'Kekayaan Intelektual', to: '/legal/intellectual-property-policy' },
               { label: 'Disclaimer', to: '/legal/disclaimer' },
             ],
           },

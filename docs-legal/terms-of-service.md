@@ -32,7 +32,7 @@ Anda harus berusia minimal 13 tahun atau memiliki izin dari orang tua/wali untuk
 
 - Semua konten kursus dilindungi hak kekayaan intelektual.
 - Anda tidak boleh menyalin, menyebarkan, atau menjual ulang konten tanpa izin.
-- Lihat [Kebijakan Hak Kekayaan Intelektual](/legal/intellectual-property) untuk detail.
+- Lihat [Kebijakan Hak Kekayaan Intelektual](/legal/intellectual-property-policy) untuk detail.
 
 ## 6. Pembayaran dan Pengembalian Dana
 
