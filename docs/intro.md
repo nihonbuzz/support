@@ -30,7 +30,7 @@ Selamat datang di **support.nihonbuzz.org**, situs **dokumentasi resmi** dan **p
 
 ## Mengapa Dokumentasi Ini Penting?
 
-Platform Nihonbuzz Academy menggabungkan fungsionalitas komunitas (BuddyBoss), sistem pembelajaran (Tutor LMS), dan marketplace (WooCommerce). Dengan banyak modul dan fitur, dokumentasi ini akan membantu Anda:
+Platform Nihonbuzz Academy menggabungkan fungsionalitas Nihonbuzz Community, Nihonbuzz Academy, dan Nihonbuzz Shop. Dengan banyak modul dan fitur, dokumentasi ini akan membantu Anda:
 
 1. **Memulai** dengan cepat tanpa kebingungan  
 2. **Menyelesaikan** kursus dan mendapatkan sertifikat  
