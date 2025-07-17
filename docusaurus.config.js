@@ -61,7 +61,6 @@ const config = {
         routeBasePath: 'legal',
         sidebarPath: require.resolve('./sidebarsLegal.js'),
         editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
-        i18n: true,
       },
     ],
     [
@@ -72,7 +71,6 @@ const config = {
         routeBasePath: 'guideline',
         sidebarPath: require.resolve('./sidebarsGuideline.js'),
         editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
-        i18n: true,
       },
     ],
   ],
