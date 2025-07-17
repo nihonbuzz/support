@@ -1,38 +1,38 @@
 ---
-
-title: Panduan Identitas Merek
-description: Panduan resmi identitas visual Nihonbuzz
+title: ブランドアイデンティティガイドライン
+description: Nihonbuzz の公式ビジュアルアイデンティティガイド
 slug: /
 sidebar_position: 0
 ---
 
-# Panduan Identitas Merek NihonBuzz
+# NihonBuzz ブランドアイデンティティガイド
 
-Selamat datang di **Panduan Identitas Merek** NihonBuzz. Halaman ini dirancang sebagai referensi utama bagi siapa pun yang berinteraksi dengan identitas visual kami, baik internal maupun eksternal.
+ようこそ、**NihonBuzz ブランドアイデンティティガイド**へ！  
+このページは、社内外で私たちのビジュアルアイデンティティを扱うすべての方のための基本リファレンスです。
 
-Panduan ini mencakup semua elemen penting dari brand kami, termasuk logo, warna, tipografi, ikonografi, pola visual, serta aturan penggunaan yang tepat. Kami juga menyediakan paket unduhan yang berisi aset resmi.
+このガイドでは、ロゴ、カラー、タイポグラフィ、アイコン、ビジュアルパターン、正しい使用ルールなど、ブランドの重要な要素をすべてカバーします。公式アセットのダウンロードパッケージもご用意しています。
 
-## Tujuan Panduan
+## ガイドの目的
 
-Panduan ini bertujuan untuk:
+このガイドの目的は次のとおりです：
 
-* Menjaga konsistensi visual di semua media dan platform.
-* Memastikan penggunaan identitas merek kami yang tepat.
-* Memberikan akses ke aset brand yang sah dan terbaru.
+* すべてのメディアやプラットフォームでビジュアルの一貫性を保つこと。
+* ブランドアイデンティティを正しく、そして正確に使うこと。
+* 公式で最新のブランドアセットにアクセスできるようにすること。
 
-## Struktur Panduan
+## ガイドの構成
 
-Panduan ini terbagi dalam beberapa bagian:
+ガイドは次のセクションに分かれています：
 
-* [Logo NihonBuzz Company](./logo/company): Variasi dan penggunaan logo NihonBuzz Company.
-* [Logo NihonBuzz Academy](./logo/academy): Variasi dan penggunaan logo NihonBuzz Academy.
-* [Warna](./colors): Skema warna utama dan pendukung.
-* [Tipografi](./typography): Font resmi yang digunakan.
-* [Ikonografi](./iconography): Gaya dan ikon resmi.
-* [Pola Visual](./pattern): Elemen dekoratif visual.
-* [Do & Don'ts](./dos-and-donts): Praktik penggunaan yang benar dan salah.
-* [Unduhan](./downloads): Aset resmi dalam berbagai format.
+* [NihonBuzz 会社ロゴ](./logo/company)：ロゴのバリエーションと使用ルール。
+* [NihonBuzz アカデミーロゴ](./logo/academy)：ロゴのバリエーションと使用ルール。
+* [カラー](./colors)：メインカラーとサブカラー。
+* [タイポグラフィ](./typography)：公式で使用するフォント。
+* [アイコン](./iconography)：アイコンのスタイルとルール。
+* [ビジュアルパターン](./pattern)：装飾的な要素。
+* [やっていいこと・ダメなこと](./dos-and-donts)：正しい使い方と NG 例。
+* [ダウンロード](./downloads)：公式アセットをいろいろなフォーマットで。
 
 ---
 
-Jika Anda membutuhkan bantuan lebih lanjut atau versi khusus dari aset, silakan hubungi kami melalui email [support@nihonbuzz.org](/hubungi-kami).
+カスタムアセットやサポートが必要な場合は、[support@nihonbuzz.org](/hubungi-kami) までご連絡ください。

@@ -1,76 +1,76 @@
 ---
-title: Forum & Grup Diskusi
+title: Forums & Discussion Groups
 sidebar_position: 1
-description: Panduan menggunakan forum dan grup diskusi untuk berinteraksi, bertanya, dan berbagi pengetahuan bersama sesama peserta.
+description: A guide to using forums and discussion groups to interact, ask questions, and share knowledge with fellow learners.
 ---
 
-# Forum & Grup Diskusi
+# Forums & Discussion Groups
 
-Komunitas pembelajar adalah bagian penting dari pengalaman di Nihonbuzz Academy. Melalui fitur forum dan grup diskusi, Anda dapat **berinteraksi dengan peserta lain**, **bertanya**, **mendapatkan jawaban dari mentor**, serta **berbagi pengalaman** belajar.
-
----
-
-## 💬 Apa Itu Forum & Grup?
-
-**Forum** adalah ruang diskusi terbuka untuk topik tertentu yang berkaitan dengan kursus atau komunitas.
-
-**Grup Diskusi** biasanya bersifat lebih spesifik dan dapat terhubung langsung dengan:
-- Kursus tertentu
-- Kelas atau batch tertentu
-- Topik minat (misalnya: JLPT, budaya kerja, magang, dll.)
+The learning community is an essential part of the Nihonbuzz Academy experience. Through forums and discussion groups, you can **interact with other participants**, **ask questions**, **get answers from mentors**, and **share your learning experiences**.
 
 ---
 
-## 👥 Bergabung dengan Forum
+## 💬 What Are Forums & Groups?
 
-Untuk mengakses forum:
+**Forums** are open discussion spaces for specific topics related to courses or the community.
 
-1. Login ke akun Anda
-2. Buka menu **Komunitas** dari dashboard
-3. Pilih kategori forum yang relevan
-4. Klik salah satu topik untuk membaca atau menanggapi
-5. Gunakan tombol **“Buat Topik Baru”** jika ingin memulai diskusi
+**Discussion Groups** are usually more specific and can be directly linked to:
+- A particular course
+- A specific class or batch
+- Interest-based topics (e.g., JLPT, workplace culture, internships, etc.)
+
+---
+
+## 👥 Joining the Forum
+
+To access the forum:
+
+1. Log in to your account
+2. Go to the **Community** menu from your dashboard
+3. Select a relevant forum category
+4. Click on a topic to read or reply
+5. Use the **“Create New Topic”** button if you want to start a discussion
 
 **Tips:**
-- Selalu baca deskripsi forum sebelum posting
-- Gunakan judul yang jelas dan ringkas
-- Sertakan konteks atau pertanyaan yang spesifik
+- Always read the forum description before posting
+- Use clear and concise titles
+- Provide context or specific questions
 
 ---
 
-## 📌 Grup Diskusi Kursus
+## 📌 Course Discussion Groups
 
-Setiap kursus berbayar biasanya memiliki **grup diskusi khusus** yang hanya bisa diakses oleh peserta kursus tersebut.
+Each paid course typically has a **dedicated discussion group** accessible only to its participants.
 
-- Grup ini muncul otomatis setelah Anda mendaftar atau membeli kursus
-- Bisa digunakan untuk diskusi lebih dalam bersama mentor atau peserta lainnya
-- Notifikasi akan muncul jika ada diskusi baru di grup
-
----
-
-## 🎓 Etika dalam Forum & Grup
-
-Agar forum tetap kondusif dan bermanfaat:
-
-- Hindari spam atau promosi pribadi
-- Gunakan bahasa yang sopan dan tidak menyerang
-- Hargai pendapat orang lain
-- Fokus pada diskusi yang sesuai topik
-
-Untuk panduan lengkap mengenai etika komunitas, baca:  
-👉 [Aturan & Etika Komunitas](./aturan-komunitas.md)
+- The group will appear automatically after you enroll or purchase the course
+- It can be used for in-depth discussions with mentors or fellow learners
+- Notifications will appear when there are new posts in the group
 
 ---
 
-## 🔔 Notifikasi Diskusi
+## 🎓 Forum & Group Etiquette
 
-Anda akan menerima notifikasi jika:
-- Seseorang membalas topik Anda
-- Anda ditandai dalam sebuah komentar
-- Grup diskusi yang Anda ikuti ada postingan baru
+To keep forums productive and welcoming:
 
-Pengaturan notifikasi bisa disesuaikan di bagian [Preferensi Tampilan](../akun/preferensi.md)
+- Avoid spam or personal promotions
+- Use polite language and avoid offensive remarks
+- Respect others’ opinions
+- Stay on-topic for discussions
+
+For a complete guide on community rules, check:  
+👉 [Community Rules & Etiquette](./aturan-komunitas.md)
 
 ---
 
-Forum adalah tempat di mana pembelajaran tumbuh lewat interaksi. Jangan ragu untuk aktif berdiskusi, bertanya, atau membantu peserta lain.
+## 🔔 Discussion Notifications
+
+You will receive notifications when:
+- Someone replies to your topic
+- You are mentioned in a comment
+- A group you joined has new posts
+
+Notification settings can be adjusted in [Display Preferences](../akun/preferensi.md).
+
+---
+
+Forums are where learning grows through interaction. Don’t hesitate to participate, ask questions, or help fellow learners.

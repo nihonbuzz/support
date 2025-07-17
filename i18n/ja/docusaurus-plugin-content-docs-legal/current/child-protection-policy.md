@@ -1,47 +1,47 @@
 ---
-title: Kebijakan Perlindungan Anak
+title: 子供保護ポリシー
 sidebar_position: 8
-description: Komitmen kami dalam melindungi anak di bawah umur dalam penggunaan platform.
+description: プラットフォーム利用時の未成年者保護に関する当社の取り組み。
 ---
 
-# Kebijakan Perlindungan Anak
+# 子供保護ポリシー
 
-Kami berkomitmen untuk melindungi anak-anak yang menggunakan layanan kami, sesuai dengan ketentuan hukum yang berlaku, termasuk prinsip-prinsip dari Children's Online Privacy Protection Act (COPPA) dan peraturan perlindungan anak lainnya.
+当社は、Children's Online Privacy Protection Act（COPPA）およびその他の児童保護規制を含む適用法令を順守し、サービスを利用する子供を保護することを約束します。
 
-## 1. Usia Minimum
+## 1. 最低年齢
 
-- Platform ini tidak ditujukan untuk anak-anak di bawah usia 13 tahun tanpa persetujuan orang tua atau wali.
-- Pendaftaran akun oleh anak-anak di bawah usia 13 tahun harus disertai izin dan pengawasan dari orang tua atau wali.
+- 本プラットフォームは、保護者の同意なしに13歳未満の子供を対象としていません。
+- 13歳未満の子供がアカウントを登録する場合、保護者の許可と監督が必要です。
 
-## 2. Pengumpulan Informasi
+## 2. 情報の収集
 
-- Kami tidak secara sadar mengumpulkan informasi pribadi dari anak-anak di bawah usia 13 tahun tanpa izin orang tua.
-- Jika diketahui bahwa kami secara tidak sengaja mengumpulkan data dari anak di bawah umur tanpa izin, kami akan segera menghapus data tersebut.
+- 当社は、保護者の同意なしに13歳未満の子供から個人情報を意図的に収集することはありません。
+- 同意なしに未成年者からデータを収集したことが判明した場合、当社は直ちにそのデータを削除します。
 
-## 3. Persetujuan Orang Tua
+## 3. 保護者の同意
 
-- Untuk pengguna anak-anak, kami mewajibkan orang tua atau wali untuk memberikan persetujuan sebelum data pribadi dikumpulkan atau digunakan.
-- Orang tua memiliki hak untuk meninjau, mengubah, atau meminta penghapusan data anak mereka.
+- 子供のユーザーに対しては、個人データを収集または利用する前に、保護者の同意が必要です。
+- 保護者は、子供のデータを確認、変更、または削除を要求する権利を有します。
 
-## 4. Keamanan Data
+## 4. データの安全性
 
-- Kami menerapkan langkah-langkah keamanan teknis dan administratif untuk melindungi informasi anak-anak dari akses atau penggunaan yang tidak sah.
-- Akses ke informasi anak-anak dibatasi hanya untuk staf atau mitra yang membutuhkannya untuk keperluan operasional yang sah.
+- 当社は、子供の情報を不正アクセスや不正使用から保護するための技術的および管理的なセキュリティ対策を実施しています。
+- 子供の情報へのアクセスは、正当な業務目的のために必要なスタッフまたはパートナーに制限されます。
 
-## 5. Interaksi Sosial dan Komunitas
+## 5. ソーシャルおよびコミュニティでのやり取り
 
-- Semua interaksi dalam komunitas, forum, atau kelas online harus sesuai dengan standar etika dan ramah anak.
-- Konten yang tidak pantas, kasar, atau menyesatkan akan segera dihapus, dan pelakunya akan dikenai sanksi.
+- コミュニティフォーラムやオンラインクラスでのすべてのやり取りは、倫理的で子供に優しい基準に従う必要があります。
+- 不適切、虐待的、または誤解を招くコンテンツは直ちに削除され、違反者には制裁が科されます。
 
-## 6. Pelaporan dan Penanganan
+## 6. 報告と対応
 
-- Jika Anda mengetahui adanya pelanggaran terhadap kebijakan ini atau adanya risiko terhadap keselamatan anak, harap segera laporkan kepada tim kami.
-- Kami akan menanggapi laporan tersebut dengan serius dan segera mengambil tindakan yang diperlukan.
+- 本ポリシーの違反や子供の安全に対するリスクを認識した場合は、直ちに当社チームに報告してください。
+- 当社は真剣に対応し、迅速に必要な措置を講じます。
 
-## 7. Perubahan Kebijakan
+## 7. ポリシーの変更
 
-Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Perubahan akan diberitahukan melalui platform dan berlaku setelah diumumkan.
+当社は、必要に応じて本ポリシーを更新する場合があります。変更はプラットフォーム上で告知され、公表後に有効となります。
 
-## 8. Hubungi Kami
+## 8. お問い合わせ
 
-Jika Anda memiliki pertanyaan atau kekhawatiran terkait kebijakan perlindungan anak, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami).
+子供保護ポリシーに関するご質問やご不明点がある場合は、[お問い合わせページ](/hubungi-kami)からご連絡ください。

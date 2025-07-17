@@ -1,42 +1,42 @@
 ---
-title: Pola Visual
-description: Panduan elemen pola dekoratif untuk identitas visual Nihonbuzz.
+title: ビジュアルパターン
+description: Nihonbuzzブランドの装飾パターンガイドライン
 slug: /pattern
 sidebar_position: 5
 ---
 
-# Pola Visual Nihonbuzz
+# Nihonbuzzのビジュアルパターン
 
-Pola visual merupakan elemen dekoratif yang digunakan untuk memperkuat identitas Nihonbuzz secara estetis. Pola-pola ini dapat digunakan sebagai latar belakang, pengisi ruang negatif, atau elemen desain tambahan dalam berbagai media.
+ビジュアルパターンは、Nihonbuzzのブランドアイデンティティを美しく強調するための装飾要素です。背景やネガティブスペースの補填、または追加のデザイン要素として、さまざまなメディアで使用できます。
 
-## Filosofi Pola
+## パターンのコンセプト
 
-Pola kami dirancang dengan mempertimbangkan filosofi berikut:
+Nihonbuzzのパターンは、次のコンセプトに基づいて設計されています：
 
-- **Keteraturan dan ritme**, mencerminkan struktur dan profesionalisme.
-- **Kesederhanaan geometris**, selaras dengan gaya minimalis brand.
-- **Fleksibilitas**, agar dapat diaplikasikan pada berbagai ukuran dan media.
+- **秩序とリズム**：構造とプロフェッショナリズムを表現
+- **シンプルな幾何学的デザイン**：ブランドのミニマルスタイルに合わせる
+- **柔軟性**：さまざまなサイズやメディアに対応可能
 
-## Contoh Pola
+## パターン例
 
-Berikut adalah contoh visual dari pola utama Nihonbuzz:
+こちらはNihonbuzzの主要なパターン例です：
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-  <img src="/assets/Pattern/pattern.png" alt="Contoh Pola PNG" width="200" />
-  <img src="/assets/Pattern/pattern.svg" alt="Contoh Pola SVG" width="200" />
+  <img src="/assets/Pattern/pattern.png" alt="パターンPNG例" width="200" />
+  <img src="/assets/Pattern/pattern.svg" alt="パターンSVG例" width="200" />
 </div>
 
-> Format vektor direkomendasikan untuk cetak dan resolusi tinggi.
+> 印刷や高解像度用途には、ベクターフォーマットを推奨します。
 
-## Format File
+## ファイル形式
 
-Pola tersedia dalam format berikut:
+パターンは次の形式で利用可能です：
 
-- `.svg` – untuk fleksibilitas maksimal (desain web dan cetak)
-- `.png` – untuk pratinjau dan media digital
-- `.eps` – untuk aplikasi profesional berbasis cetak
+- `.svg` – 柔軟性が高く、Webと印刷に最適
+- `.png` – プレビューやデジタルメディア用
+- `.eps` – 印刷用のプロフェッショナルフォーマット
 
-Semua file pola dapat ditemukan di:
+すべてのパターンファイルは以下からダウンロードできます：
 
 ```
 https://brand.nihonbuzz.org/assets/Pattern/pattern.eps
@@ -44,13 +44,13 @@ https://brand.nihonbuzz.org/assets/Pattern/pattern.png
 https://brand.nihonbuzz.org/assets/Pattern/pattern.svg
 ```
 
-## Pedoman Penggunaan
+## 使用ルール
 
-- Gunakan pola dengan opasitas rendah sebagai latar belakang atau aksen visual.
-- Jangan memodifikasi bentuk dasar pola tanpa persetujuan tim desain.
-- Hindari penggunaan berlebihan agar tidak mengganggu konten utama.
-- Kombinasikan dengan warna merek utama untuk konsistensi visual.
+- 背景やアクセントとして使用する場合は、**低い不透明度**を推奨します。
+- デザインチームの承認なしに、パターンの形を変更しないでください。
+- コンテンツを邪魔しないように、パターンの使いすぎには注意してください。
+- ブランドのメインカラーと組み合わせて、統一感を持たせてください。
 
 ---
 
-Jika Anda membutuhkan pola dalam dimensi tertentu atau varian warna khusus, hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+特定サイズやカスタムカラーのパターンが必要な場合は、[support@nihonbuzz.org](/hubungi-kami)までご連絡ください。

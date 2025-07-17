@@ -1,81 +1,81 @@
 ---
-title: Memantau Progress Peserta
+title: 受講者の進捗状況を確認する
 sidebar_position: 2
-description: Panduan bagi instruktur untuk memantau aktivitas belajar dan perkembangan peserta kursus.
+description: 講師が受講者の学習状況やコース進捗を確認するためのガイド。
 ---
 
-# Memantau Progress Peserta
+# 受講者の進捗状況を確認する
 
-Sebagai instruktur, Anda dapat memantau perkembangan peserta yang mengikuti kursus Anda secara real-time. Fitur ini memungkinkan Anda memahami bagaimana peserta berinteraksi dengan materi, menyelesaikan tugas, dan memperoleh nilai dari kuis.
+講師は、コースに参加している受講者の進捗をリアルタイムで追跡できます。この機能により、受講者がどのように教材を利用しているか、課題を完了しているか、クイズでどの程度のスコアを取っているかを把握できます。
 
-Pemantauan ini berguna untuk:
+進捗の確認は、以下に役立ちます：
 
-- Menilai efektivitas materi yang disampaikan
-- Memberikan umpan balik tepat waktu
-- Mengidentifikasi peserta yang mengalami kesulitan
-
----
-
-## 📊 Akses Data Peserta
-
-Untuk melihat data dan progress peserta:
-
-1. Masuk ke **Dashboard Instruktur**
-2. Pilih kursus yang ingin Anda kelola
-3. Klik tab **Peserta / Siswa**
-4. Anda akan melihat daftar peserta dan ringkasan status masing-masing
+- コース内容の効果を評価する
+- タイムリーなフィードバックを提供する
+- 学習に苦戦している受講者を特定する
 
 ---
 
-## 🔍 Informasi yang Tersedia
+## 📊 受講者データへのアクセス
 
-Beberapa informasi penting yang bisa Anda lihat:
+受講者のデータと進捗を確認するには：
 
-- **Nama peserta**
-- **Persentase penyelesaian kursus**
-- **Nilai kuis terakhir**
-- **Tanggal terakhir aktif**
-- **Status sertifikat (jika tersedia)**
-
-Klik pada nama peserta untuk melihat detail lengkap riwayat belajarnya.
+1. **講師ダッシュボード**にログイン
+2. 管理したいコースを選択
+3. **受講者 / 学生**タブをクリック
+4. 受講者の一覧とステータスの概要が表示されます
 
 ---
 
-## 📩 Mengirim Umpan Balik atau Pesan
+## 🔍 確認できる情報
 
-Jika Anda merasa perlu menghubungi peserta tertentu (misalnya, jika mereka tertinggal jauh atau memiliki nilai rendah):
+主な情報は以下の通りです：
 
-- Buka profil peserta dari daftar
-- Klik **Kirim Pesan**
-- Tulis umpan balik atau ajakan untuk menyelesaikan materi
+- **受講者の名前**
+- **コースの進捗率（％）**
+- **最新のクイズスコア**
+- **最終アクティブ日時**
+- **証明書のステータス（該当する場合）**
 
-Komunikasi langsung ini sangat membantu meningkatkan keterlibatan peserta.
-
----
-
-## 🧮 Ekspor Data Peserta
-
-Untuk keperluan dokumentasi atau pelaporan:
-
-- Klik tombol **Ekspor ke CSV**
-- File akan berisi data lengkap semua peserta kursus tersebut
-
-Anda dapat mengelola file ini secara offline menggunakan aplikasi spreadsheet.
+受講者名をクリックすると、学習履歴の詳細を確認できます。
 
 ---
 
-## ✅ Tips Memantau Secara Efektif
+## 📩 フィードバックやメッセージの送信
 
-- Cek progress peserta secara berkala, misalnya setiap minggu
-- Fokus pada peserta dengan tingkat penyelesaian rendah untuk memberikan dukungan
-- Perhatikan statistik kuis untuk mengetahui apakah bagian tertentu dari kursus membingungkan
+特定の受講者に連絡する必要がある場合（例：進捗が遅れている、スコアが低い）：
 
----
+- 受講者リストからプロフィールを開く
+- **「メッセージを送信」**をクリック
+- フィードバックや学習を促すメッセージを記入
 
-## 🆘 Jika Terdapat Ketidaksesuaian Data
-
-Jika Anda menemukan data peserta yang tidak sesuai (misalnya progress tidak tercatat), segera laporkan melalui halaman [Hubungi Kami](../hubungi-kami.md) agar tim teknis dapat memeriksa lebih lanjut.
+直接のコミュニケーションは、受講者のモチベーションを高める効果があります。
 
 ---
 
-Membantu peserta mencapai tujuan belajarnya adalah bagian penting dari peran instruktur. Dengan fitur pemantauan yang tersedia, Anda dapat lebih mudah mendampingi mereka hingga tuntas.
+## 🧮 受講者データのエクスポート
+
+ドキュメント作成や報告用に：
+
+- **「CSVにエクスポート」**ボタンをクリック
+- すべての受講者データを含むファイルが作成されます
+
+このファイルは、スプレッドシートソフトでオフライン管理できます。
+
+---
+
+## ✅ 効果的な進捗確認のヒント
+
+- 毎週など定期的に進捗を確認する
+- 完了率が低い受講者を重点的にサポート
+- クイズの統計を確認し、理解が難しい箇所を特定
+
+---
+
+## 🆘 データの不一致がある場合
+
+進捗が記録されていないなど、データに不一致がある場合は、[お問い合わせ](../hubungi-kami.md)ページからサポートチームに報告してください。
+
+---
+
+受講者の目標達成をサポートすることは、講師としての重要な役割です。進捗管理機能を活用して、受講者がコースを修了できるよう導きましょう。

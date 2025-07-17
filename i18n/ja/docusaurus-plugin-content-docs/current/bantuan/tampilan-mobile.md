@@ -1,87 +1,86 @@
 ---
-title: Masalah Tampilan Mobile
+title: モバイル表示の問題
 sidebar_position: 2
-description: Panduan mengatasi masalah tampilan dan navigasi saat mengakses platform melalui perangkat mobile.
+description: モバイル端末でプラットフォームにアクセスする際の表示やナビゲーションの問題を解決するためのガイド。
 ---
 
-# Masalah Tampilan Mobile
+# モバイル表示の問題
 
-Platform Nihonbuzz Academy dirancang agar responsif dan dapat diakses dengan baik melalui perangkat mobile seperti smartphone dan tablet. Namun, dalam beberapa kasus, Anda mungkin mengalami kendala tampilan atau fungsi tertentu saat menggunakan perangkat mobile.
-
----
-
-## 📱 Gejala Umum Masalah Tampilan
-
-Berikut beberapa kendala yang sering dilaporkan pengguna:
-
-- Tombol atau menu tidak muncul atau tidak bisa ditekan
-- Halaman kursus tidak termuat sempurna
-- Teks terlalu kecil atau terlalu besar
-- Video tidak bisa diputar di layar penuh
-- Scroll tidak berfungsi normal
+Nihonbuzz Academyは、スマートフォンやタブレットなどのモバイル端末で快適に利用できるように設計されています。しかし、一部のケースでは、モバイル端末使用時に表示や機能に関する問題が発生することがあります。
 
 ---
 
-## 🔍 Penyebab & Solusi Umum
+## 📱 よくある表示の問題
 
-### 1. **Versi Peramban Tidak Diperbarui**
-Peramban (browser) versi lama dapat menyebabkan masalah kompatibilitas.
+ユーザーからよく報告される問題は次のとおりです：
 
-👉 **Solusi:**  
-Pastikan Anda menggunakan versi terbaru dari browser seperti Chrome, Safari, atau Firefox.
-
----
-
-### 2. **Koneksi Internet Tidak Stabil**
-Koneksi yang lambat bisa membuat elemen halaman tidak termuat sempurna.
-
-👉 **Solusi:**  
-Gunakan jaringan Wi-Fi yang stabil atau periksa sinyal data seluler Anda.
+- ボタンやメニューが表示されない、またはタップできない
+- コースページが完全に読み込まれない
+- テキストが小さすぎるまたは大きすぎる
+- 動画が全画面で再生できない
+- スクロールが正常に動作しない
 
 ---
 
-### 3. **Ekstensi/Blokir Iklan (Ad Blocker) Aktif**
-Beberapa ekstensi browser mobile atau aplikasi keamanan dapat mengganggu tampilan.
+## 🔍 主な原因と解決策
 
-👉 **Solusi:**  
-Nonaktifkan ekstensi ad blocker atau buka platform menggunakan mode incognito/private.
+### 1. **ブラウザのバージョンが古い**
+古いバージョンのブラウザは互換性の問題を引き起こす可能性があります。
 
----
-
-### 4. **Perangkat Terlalu Kecil atau Lama**
-Beberapa perangkat sangat lama mungkin tidak sepenuhnya kompatibel.
-
-👉 **Solusi:**  
-Jika memungkinkan, gunakan perangkat dengan ukuran layar minimal 5,5 inci dan sistem operasi terbaru.
+👉 **解決策:**  
+Chrome、Safari、Firefoxなどの最新バージョンを使用してください。
 
 ---
 
-### 5. **Cache & Data Browser Bermasalah**
-Cache lama atau data rusak dapat mengganggu tampilan halaman.
+### 2. **インターネット接続が不安定**
+接続が遅いまたは不安定な場合、ページの要素が正常に読み込まれないことがあります。
 
-👉 **Solusi:**  
-Bersihkan cache dan data browser Anda, lalu muat ulang halaman.
-
----
-
-## 💡 Tips Optimal Belajar di Mobile
-
-- Gunakan mode **lanskap (horizontal)** saat menonton video
-- Perbesar tampilan teks jika terasa kecil melalui pengaturan browser
-- Simpan link kursus ke layar utama untuk akses cepat
-- Aktifkan **mode gelap** jika belajar malam hari untuk kenyamanan mata
+👉 **解決策:**  
+安定したWi-Fiを使用するか、モバイルデータの電波を確認してください。
 
 ---
 
-## 🚨 Masih Mengalami Masalah?
+### 3. **広告ブロッカーや拡張機能の有効化**
+一部のモバイルブラウザ拡張機能やセキュリティアプリが表示を妨げる場合があります。
 
-Jika semua langkah di atas tidak berhasil:
+👉 **解決策:**  
+広告ブロッカーを無効化するか、シークレット/プライベートモードでアクセスしてみてください。
 
-1. Catat detail masalah Anda (perangkat, browser, dan versi)
-2. Ambil tangkapan layar (jika perlu)
-3. Laporkan melalui halaman berikut:
+---
 
-👉 [Hubungi Kami](../hubungi-kami.md)
+### 4. **デバイスが小さすぎるまたは古い**
+古いデバイスは完全に互換性がない場合があります。
 
-Kami akan membantu Anda untuk memastikan pengalaman belajar tetap lancar di perangkat apa pun.
+👉 **解決策:**  
+可能であれば、5.5インチ以上の画面と最新のOSを搭載したデバイスを使用してください。
 
+---
+
+### 5. **キャッシュやブラウザデータの破損**
+古いキャッシュや破損したデータはページ表示を妨げることがあります。
+
+👉 **解決策:**  
+ブラウザのキャッシュとデータをクリアし、ページを再読み込みしてください。
+
+---
+
+## 💡 モバイル学習を快適にするヒント
+
+- 動画を見るときは**横向きモード**を使用
+- テキストが小さすぎる場合はブラウザ設定で文字サイズを拡大
+- コースリンクをホーム画面に追加してアクセスを簡単に
+- 夜間学習時は**ダークモード**を有効化して目を保護
+
+---
+
+## 🚨 まだ問題がありますか？
+
+上記の手順を試しても解決しない場合：
+
+1. 問題の詳細（デバイス、ブラウザ、バージョン）を記録
+2. 必要に応じてスクリーンショットを撮影
+3. 次のページから報告してください：
+
+👉 [お問い合わせ](../hubungi-kami.md)
+
+すべてのデバイスで快適な学習体験をサポートします。

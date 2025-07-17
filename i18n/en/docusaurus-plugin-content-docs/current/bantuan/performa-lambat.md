@@ -1,94 +1,94 @@
 ---
-title: Performa Lambat / Timeout
+title: Slow Performance / Timeout
 sidebar_position: 4
-description: Panduan mengatasi masalah loading lambat, timeout, atau gangguan performa saat menggunakan platform.
+description: Guide to troubleshooting slow loading, timeouts, or performance issues when using the platform.
 ---
 
-# Performa Lambat / Timeout
+# Slow Performance / Timeout
 
-Jika platform terasa lambat, tidak merespons, atau muncul pesan **timeout**, ini bisa disebabkan oleh beberapa faktor. Kami memahami bahwa kelancaran akses sangat penting bagi pengalaman belajar Anda. Halaman ini akan membantu Anda mengatasi masalah performa secara mandiri sebelum menghubungi tim dukungan.
-
----
-
-## 🐌 Gejala Umum
-
-- Halaman tidak termuat sepenuhnya
-- Loading video atau kuis terlalu lama
-- Gagal menyimpan progress belajar
-- Timeout saat membuka dashboard atau kursus
+If the platform feels slow, unresponsive, or displays a **timeout** message, it can be caused by several factors. We understand that smooth access is crucial for your learning experience. This page will help you troubleshoot performance issues before contacting our support team.
 
 ---
 
-## 🌐 Penyebab Umum & Solusi
+## 🐌 Common Symptoms
 
-### 1. **Koneksi Internet Tidak Stabil**
-Koneksi yang lambat atau sering terputus adalah penyebab paling umum.
-
-👉 **Solusi:**
-- Coba pindah ke jaringan Wi-Fi yang lebih stabil
-- Gunakan koneksi data seluler yang kuat jika perlu
-- Hindari penggunaan VPN yang dapat memperlambat koneksi
+- Pages do not fully load
+- Videos or quizzes take too long to load
+- Learning progress fails to save
+- Timeout when opening dashboard or courses
 
 ---
 
-### 2. **Terlalu Banyak Tab atau Aplikasi Aktif**
-Performa perangkat Anda bisa terganggu jika terlalu banyak tab browser atau aplikasi berjalan bersamaan.
+## 🌐 Common Causes & Solutions
 
-👉 **Solusi:**
-- Tutup tab yang tidak diperlukan
-- Restart perangkat Anda
-- Gunakan satu tab untuk belajar agar lebih fokus dan ringan
+### 1. **Unstable Internet Connection**
+A slow or frequently disconnected network is the most common cause.
 
----
-
-### 3. **Peramban (Browser) Tidak Kompatibel**
-Beberapa masalah tampilan dan kecepatan bisa terjadi jika Anda menggunakan browser versi lama.
-
-👉 **Solusi:**
-- Gunakan browser versi terbaru seperti Chrome, Firefox, Safari, atau Edge
-- Coba akses platform menggunakan mode **incognito/private**
+👉 **Solution:**
+- Switch to a more stable Wi-Fi network
+- Use strong mobile data if needed
+- Avoid using VPN as it can slow down your connection
 
 ---
 
-### 4. **Cache dan Cookie Bermasalah**
-Cache yang menumpuk atau cookie rusak dapat memperlambat pemuatan halaman.
+### 2. **Too Many Tabs or Apps Open**
+Your device performance may be affected if too many browser tabs or applications are running simultaneously.
 
-👉 **Solusi:**
-- Bersihkan cache dan cookie dari browser Anda secara berkala
-- Setelah dibersihkan, login kembali ke platform
-
----
-
-### 5. **Pemeliharaan Sistem atau Lalu Lintas Tinggi**
-Kadang-kadang server kami sedang mengalami pemeliharaan atau menerima akses pengguna dalam jumlah besar secara bersamaan.
-
-👉 **Solusi:**
-- Tunggu beberapa menit dan coba lagi
-- Periksa pengumuman atau notifikasi jika ada informasi pemeliharaan
+👉 **Solution:**
+- Close unnecessary tabs
+- Restart your device
+- Use a single tab for studying for better focus and speed
 
 ---
 
-## 🧪 Tes Koneksi Anda
+### 3. **Incompatible Browser**
+Display and speed issues may occur if you're using an outdated browser version.
 
-Jika Anda ingin mengecek apakah koneksi Anda memadai:
-
-1. Kunjungi situs [fast.com](https://fast.com)
-2. Pastikan kecepatan unduh (download) minimal 3 Mbps untuk pembelajaran video
-3. Pastikan latensi (ping) rendah dan koneksi stabil
-
----
-
-## 🆘 Masih Mengalami Masalah?
-
-Jika semua langkah di atas sudah dilakukan namun performa tetap lambat:
-
-- Catat waktu dan halaman yang bermasalah
-- Ambil tangkapan layar (jika perlu)
-- Laporkan masalah Anda melalui:  
-  👉 [Hubungi Kami](../hubungi-kami.md)
-
-Tim kami akan membantu mengecek lebih lanjut dari sisi teknis.
+👉 **Solution:**
+- Use the latest version of browsers like Chrome, Firefox, Safari, or Edge
+- Try accessing the platform using **incognito/private mode**
 
 ---
 
-Kami berkomitmen untuk memastikan pengalaman belajar Anda tetap lancar dan nyaman. Terima kasih atas kesabaran dan kerja samanya.
+### 4. **Problematic Cache and Cookies**
+Accumulated or corrupted cache and cookies can slow down page loading.
+
+👉 **Solution:**
+- Clear your browser's cache and cookies regularly
+- After clearing, log back into the platform
+
+---
+
+### 5. **System Maintenance or High Traffic**
+Sometimes our servers undergo maintenance or experience heavy traffic.
+
+👉 **Solution:**
+- Wait a few minutes and try again
+- Check announcements or notifications for maintenance updates
+
+---
+
+## 🧪 Test Your Connection
+
+To check if your internet connection is adequate:
+
+1. Visit [fast.com](https://fast.com)
+2. Ensure a minimum download speed of 3 Mbps for video learning
+3. Ensure low latency (ping) and stable connection
+
+---
+
+## 🆘 Still Experiencing Issues?
+
+If you’ve tried all the above steps but the performance remains slow:
+
+- Note the time and pages with issues
+- Take a screenshot if necessary
+- Report your problem via:  
+  👉 [Contact Us](../hubungi-kami.md)
+
+Our team will investigate further from the technical side.
+
+---
+
+We are committed to ensuring your learning experience remains smooth and comfortable. Thank you for your patience and cooperation.

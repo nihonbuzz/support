@@ -1,49 +1,49 @@
 ---
-title: Kebijakan Cookie
+title: Cookie Policy
 sidebar_position: 5
-description: Informasi tentang penggunaan cookie di situs kami dan preferensi pengguna terkait.
+description: Information about the use of cookies on our site and user preferences.
 ---
 
-# Kebijakan Cookie
+# Cookie Policy
 
-Kebijakan Cookie ini menjelaskan bagaimana kami menggunakan cookie dan teknologi serupa untuk mengenali Anda saat Anda mengunjungi platform kami. Kebijakan ini menjelaskan apa teknologi ini, mengapa kami menggunakannya, serta hak Anda untuk mengontrol penggunaannya.
+This Cookie Policy explains how we use cookies and similar technologies to recognize you when you visit our platform. It describes what these technologies are, why we use them, and your rights to control their use.
 
-## 1. Apa Itu Cookie?
+## 1. What Are Cookies?
 
-Cookie adalah file teks kecil yang disimpan di perangkat Anda saat Anda mengakses situs web. Cookie digunakan untuk menyimpan informasi tentang kunjungan Anda, seperti preferensi bahasa, status login, atau item yang ada di keranjang belanja.
+Cookies are small text files stored on your device when you access a website. They are used to store information about your visit, such as language preferences, login status, or items in your shopping cart.
 
-## 2. Jenis Cookie yang Kami Gunakan
+## 2. Types of Cookies We Use
 
-Kami menggunakan beberapa jenis cookie berikut:
+We use the following types of cookies:
 
-- **Cookie yang Diperlukan**: Cookie ini penting untuk fungsi dasar situs kami dan tidak dapat dimatikan.
-- **Cookie Fungsional**: Cookie ini memungkinkan situs kami mengingat pilihan yang Anda buat untuk memberikan pengalaman yang lebih personal.
-- **Cookie Analitik**: Cookie ini membantu kami memahami cara pengunjung berinteraksi dengan situs kami, termasuk halaman mana yang paling sering dikunjungi.
-- **Cookie Pemasaran**: Cookie ini digunakan untuk menampilkan iklan yang relevan dengan minat Anda.
+- **Essential Cookies**: These cookies are necessary for the basic functioning of our site and cannot be disabled.
+- **Functional Cookies**: These cookies allow our site to remember your choices for a more personalized experience.
+- **Analytics Cookies**: These cookies help us understand how visitors interact with our site, including which pages are most frequently visited.
+- **Marketing Cookies**: These cookies are used to display ads relevant to your interests.
 
-## 3. Tujuan Penggunaan Cookie
+## 3. Purpose of Using Cookies
 
-Kami menggunakan cookie untuk:
+We use cookies to:
 
-- Memastikan fungsi dasar situs berjalan dengan baik.
-- Mengingat preferensi pengguna untuk kunjungan berikutnya.
-- Menganalisis performa situs dan perilaku pengunjung.
-- Menyediakan iklan dan konten yang relevan dengan minat Anda.
+- Ensure the basic functionality of the website.
+- Remember user preferences for future visits.
+- Analyze site performance and user behavior.
+- Provide ads and content relevant to your interests.
 
-## 4. Pengendalian Cookie
+## 4. Controlling Cookies
 
-Anda dapat mengatur atau menonaktifkan cookie melalui pengaturan browser Anda. Namun, menonaktifkan cookie tertentu dapat memengaruhi fungsionalitas dan pengalaman pengguna situs kami.
+You can manage or disable cookies through your browser settings. However, disabling certain cookies may affect the functionality and user experience of our site.
 
-Untuk informasi lebih lanjut tentang cara mengelola cookie, Anda dapat mengunjungi dokumentasi browser yang Anda gunakan, seperti:
+For more information on managing cookies, visit the documentation for your browser:
 
 - [Google Chrome](https://support.google.com/chrome/answer/95647)
 - [Mozilla Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
-- [Safari](https://support.apple.com/id-id/HT201265)
+- [Safari](https://support.apple.com/en-us/HT201265)
 
-## 5. Perubahan terhadap Kebijakan Cookie
+## 5. Changes to This Cookie Policy
 
-Kami dapat memperbarui Kebijakan Cookie ini dari waktu ke waktu. Setiap perubahan akan diumumkan melalui halaman ini dan berlaku segera setelah dipublikasikan.
+We may update this Cookie Policy from time to time. Any changes will be posted on this page and will take effect immediately upon publication.
 
-## 6. Hubungi Kami
+## 6. Contact Us
 
-Jika Anda memiliki pertanyaan mengenai Kebijakan Cookie ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami) atau email resmi yang tersedia di platform kami.
+If you have any questions regarding this Cookie Policy, please contact us via the [Contact page](/hubungi-kami) or through the official email available on our platform.

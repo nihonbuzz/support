@@ -1,47 +1,47 @@
 ---
-title: Kebijakan Perlindungan Anak
+title: Child Protection Policy
 sidebar_position: 8
-description: Komitmen kami dalam melindungi anak di bawah umur dalam penggunaan platform.
+description: Our commitment to protecting minors when using the platform.
 ---
 
-# Kebijakan Perlindungan Anak
+# Child Protection Policy
 
-Kami berkomitmen untuk melindungi anak-anak yang menggunakan layanan kami, sesuai dengan ketentuan hukum yang berlaku, termasuk prinsip-prinsip dari Children's Online Privacy Protection Act (COPPA) dan peraturan perlindungan anak lainnya.
+We are committed to protecting children who use our services, in compliance with applicable laws, including principles from the Children's Online Privacy Protection Act (COPPA) and other child protection regulations.
 
-## 1. Usia Minimum
+## 1. Minimum Age
 
-- Platform ini tidak ditujukan untuk anak-anak di bawah usia 13 tahun tanpa persetujuan orang tua atau wali.
-- Pendaftaran akun oleh anak-anak di bawah usia 13 tahun harus disertai izin dan pengawasan dari orang tua atau wali.
+- This platform is not intended for children under 13 years old without parental or guardian consent.
+- Account registration by children under 13 must be accompanied by parental or guardian permission and supervision.
 
-## 2. Pengumpulan Informasi
+## 2. Information Collection
 
-- Kami tidak secara sadar mengumpulkan informasi pribadi dari anak-anak di bawah usia 13 tahun tanpa izin orang tua.
-- Jika diketahui bahwa kami secara tidak sengaja mengumpulkan data dari anak di bawah umur tanpa izin, kami akan segera menghapus data tersebut.
+- We do not knowingly collect personal information from children under 13 without parental consent.
+- If it is discovered that we have unintentionally collected data from a minor without consent, we will promptly delete the data.
 
-## 3. Persetujuan Orang Tua
+## 3. Parental Consent
 
-- Untuk pengguna anak-anak, kami mewajibkan orang tua atau wali untuk memberikan persetujuan sebelum data pribadi dikumpulkan atau digunakan.
-- Orang tua memiliki hak untuk meninjau, mengubah, atau meminta penghapusan data anak mereka.
+- For child users, we require parents or guardians to provide consent before collecting or using personal data.
+- Parents have the right to review, modify, or request deletion of their child's data.
 
-## 4. Keamanan Data
+## 4. Data Security
 
-- Kami menerapkan langkah-langkah keamanan teknis dan administratif untuk melindungi informasi anak-anak dari akses atau penggunaan yang tidak sah.
-- Akses ke informasi anak-anak dibatasi hanya untuk staf atau mitra yang membutuhkannya untuk keperluan operasional yang sah.
+- We implement technical and administrative security measures to protect children's information from unauthorized access or misuse.
+- Access to children's information is restricted to staff or partners who need it for legitimate operational purposes.
 
-## 5. Interaksi Sosial dan Komunitas
+## 5. Social and Community Interactions
 
-- Semua interaksi dalam komunitas, forum, atau kelas online harus sesuai dengan standar etika dan ramah anak.
-- Konten yang tidak pantas, kasar, atau menyesatkan akan segera dihapus, dan pelakunya akan dikenai sanksi.
+- All interactions in community forums or online classes must adhere to ethical and child-friendly standards.
+- Inappropriate, abusive, or misleading content will be promptly removed, and offenders will be sanctioned.
 
-## 6. Pelaporan dan Penanganan
+## 6. Reporting and Handling
 
-- Jika Anda mengetahui adanya pelanggaran terhadap kebijakan ini atau adanya risiko terhadap keselamatan anak, harap segera laporkan kepada tim kami.
-- Kami akan menanggapi laporan tersebut dengan serius dan segera mengambil tindakan yang diperlukan.
+- If you become aware of any violation of this policy or a risk to child safety, please report it to our team immediately.
+- We will respond seriously and take necessary action promptly.
 
-## 7. Perubahan Kebijakan
+## 7. Policy Changes
 
-Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Perubahan akan diberitahukan melalui platform dan berlaku setelah diumumkan.
+We may update this policy from time to time. Changes will be announced on the platform and take effect once published.
 
-## 8. Hubungi Kami
+## 8. Contact Us
 
-Jika Anda memiliki pertanyaan atau kekhawatiran terkait kebijakan perlindungan anak, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami).
+If you have questions or concerns regarding this Child Protection Policy, please contact us via the [Contact page](/hubungi-kami).

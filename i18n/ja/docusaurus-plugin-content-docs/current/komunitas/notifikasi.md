@@ -1,84 +1,83 @@
 ---
-title: Notifikasi & Aktivitas
+title: 通知とアクティビティ
 sidebar_position: 4
-description: Pelajari cara kerja notifikasi, jenis-jenisnya, dan bagaimana Anda bisa mengatur atau menyesuaikan pemberitahuan di Nihonbuzz Academy.
+description: Nihonbuzz Academyでの通知の仕組み、種類、および通知の管理・カスタマイズ方法を学びましょう。
 ---
 
-# Notifikasi & Aktivitas
+# 通知とアクティビティ
 
-Sistem notifikasi membantu Anda tetap terhubung dengan semua aktivitas penting dalam akun, kursus, dan komunitas. Anda akan menerima pemberitahuan saat ada interaksi baru, pembaruan materi, atau aktivitas lain yang relevan dengan perjalanan belajar Anda.
-
----
-
-## 🔔 Jenis Notifikasi
-
-Berikut beberapa jenis notifikasi yang umum Anda terima:
-
-### 📚 Pembelajaran
-- Pemberitahuan kursus baru yang Anda ikuti
-- Pengingat menyelesaikan modul atau kuis
-- Tugas yang perlu dikumpulkan atau telah dinilai
-- Sertifikat yang sudah tersedia
-
-### 👥 Komunitas
-- Balasan di forum atau grup yang Anda ikuti
-- Pesan pribadi dari anggota lain
-- Aktivitas diskusi dalam grup kursus
-
-### 💼 Akun & Sistem
-- Perubahan pada profil atau pengaturan akun
-- Status pembayaran atau langganan
-- Informasi penting dari tim akademi
+通知システムは、アカウント、コース、コミュニティでの重要な活動に常に接続できるようにします。新しいやり取りや教材の更新、学習に関する他のアクティビティがある場合、通知を受け取ることができます。
 
 ---
 
-## ⚙️ Mengatur Preferensi Notifikasi
+## 🔔 通知の種類
 
-Anda bisa menyesuaikan jenis dan cara Anda menerima notifikasi:
+以下は、受け取る可能性のある一般的な通知の種類です：
 
-1. Buka **Dashboard > Akun > Preferensi Notifikasi**
-2. Pilih jenis notifikasi yang ingin Anda aktifkan atau nonaktifkan
-3. Pilih metode notifikasi: di dalam platform, email, atau keduanya
-4. Simpan perubahan
+### 📚 学習関連
+- 登録した新しいコースの通知
+- モジュールやクイズの完了リマインダー
+- 提出が必要な課題や採点済み課題
+- 発行された修了証明書
 
-Untuk pengaturan lebih lanjut, lihat juga:  
-👉 [Bahasa & Preferensi Tampilan](../akun/preferensi.md)
+### 👥 コミュニティ関連
+- フォーラムやグループへの返信
+- 他のメンバーからのプライベートメッセージ
+- 受講コースのグループディスカッションの更新
 
----
-
-## 📩 Notifikasi Email
-
-Secara default, Anda akan menerima notifikasi penting melalui email, seperti:
-
-- Aktivasi akun dan reset sandi
-- Sertifikat selesai
-- Pesan pribadi dari anggota
-
-**Tips:** Pastikan email Anda aktif dan tidak masuk ke folder spam. Bila Anda tidak menerima email, baca panduan:  
-👉 [Email Tidak Masuk (Reset / Aktivasi)](../bantuan/email-tidak-masuk.md)
+### 💼 アカウントとシステム関連
+- プロフィールやアカウント設定の変更
+- 支払いまたはサブスクリプションのステータス
+- アカデミーチームからの重要なお知らせ
 
 ---
 
-## 🔕 Menonaktifkan atau Menghentikan Notifikasi
+## ⚙️ 通知設定の管理
 
-Jika merasa terganggu oleh notifikasi tertentu:
+通知の種類や受信方法をカスタマイズできます：
 
-- Anda bisa menonaktifkan notifikasi spesifik di pengaturan akun
-- Untuk keluar dari grup diskusi, gunakan opsi **"Keluar dari Grup"**
-- Untuk berhenti menerima email dari forum, klik tautan **berhenti berlangganan** di bagian bawah email
+1. **ダッシュボード > アカウント > 通知設定**を開きます
+2. 有効または無効にする通知を選択します
+3. 通知方法を選択：アプリ内、メール、または両方
+4. 変更を保存します
 
----
-
-## 🧭 Riwayat Aktivitas
-
-Semua notifikasi dan aktivitas juga tercatat di halaman **Aktivitas Saya**, yang bisa Anda akses dari dashboard.
-
-Di sana Anda bisa melihat:
-- Kursus terakhir yang diikuti
-- Riwayat forum dan pesan
-- Update terbaru dari grup diskusi
+詳細設定はこちら：  
+👉 [言語と表示設定](../akun/preferensi.md)
 
 ---
 
-Dengan pengaturan notifikasi yang tepat, Anda tidak akan ketinggalan perkembangan apa pun dalam proses belajar Anda.
+## 📩 メール通知
 
+デフォルトで、次のような重要な通知はメールで届きます：
+
+- アカウントの有効化およびパスワードリセット
+- 修了証明書の発行
+- メンバーからのプライベートメッセージ
+
+**ヒント:** メールが有効で、迷惑メールフォルダを確認してください。メールが届かない場合はこちら：  
+👉 [メールが届かない場合（リセット / 有効化）](../bantuan/email-tidak-masuk.md)
+
+---
+
+## 🔕 通知を無効化または停止する
+
+特定の通知が不要な場合：
+
+- アカウント設定で通知を個別に無効化できます
+- グループディスカッションから退出するには、**「グループを退出」**を使用します
+- フォーラムのメール通知を停止するには、メール下部の**購読解除**リンクをクリックします
+
+---
+
+## 🧭 アクティビティ履歴
+
+すべての通知とアクティビティは、ダッシュボードからアクセスできる**マイアクティビティ**ページに記録されています。
+
+ここでは次の内容を確認できます：
+- 最近アクセスしたコース
+- フォーラムやメッセージの履歴
+- グループディスカッションの最新情報
+
+---
+
+適切な通知設定により、学習プロセスで重要な更新を見逃すことはありません。

@@ -1,71 +1,71 @@
 ---
-title: Kirim Pesan & Interaksi
+title: Send Messages & Interact
 sidebar_position: 2
-description: Panduan mengirim pesan langsung ke anggota lain, serta cara berinteraksi secara positif dalam komunitas Nihonbuzz Academy.
+description: A guide to sending direct messages to other members and interacting positively within the Nihonbuzz Academy community.
 ---
 
-# Kirim Pesan & Interaksi
+# Send Messages & Interact
 
-Di Nihonbuzz Academy, Anda tidak hanya belajar secara mandiri, tetapi juga bisa membangun koneksi dengan peserta lain. Fitur **pesan pribadi** memungkinkan Anda untuk berinteraksi secara langsung, bertukar pengalaman, dan mendiskusikan materi secara lebih personal.
-
----
-
-## ✉️ Mengirim Pesan ke Anggota
-
-Untuk mengirim pesan:
-
-1. Login ke akun Anda
-2. Kunjungi profil anggota yang ingin Anda hubungi
-3. Klik tombol **"Kirim Pesan"**
-4. Tulis pesan Anda, lalu klik **"Kirim"**
-
-Pesan akan langsung masuk ke kotak masuk penerima. Jika anggota tersebut membalas, Anda akan mendapatkan notifikasi.
+At Nihonbuzz Academy, learning isn’t just about studying alone—you can also build connections with fellow learners. The **private messaging** feature allows you to interact directly, share experiences, and discuss materials more personally.
 
 ---
 
-## 📥 Mengelola Pesan Masuk
+## ✉️ Sending a Message to a Member
 
-Untuk membuka dan mengelola pesan:
+To send a message:
 
-- Buka menu **Pesan** di dashboard
-- Klik pada percakapan untuk membacanya
-- Balas pesan langsung dari kotak percakapan
-- Hapus atau arsipkan pesan yang sudah tidak diperlukan
+1. Log in to your account
+2. Visit the profile of the member you want to contact
+3. Click the **“Send Message”** button
+4. Write your message, then click **“Send”**
 
-**Catatan:** Jika Anda menerima pesan yang mengganggu, Anda dapat memblokir pengirim atau melaporkannya ke tim dukungan.
-
----
-
-## 🤝 Etika Berinteraksi
-
-Agar interaksi antaranggota tetap nyaman dan positif, ikuti panduan berikut:
-
-- Gunakan bahasa yang sopan dan tidak menyinggung
-- Jangan kirim spam, promosi, atau ajakan di luar konteks belajar
-- Hormati privasi dan waktu anggota lain
-- Jika ingin bertanya tentang materi, usahakan jelas dan relevan
-
-Pelanggaran terhadap etika ini dapat dikenakan peringatan hingga penangguhan akun.
+The message will be delivered to the recipient’s inbox. You’ll receive a notification if they reply.
 
 ---
 
-## 🔐 Privasi Pesan
+## 📥 Managing Incoming Messages
 
-Semua pesan antaranggota bersifat pribadi dan tidak dapat diakses oleh pengguna lain. Namun, sistem dapat melakukan peninjauan jika ada laporan penyalahgunaan.
+To view and manage messages:
 
-Jika Anda menerima pesan yang tidak pantas, segera laporkan melalui opsi **"Laporkan Pesan"** di percakapan tersebut.
+- Open the **Messages** menu on your dashboard
+- Click a conversation to read it
+- Reply directly from the chat window
+- Delete or archive messages you no longer need
 
----
-
-## 💡 Tips Membangun Relasi Positif
-
-- Sapa anggota lain setelah menyelesaikan kursus yang sama
-- Ucapkan terima kasih jika terbantu dari diskusi
-- Ajukan kolaborasi belajar jika memiliki minat yang sama
-
-Dengan komunikasi yang baik, Anda tidak hanya belajar materi, tapi juga membangun jejaring yang bermanfaat di dunia nyata.
+**Note:** If you receive any disturbing messages, you can block the sender or report it to our support team.
 
 ---
 
-Selanjutnya, pelajari aturan lengkap komunitas kami di halaman:  
-👉 [Aturan & Etika Komunitas](./aturan-komunitas.md)
+## 🤝 Interaction Etiquette
+
+To maintain a comfortable and positive interaction, follow these guidelines:
+
+- Use polite and respectful language
+- Do not send spam, promotions, or unrelated invitations
+- Respect others’ privacy and time
+- When asking about a course topic, be clear and relevant
+
+Violations of these rules may result in warnings or account suspension.
+
+---
+
+## 🔐 Message Privacy
+
+All private messages between members are confidential and cannot be accessed by other users. However, our system may review messages if there is a report of abuse.
+
+If you receive an inappropriate message, report it immediately using the **“Report Message”** option in the conversation.
+
+---
+
+## 💡 Tips for Building Positive Connections
+
+- Greet members after completing the same course
+- Express gratitude when you receive helpful advice
+- Suggest study collaborations if you share similar interests
+
+Good communication helps you learn better and build meaningful real-world networks.
+
+---
+
+Next, read the full community guidelines here:  
+👉 [Community Rules & Etiquette](./aturan-komunitas.md)

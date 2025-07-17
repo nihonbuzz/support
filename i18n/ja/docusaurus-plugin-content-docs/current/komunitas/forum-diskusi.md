@@ -1,76 +1,76 @@
 ---
-title: Forum & Grup Diskusi
+title: フォーラムとディスカッショングループ
 sidebar_position: 1
-description: Panduan menggunakan forum dan grup diskusi untuk berinteraksi, bertanya, dan berbagi pengetahuan bersama sesama peserta.
+description: フォーラムやディスカッショングループを使用して、他の学習者と交流し、質問し、知識を共有するためのガイド。
 ---
 
-# Forum & Grup Diskusi
+# フォーラムとディスカッショングループ
 
-Komunitas pembelajar adalah bagian penting dari pengalaman di Nihonbuzz Academy. Melalui fitur forum dan grup diskusi, Anda dapat **berinteraksi dengan peserta lain**, **bertanya**, **mendapatkan jawaban dari mentor**, serta **berbagi pengalaman** belajar.
-
----
-
-## 💬 Apa Itu Forum & Grup?
-
-**Forum** adalah ruang diskusi terbuka untuk topik tertentu yang berkaitan dengan kursus atau komunitas.
-
-**Grup Diskusi** biasanya bersifat lebih spesifik dan dapat terhubung langsung dengan:
-- Kursus tertentu
-- Kelas atau batch tertentu
-- Topik minat (misalnya: JLPT, budaya kerja, magang, dll.)
+学習コミュニティは、Nihonbuzz Academy の体験において重要な要素です。フォーラムやディスカッショングループを通じて、**他の参加者と交流したり**、**質問したり**、**メンターから回答を得たり**、**学習体験を共有することができます**。
 
 ---
 
-## 👥 Bergabung dengan Forum
+## 💬 フォーラムとグループとは？
 
-Untuk mengakses forum:
+**フォーラム**は、コースやコミュニティに関連する特定のトピックについてオープンに議論するスペースです。
 
-1. Login ke akun Anda
-2. Buka menu **Komunitas** dari dashboard
-3. Pilih kategori forum yang relevan
-4. Klik salah satu topik untuk membaca atau menanggapi
-5. Gunakan tombol **“Buat Topik Baru”** jika ingin memulai diskusi
-
-**Tips:**
-- Selalu baca deskripsi forum sebelum posting
-- Gunakan judul yang jelas dan ringkas
-- Sertakan konteks atau pertanyaan yang spesifik
+**ディスカッショングループ**は、より特化しており、次のものと直接関連付けられる場合があります：
+- 特定のコース
+- 特定のクラスやバッチ
+- 興味のあるトピック（例：JLPT、職場文化、インターンシップなど）
 
 ---
 
-## 📌 Grup Diskusi Kursus
+## 👥 フォーラムに参加する
 
-Setiap kursus berbayar biasanya memiliki **grup diskusi khusus** yang hanya bisa diakses oleh peserta kursus tersebut.
+フォーラムにアクセスするには：
 
-- Grup ini muncul otomatis setelah Anda mendaftar atau membeli kursus
-- Bisa digunakan untuk diskusi lebih dalam bersama mentor atau peserta lainnya
-- Notifikasi akan muncul jika ada diskusi baru di grup
+1. アカウントにログインします
+2. ダッシュボードの**コミュニティ**メニューを開きます
+3. 関連するフォーラムカテゴリを選択します
+4. トピックをクリックして読むか返信します
+5. 新しいディスカッションを開始したい場合は、**「新しいトピックを作成」**ボタンを使用します
 
----
-
-## 🎓 Etika dalam Forum & Grup
-
-Agar forum tetap kondusif dan bermanfaat:
-
-- Hindari spam atau promosi pribadi
-- Gunakan bahasa yang sopan dan tidak menyerang
-- Hargai pendapat orang lain
-- Fokus pada diskusi yang sesuai topik
-
-Untuk panduan lengkap mengenai etika komunitas, baca:  
-👉 [Aturan & Etika Komunitas](./aturan-komunitas.md)
+**ヒント:**
+- 投稿する前に必ずフォーラムの説明を読んでください
+- 明確で簡潔なタイトルを使用してください
+- コンテキストや具体的な質問を含めましょう
 
 ---
 
-## 🔔 Notifikasi Diskusi
+## 📌 コース専用ディスカッショングループ
 
-Anda akan menerima notifikasi jika:
-- Seseorang membalas topik Anda
-- Anda ditandai dalam sebuah komentar
-- Grup diskusi yang Anda ikuti ada postingan baru
+有料コースには通常、そのコース参加者のみがアクセスできる**専用ディスカッショングループ**があります。
 
-Pengaturan notifikasi bisa disesuaikan di bagian [Preferensi Tampilan](../akun/preferensi.md)
+- 登録または購入後、自動的にグループが表示されます
+- メンターや他の学習者と深い議論を行うために使用できます
+- グループで新しい投稿があると通知されます
 
 ---
 
-Forum adalah tempat di mana pembelajaran tumbuh lewat interaksi. Jangan ragu untuk aktif berdiskusi, bertanya, atau membantu peserta lain.
+## 🎓 フォーラムとグループでのエチケット
+
+フォーラムを生産的で快適に保つために：
+
+- スパムや個人的な宣伝は禁止
+- 丁寧な言葉を使い、攻撃的な発言を避ける
+- 他人の意見を尊重する
+- トピックに沿った議論を心がける
+
+コミュニティルールの完全ガイドはこちらをご覧ください：  
+👉 [コミュニティのルールとエチケット](./aturan-komunitas.md)
+
+---
+
+## 🔔 ディスカッション通知
+
+次の場合に通知を受け取ります：
+- あなたのトピックに誰かが返信したとき
+- コメントであなたがメンションされたとき
+- 参加しているグループに新しい投稿があったとき
+
+通知設定は[表示設定](../akun/preferensi.md)で調整できます。
+
+---
+
+フォーラムは、交流を通じて学びが広がる場所です。ぜひ積極的に参加し、質問し、他の学習者を助けてください。

@@ -1,31 +1,31 @@
 ---
-title: Kebijakan & Ketentuan
-description: Halaman pengantar untuk seluruh kebijakan dan ketentuan yang berlaku di platform kami.
+title: ポリシー＆利用規約
+description: 当プラットフォームに適用されるすべてのポリシーと利用規約の紹介ページです。
 sidebar_position: 1
 slug: /
 ---
 
-# Kebijakan & Ketentuan NihonBuzz Academy
+# NihonBuzz Academy ポリシー＆利用規約
 
-Selamat datang di halaman **Kebijakan & Ketentuan** kami. Di sini Anda dapat menemukan seluruh dokumen hukum yang mengatur penggunaan platform kami, hak dan kewajiban pengguna, serta informasi penting lainnya terkait privasi, keamanan, dan kepatuhan hukum.
+こちらは**ポリシー＆利用規約**ページです。プラットフォームの利用に関するすべての法的文書、ユーザーの権利と義務、プライバシー、セキュリティ、法令遵守に関する重要な情報をご覧いただけます。
 
-Kami menyarankan Anda membaca dengan saksama setiap dokumen agar memahami bagaimana kami menjalankan layanan serta bagaimana hak dan data Anda dilindungi.
+サービスの運営方法や、あなたの権利とデータがどのように保護されているかを理解するため、各ドキュメントをよくお読みください。
 
-## Daftar Dokumen Hukum
+## 法的文書一覧
 
-- [Kebijakan Privasi](/legal/privacy-policy)
-- [Syarat dan Ketentuan Layanan](/legal/terms-of-service)
-- [Kebijakan Pengembalian Dana dan Pengembalian Barang](/legal/refund-return-policy)
-- [Kebijakan Cookie](/legal/cookie-policy)
-- [Perjanjian Pengguna](/legal/user-agreement)
-- [Perjanjian Instruktur](/legal/instructor-agreement)
-- [Kebijakan Perlindungan Anak](/legal/child-protection-policy)
-- [Pemberitahuan Hak Cipta](/legal/copyright-notice)
-- [Pemberitahuan DMCA](/legal/dmca-notice)
-- [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy)
-- [Kebijakan Kekayaan Intelektual](/legal/intellectual-property-policy)
-- [Penafian (Disclaimer)](/legal/disclaimer)
+- [プライバシーポリシー](/legal/privacy-policy)
+- [利用規約](/legal/terms-of-service)
+- [返金・返品ポリシー](/legal/refund-return-policy)
+- [クッキーポリシー](/legal/cookie-policy)
+- [ユーザー同意書](/legal/user-agreement)
+- [講師同意書](/legal/instructor-agreement)
+- [児童保護ポリシー](/legal/child-protection-policy)
+- [著作権に関する通知](/legal/copyright-notice)
+- [DMCA通知](/legal/dmca-notice)
+- [支払いセキュリティポリシー](/legal/payment-security-policy)
+- [知的財産ポリシー](/legal/intellectual-property-policy)
+- [免責事項](/legal/disclaimer)
 
-Jika Anda memiliki pertanyaan, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+質問がある場合は、[お問い合わせページ](/hubungi-kami)または [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。
 
-**Terakhir diperbarui:** 13 Juli 2025
+**最終更新日:** 2025年7月13日

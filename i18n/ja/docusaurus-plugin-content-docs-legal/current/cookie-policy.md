@@ -1,49 +1,49 @@
 ---
-title: Kebijakan Cookie
+title: クッキーポリシー
 sidebar_position: 5
-description: Informasi tentang penggunaan cookie di situs kami dan preferensi pengguna terkait.
+description: 当サイトでのクッキー使用とユーザー設定に関する情報。
 ---
 
-# Kebijakan Cookie
+# クッキーポリシー
 
-Kebijakan Cookie ini menjelaskan bagaimana kami menggunakan cookie dan teknologi serupa untuk mengenali Anda saat Anda mengunjungi platform kami. Kebijakan ini menjelaskan apa teknologi ini, mengapa kami menggunakannya, serta hak Anda untuk mengontrol penggunaannya.
+本クッキーポリシーは、当社がどのようにクッキーや類似技術を使用して、プラットフォーム訪問時にユーザーを認識するかを説明します。また、これらの技術が何であるか、なぜ使用するのか、ユーザーが管理できる権利についても説明します。
 
-## 1. Apa Itu Cookie?
+## 1. クッキーとは？
 
-Cookie adalah file teks kecil yang disimpan di perangkat Anda saat Anda mengakses situs web. Cookie digunakan untuk menyimpan informasi tentang kunjungan Anda, seperti preferensi bahasa, status login, atau item yang ada di keranjang belanja.
+クッキーとは、ウェブサイトにアクセスした際にデバイスに保存される小さなテキストファイルです。言語設定、ログイン状態、ショッピングカート内の商品など、訪問に関する情報を保存するために使用されます。
 
-## 2. Jenis Cookie yang Kami Gunakan
+## 2. 使用するクッキーの種類
 
-Kami menggunakan beberapa jenis cookie berikut:
+当社は以下の種類のクッキーを使用します：
 
-- **Cookie yang Diperlukan**: Cookie ini penting untuk fungsi dasar situs kami dan tidak dapat dimatikan.
-- **Cookie Fungsional**: Cookie ini memungkinkan situs kami mengingat pilihan yang Anda buat untuk memberikan pengalaman yang lebih personal.
-- **Cookie Analitik**: Cookie ini membantu kami memahami cara pengunjung berinteraksi dengan situs kami, termasuk halaman mana yang paling sering dikunjungi.
-- **Cookie Pemasaran**: Cookie ini digunakan untuk menampilkan iklan yang relevan dengan minat Anda.
+- **必須クッキー**：サイトの基本機能に必要であり、無効化できません。
+- **機能クッキー**：ユーザーの選択を記憶し、よりパーソナライズされた体験を提供します。
+- **分析クッキー**：訪問者がサイトとどのようにやり取りしているかを理解するのに役立ちます。
+- **マーケティングクッキー**：ユーザーの興味に関連する広告を表示します。
 
-## 3. Tujuan Penggunaan Cookie
+## 3. クッキー使用の目的
 
-Kami menggunakan cookie untuk:
+当社は次の目的でクッキーを使用します：
 
-- Memastikan fungsi dasar situs berjalan dengan baik.
-- Mengingat preferensi pengguna untuk kunjungan berikutnya.
-- Menganalisis performa situs dan perilaku pengunjung.
-- Menyediakan iklan dan konten yang relevan dengan minat Anda.
+- サイトの基本機能を確保するため。
+- 将来の訪問のためにユーザー設定を記憶するため。
+- サイトのパフォーマンスとユーザー行動を分析するため。
+- ユーザーの興味に関連する広告やコンテンツを提供するため。
 
-## 4. Pengendalian Cookie
+## 4. クッキーの管理
 
-Anda dapat mengatur atau menonaktifkan cookie melalui pengaturan browser Anda. Namun, menonaktifkan cookie tertentu dapat memengaruhi fungsionalitas dan pengalaman pengguna situs kami.
+ブラウザの設定でクッキーを管理または無効にできます。ただし、特定のクッキーを無効にすると、サイトの機能やユーザー体験に影響する場合があります。
 
-Untuk informasi lebih lanjut tentang cara mengelola cookie, Anda dapat mengunjungi dokumentasi browser yang Anda gunakan, seperti:
+クッキーの管理について詳しくは、以下のブラウザの公式ガイドをご覧ください：
 
 - [Google Chrome](https://support.google.com/chrome/answer/95647)
-- [Mozilla Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
-- [Safari](https://support.apple.com/id-id/HT201265)
+- [Mozilla Firefox](https://support.mozilla.org/ja/kb/clear-cookies-and-site-data-firefox)
+- [Safari](https://support.apple.com/ja-jp/HT201265)
 
-## 5. Perubahan terhadap Kebijakan Cookie
+## 5. クッキーポリシーの変更
 
-Kami dapat memperbarui Kebijakan Cookie ini dari waktu ke waktu. Setiap perubahan akan diumumkan melalui halaman ini dan berlaku segera setelah dipublikasikan.
+当社は本ポリシーを随時更新する場合があります。変更は本ページに掲載され、公開後すぐに有効となります。
 
-## 6. Hubungi Kami
+## 6. お問い合わせ
 
-Jika Anda memiliki pertanyaan mengenai Kebijakan Cookie ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami) atau email resmi yang tersedia di platform kami.
+本クッキーポリシーに関するご質問は、[お問い合わせページ](/hubungi-kami)または当社の公式メールアドレスまでご連絡ください。

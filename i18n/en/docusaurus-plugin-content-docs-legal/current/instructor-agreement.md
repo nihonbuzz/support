@@ -1,51 +1,51 @@
 ---
-title: Perjanjian Instruktur
+title: Instructor Agreement
 sidebar_position: 7
-description: Ketentuan kerja sama antara platform dan instruktur.
+description: Terms of cooperation between the platform and instructors.
 ---
 
-# Perjanjian Penyedia Layanan (Instruktur)
+# Service Provider Agreement (Instructor)
 
-Perjanjian ini mengatur hubungan hukum antara platform kami dan Anda sebagai penyedia konten atau instruktur yang berkontribusi dalam menyediakan kursus, materi, atau layanan lainnya melalui platform.
+This agreement governs the legal relationship between our platform and you as a content provider or instructor contributing to courses, materials, or other services on the platform.
 
-Dengan mendaftar sebagai instruktur dan menggunakan fitur-fitur yang disediakan untuk mengunggah atau menjual konten, Anda setuju untuk terikat oleh ketentuan dalam perjanjian ini.
+By registering as an instructor and using the features provided to upload or sell content, you agree to be bound by the terms of this agreement.
 
-## 1. Pendaftaran dan Kelayakan
+## 1. Registration and Eligibility
 
-- Instruktur harus mendaftar secara sah dan memberikan informasi yang valid.
-- Kami berhak menolak atau mencabut status instruktur jika ditemukan pelanggaran.
+- Instructors must register legitimately and provide valid information.
+- We reserve the right to deny or revoke instructor status if violations are found.
 
-## 2. Hak dan Kepemilikan Konten
+## 2. Rights and Content Ownership
 
-- Instruktur tetap memegang hak atas konten yang diunggah.
-- Dengan mengunggah konten, Anda memberikan kami lisensi non-eksklusif untuk menampilkan, memasarkan, dan mendistribusikan konten tersebut melalui platform.
-- Anda menjamin bahwa semua konten adalah asli dan tidak melanggar hak cipta pihak ketiga.
+- Instructors retain rights to the content they upload.
+- By uploading content, you grant us a non-exclusive license to display, market, and distribute such content through the platform.
+- You warrant that all content is original and does not infringe any third-party copyright.
 
-## 3. Standar Kualitas
+## 3. Quality Standards
 
-- Semua materi kursus harus memenuhi standar kualitas yang kami tetapkan, termasuk kejelasan, keakuratan, dan kelengkapan.
-- Kami berhak meninjau, menyarankan perbaikan, atau menolak konten yang tidak memenuhi standar.
+- All course materials must meet our established quality standards, including clarity, accuracy, and completeness.
+- We reserve the right to review, suggest improvements, or reject content that does not meet standards.
 
-## 4. Pembayaran dan Pembagian Pendapatan
+## 4. Payment and Revenue Sharing
 
-- Pendapatan dari penjualan konten akan dibagi sesuai persentase yang disepakati.
-- Pembayaran dilakukan secara berkala sesuai dengan laporan pendapatan bulanan.
-- Pajak atau potongan lainnya yang diwajibkan oleh hukum akan dikenakan sesuai ketentuan yang berlaku.
+- Revenue from content sales will be shared according to the agreed percentage.
+- Payments are made periodically based on monthly revenue reports.
+- Taxes or other deductions required by law will apply as per applicable regulations.
 
-## 5. Kode Etik dan Perilaku
+## 5. Code of Conduct and Behavior
 
-- Instruktur wajib menjaga profesionalisme dan etika dalam berinteraksi dengan peserta.
-- Dilarang memberikan informasi menyesatkan, promosi pribadi yang tidak relevan, atau konten yang melanggar hukum.
+- Instructors must maintain professionalism and ethics when interacting with learners.
+- Misleading information, irrelevant self-promotion, or unlawful content is strictly prohibited.
 
-## 6. Penghapusan Konten
+## 6. Content Removal
 
-- Instruktur dapat meminta penghapusan konten sewaktu-waktu dengan pemberitahuan.
-- Kami berhak menghapus konten jika terbukti melanggar hukum, hak pihak ketiga, atau kebijakan platform.
+- Instructors may request content removal at any time with notice.
+- We reserve the right to remove content found to be illegal, infringing third-party rights, or violating platform policies.
 
-## 7. Perubahan Ketentuan
+## 7. Changes to Terms
 
-Kami dapat memperbarui perjanjian ini sewaktu-waktu. Perubahan akan diberlakukan setelah diumumkan dan penggunaan layanan oleh instruktur setelah itu dianggap sebagai persetujuan terhadap perubahan tersebut.
+We may update this agreement from time to time. Changes take effect once announced, and continued use of the services after changes indicates acceptance of the revised terms.
 
-## 8. Hubungi Kami
+## 8. Contact Us
 
-Untuk pertanyaan lebih lanjut mengenai perjanjian ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami).
+For further inquiries regarding this agreement, please contact us via the [Contact page](/hubungi-kami).

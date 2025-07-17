@@ -1,47 +1,47 @@
 ---
-title: Logo Company
-description: Panduan penggunaan logo resmi Nihonbuzz.
+title: 会社ロゴ
+description: Nihonbuzz 公式ロゴの使用ガイドライン
 slug: /logo/company
 sidebar_position: 1
 ---
 
-# Logo Nihonbuzz
+# Nihonbuzz ロゴ
 
-Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
+ロゴは Nihonbuzz のビジュアルアイデンティティで最も重要な要素です。Nihonbuzz には 2 つの主要なブランドがあります：**Nihonbuzz**（企業として）と **Nihonbuzz Academy**（教育部門）。
 
-## Logo Nihonbuzz (Company)
+## Nihonbuzz ロゴ（会社）
 
-Gunakan logo ini untuk representasi merek perusahaan secara umum, termasuk komunikasi bisnis, kemitraan, dan media korporat.
+このロゴは、企業ブランドの代表として使用します。ビジネスコミュニケーション、パートナーシップ、企業メディアなどでご利用ください。
 
-### Versi Logo
+### ロゴバリエーション
 
-- Logo warna dasar:
-
-<div class="preview-wrapper">
-  <img src="/assets/Company/Nihonbuzz-Logo-Dark.png" alt="Logo Dark" width="240"/>
-  <img src="/assets/Company/Nihonbuzz-Logo-Light.png" alt="Logo Light" width="240"/>
-</div>
-
-- Logo lanskap:
+- 基本カラーのロゴ：
 
 <div class="preview-wrapper">
-  <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Dark.png" alt="Logo Landscape Dark" width="300"/>
-  <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Light.png" alt="Logo Landscape Light" width="300"/>
+  <img src="/assets/Company/Nihonbuzz-Logo-Dark.png" alt="ダークロゴ" width="240"/>
+  <img src="/assets/Company/Nihonbuzz-Logo-Light.png" alt="ライトロゴ" width="240"/>
 </div>
 
-- Logo lainnya:
+- 横長タイプのロゴ：
 
 <div class="preview-wrapper">
-  <img src="/assets/Company/Nihonbuzz-Logo-Outlined.png" alt="Logo Outlined" width="240"/>
-  <img src="/assets/Company/Nihonbuzz-Logo-Branding.png" alt="Logo Branding" width="240"/>
+  <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Dark.png" alt="横長ダーク" width="300"/>
+  <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Light.png" alt="横長ライト" width="300"/>
 </div>
 
-## Pedoman Umum Penggunaan Logo
+- その他のロゴ：
 
-- Jangan mengubah proporsi logo.
-- Jangan mengganti warna di luar palet resmi.
-- Jangan menempatkan logo di latar belakang yang tidak kontras.
+<div class="preview-wrapper">
+  <img src="/assets/Company/Nihonbuzz-Logo-Outlined.png" alt="アウトラインロゴ" width="240"/>
+  <img src="/assets/Company/Nihonbuzz-Logo-Branding.png" alt="ブランディングロゴ" width="240"/>
+</div>
+
+## 使用ルール（基本）
+
+- ロゴの比率を変えないでください。
+- 公式パレット以外の色に変更しないでください。
+- コントラストが弱い背景には配置しないでください。
 
 ---
 
-Jika Anda ragu terhadap penggunaan logo yang sesuai, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+正しい使用方法に迷った場合は、[support@nihonbuzz.org](/hubungi-kami) までお問い合わせください。

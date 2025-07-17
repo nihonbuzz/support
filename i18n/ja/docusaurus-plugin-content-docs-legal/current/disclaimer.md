@@ -1,37 +1,37 @@
 ---
-title: Penafian (Disclaimer)
+title: 免責事項
 sidebar_position: 13
-description: Penyangkalan atas tanggung jawab hukum terkait konten, layanan, dan informasi di situs kami.
+description: 当サイトのコンテンツ、サービス、および情報に関する法的免責事項。
 ---
 
-# Penafian (Disclaimer)
+# 免責事項
 
-Informasi yang tersedia di platform ini disediakan untuk tujuan pendidikan dan informasi umum semata. Kami tidak memberikan jaminan atau representasi apa pun terkait keakuratan, kelengkapan, atau hasil dari penggunaan informasi tersebut.
+当プラットフォームで提供される情報は、教育目的および一般的な情報提供のみを目的としています。当社は、情報の正確性、完全性、またはその使用による結果について一切の保証を行いません。
 
-## Tidak Ada Jaminan Keberhasilan
+## 成功の保証はありません
 
-Meskipun kami berusaha menyediakan materi pembelajaran yang berkualitas, kami tidak dapat menjamin bahwa pengguna akan mencapai hasil tertentu—baik secara akademis, profesional, maupun finansial—setelah mengikuti kursus atau menggunakan layanan kami.
+当社は高品質な学習資料を提供するよう努めていますが、コースの受講やサービスの利用後に、学業、職業、または経済的な特定の成果を達成できることを保証するものではありません。
 
-Keberhasilan Anda tergantung pada berbagai faktor seperti dedikasi, pemahaman materi, pengalaman sebelumnya, dan keterlibatan aktif Anda.
+成果は、学習者の努力、内容の理解度、事前の経験、積極的な関与など、さまざまな要因に依存します。
 
-## Tanggung Jawab Pengguna
+## 利用者の責任
 
-Setiap tindakan atau keputusan yang Anda ambil berdasarkan informasi dari platform ini adalah sepenuhnya tanggung jawab Anda. Kami tidak bertanggung jawab atas kerugian atau kerusakan, langsung maupun tidak langsung, yang timbul akibat penggunaan atau ketergantungan terhadap informasi atau layanan kami.
+当プラットフォームの情報に基づいて行う行為や決定は、すべて利用者自身の責任となります。当社は、情報やサービスの利用または依存により生じる直接的または間接的な損害について一切の責任を負いません。
 
-## Tautan ke Pihak Ketiga
+## 第三者リンク
 
-Platform kami mungkin menyertakan tautan ke situs web atau layanan pihak ketiga. Kami tidak memiliki kendali atas konten atau praktik mereka dan tidak bertanggung jawab atas keakuratan, kebijakan privasi, atau praktik mereka.
+当プラットフォームには、第三者のウェブサイトやサービスへのリンクが含まれる場合があります。当社は、それらのコンテンツや運営方法を管理しておらず、その正確性、プライバシーポリシー、または慣行について責任を負いません。
 
-Disarankan untuk membaca kebijakan dan syarat layanan dari situs pihak ketiga sebelum menggunakannya.
+第三者のサイトを利用する前に、そのポリシーや利用規約を確認することをお勧めします。
 
-## Perubahan Informasi
+## 情報の変更
 
-Informasi pada platform kami dapat berubah sewaktu-waktu tanpa pemberitahuan. Kami tidak berkewajiban untuk memperbarui informasi yang tersedia, meskipun mungkin sudah usang.
+当プラットフォーム上の情報は、予告なく変更される場合があります。当社は、古くなった情報を更新する義務を負いません。
 
-## Pertanyaan
+## お問い合わせ
 
-Jika Anda memiliki pertanyaan terkait penafian ini atau penggunaan platform, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+免責事項または当プラットフォームの利用に関する質問がある場合は、[お問い合わせ](/hubungi-kami)ページまたは [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。
 
 ---
 
-Dengan menggunakan platform ini, Anda dianggap telah membaca, memahami, dan menyetujui seluruh isi penafian ini.
+当プラットフォームを利用することにより、利用者は本免責事項のすべてを読み、理解し、同意したものとみなされます。

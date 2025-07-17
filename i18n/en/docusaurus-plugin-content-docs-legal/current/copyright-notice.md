@@ -1,53 +1,53 @@
 ---
-title: Pemberitahuan Hak Cipta
+title: Copyright Notice
 sidebar_position: 9
-description: Pernyataan hak cipta atas konten dan materi yang tersedia di platform.
+description: Statement of copyright regarding all content and materials available on the platform.
 ---
 
-# Pemberitahuan Hak Cipta
+# Copyright Notice
 
-Seluruh konten yang terdapat di platform ini, termasuk namun tidak terbatas pada teks, gambar, video, audio, desain, dan perangkat lunak, dilindungi oleh undang-undang hak cipta dan hak kekayaan intelektual lainnya yang berlaku.
+All content available on this platform, including but not limited to text, images, videos, audio, designs, and software, is protected under copyright laws and other applicable intellectual property rights.
 
-## 1. Kepemilikan Konten
+## 1. Content Ownership
 
-- Semua materi yang disediakan oleh pengelola platform merupakan milik eksklusif kami atau pihak ketiga yang memberikan lisensi kepada kami.
-- Materi yang dibuat oleh pengguna, termasuk instruktur, tetap menjadi milik penciptanya, kecuali ditentukan lain dalam perjanjian tertulis.
+- All materials provided by the platform administrators are the exclusive property of the platform or third parties who have licensed them to us.
+- Materials created by users, including instructors, remain the property of their creators unless otherwise agreed in writing.
 
-## 2. Penggunaan yang Diizinkan
+## 2. Permitted Use
 
-Pengguna diperbolehkan untuk:
+Users are allowed to:
 
-- Mengakses dan menggunakan konten untuk keperluan pribadi dan non-komersial.
-- Mencetak atau mengunduh bagian dari konten untuk referensi pribadi, selama tidak diubah dan disertakan pemberitahuan hak cipta.
+- Access and use the content for personal and non-commercial purposes.
+- Print or download portions of the content for personal reference, provided they are not altered and include the copyright notice.
 
-## 3. Larangan Penggunaan
+## 3. Prohibited Use
 
-Pengguna dilarang:
+Users are prohibited from:
 
-- Menyalin, menggandakan, mendistribusikan, menerbitkan ulang, mengunggah, menampilkan secara publik, atau menjual ulang konten tanpa izin tertulis dari pemilik hak cipta.
-- Menghapus atau mengubah atribusi, tanda hak cipta, atau informasi kepemilikan lainnya dari salinan konten.
+- Copying, duplicating, distributing, republishing, uploading, publicly displaying, or reselling content without written permission from the copyright owner.
+- Removing or altering copyright notices, attributions, or other proprietary information from copies of the content.
 
-## 4. Pelanggaran Hak Cipta
+## 4. Copyright Infringement
 
-Kami menanggapi pelanggaran hak cipta dengan serius. Jika kami mengetahui adanya pelanggaran, kami berhak untuk:
+We take copyright infringement seriously. If we become aware of a violation, we reserve the right to:
 
-- Menghapus konten yang melanggar tanpa pemberitahuan.
-- Menangguhkan atau menghentikan akun pengguna yang terlibat.
-- Mengambil tindakan hukum yang diperlukan.
+- Remove infringing content without prior notice.
+- Suspend or terminate the accounts involved.
+- Take any necessary legal action.
 
-## 5. Pemberitahuan Pelanggaran
+## 5. Notice of Infringement
 
-Jika Anda yakin bahwa karya Anda telah digunakan dengan cara yang melanggar hak cipta, silakan ajukan pemberitahuan kepada kami dengan menyertakan:
+If you believe your work has been used in a way that constitutes copyright infringement, please provide:
 
-- Identitas karya yang dilanggar.
-- Lokasi materi yang melanggar di platform.
-- Informasi kontak Anda.
-- Pernyataan bahwa Anda adalah pemilik atau mewakili pemilik hak cipta.
+- Identification of the copyrighted work claimed to have been infringed.
+- Location of the infringing material on the platform.
+- Your contact information.
+- A statement that you are the copyright owner or authorized to act on behalf of the owner.
 
-## 6. Perubahan Pemberitahuan
+## 6. Changes to This Notice
 
-Kami dapat memperbarui Pemberitahuan Hak Cipta ini dari waktu ke waktu. Perubahan akan diberlakukan setelah dipublikasikan di halaman ini.
+We may update this Copyright Notice from time to time. Changes will be effective upon publication on this page.
 
-## 7. Hubungi Kami
+## 7. Contact Us
 
-Untuk pertanyaan terkait hak cipta atau pemberitahuan pelanggaran, hubungi kami melalui halaman [Kontak](/hubungi-kami).
+For inquiries related to copyright or to report infringement, please contact us via the [Contact page](/hubungi-kami).

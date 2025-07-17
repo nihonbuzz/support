@@ -1,66 +1,66 @@
 ---
-title: Kebijakan Pengembalian Dana dan Pengembalian Barang
+title: 返金・返品ポリシー
 sidebar_position: 4
-description: Ketentuan resmi mengenai pengembalian dana untuk kursus online dan merchandise Nihonbuzz.
+description: Nihonbuzzのオンラインコースおよびグッズに関する返金・返品の公式ガイドライン。
 ---
 
-# Kebijakan Pengembalian Dana
+# 返金・返品ポリシー
 
-Kebijakan ini disusun untuk memberikan kejelasan kepada seluruh pengguna terkait pengembalian dana pada layanan dan produk Nihonbuzz. Kami berkomitmen untuk memberikan pengalaman terbaik, baik dalam pembelajaran daring maupun pembelian merchandise.
+このポリシーは、Nihonbuzzが提供するサービスや商品に関する返金条件を明確にするものです。オンライン学習やグッズ購入で、最高の体験を提供することをお約束します。
 
-## 1. Ruang Lingkup
+## 1. 適用範囲
 
-Kebijakan ini berlaku untuk:
+このポリシーは以下に適用されます：
 
-- **Produk Digital:** Kursus online dan materi belajar melalui Nihonbuzz Academy.
-- **Produk Fisik:** Merchandise resmi Nihonbuzz yang dibeli melalui toko daring kami.
+- **デジタル商品:** Nihonbuzz Academyのオンラインコースおよび教材
+- **物理商品:** 当社オンラインストアで購入された公式グッズ
 
-## 2. Ketentuan untuk Produk Digital (Kursus Online)
+## 2. デジタル商品の返金条件（オンラインコース）
 
-Pengajuan pengembalian dana untuk produk digital dapat dilakukan dengan ketentuan berikut:
+以下の条件で返金リクエストを受け付けます：
 
-- Permintaan diajukan dalam **7 (tujuh) hari kalender** sejak tanggal pembelian.
-- Pengguna **belum menyelesaikan lebih dari 20%** konten kursus.
-- Kursus tidak termasuk dalam promosi yang bersifat **non-refundable**.
-- Tidak berlaku untuk kursus yang diperoleh melalui **beasiswa atau hadiah**.
+- 購入日から**7日以内**に申請されていること
+- コースの**20%以上を受講していないこと**
+- コースが**返金不可プロモーション**の対象でないこと
+- **奨学金やギフト**によって取得されたコースは対象外
 
-**Prosedur Pengajuan:**
-1. Kirim permintaan melalui email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org) dengan subjek: **Permintaan Refund – [Nama Kursus]**.
-2. Sertakan bukti transaksi dan alasan pengajuan.
-3. Tim kami akan meninjau permintaan dalam waktu 3–5 hari kerja.
+**返金手続き：**
+1. 件名に**「返金リクエスト – [コース名]」**と記載し、[support@nihonbuzz.org](mailto:support@nihonbuzz.org)までメールしてください。
+2. 購入証明と理由を明記してください。
+3. 当社チームが**3〜5営業日以内**に確認します。
 
-Jika permintaan disetujui, pengembalian dana akan dilakukan melalui metode pembayaran awal dalam waktu **7–14 hari kerja**.
+承認後、**7〜14営業日以内**に元の決済方法で返金します。
 
-## 3. Ketentuan untuk Produk Fisik (Merchandise)
+## 3. 物理商品の返品条件（グッズ）
 
-Pengembalian atau penukaran produk fisik dapat dilakukan dengan syarat:
+以下の条件で返品・交換を受け付けます：
 
-- Permintaan dilakukan dalam waktu **30 (tiga puluh) hari kalender** sejak tanggal penerimaan barang.
-- Produk dalam kondisi **belum digunakan**, lengkap, dan dikemas dalam kemasan asli.
-- Barang yang tidak dapat dikembalikan meliputi:
-  - Produk yang bersifat pribadi atau higienis (misalnya masker).
-  - Barang promosi dengan label **non-refundable**.
-  - Barang yang rusak akibat kelalaian pengguna.
+- 商品受取日から**30日以内**に申請
+- 商品が**未使用**で、付属品がすべて揃い、元のパッケージに入っていること
+- 以下の商品は返品不可：
+  - 個人衛生関連（例：マスク）
+  - **返金不可**と表示されたプロモーション商品
+  - ユーザーの不注意で破損した商品
 
-**Prosedur Pengembalian:**
-1. Hubungi kami melalui email di [support@nihonbuzz.org](mailto:support@nihonbuzz.org) dengan subjek: **Pengembalian Barang – [Nomor Pesanan]**.
-2. Kirim produk ke alamat yang akan diinformasikan oleh tim kami melalui email.
-3. Biaya pengiriman pengembalian ditanggung oleh pembeli, kecuali kesalahan disebabkan oleh pihak kami.
+**返品手続き：**
+1. 件名に**「返品リクエスト – [注文番号]」**と記載し、[support@nihonbuzz.org](mailto:support@nihonbuzz.org)へご連絡ください。
+2. 当社から指定する住所に商品を発送してください。
+3. 返品送料はお客様負担となります（当社の過失による場合を除く）。
 
-## 4. Ketentuan Umum Pengembalian Dana
+## 4. 一般条件
 
-- Pengembalian dana hanya dilakukan melalui metode pembayaran yang digunakan saat transaksi.
-- Biaya pengiriman awal tidak dapat dikembalikan.
-- Jika produk fisik rusak selama pengiriman kembali, pengembalian dana tidak dapat diberikan sepenuhnya.
+- 返金は購入時の決済方法でのみ処理されます。
+- 初回の送料は返金対象外です。
+- 返品中に商品が破損した場合、返金額が減額または拒否される場合があります。
 
-## 5. Barang dan Layanan yang Tidak Dapat Dikembalikan
+## 5. 返金対象外商品
 
-- Produk digital yang telah diakses lebih dari 20%.
-- Merchandise bersifat personal atau higienis.
-- Produk digital unduhan dan gift card.
+- 20%以上利用されたデジタル商品
+- 個人衛生関連商品
+- ダウンロード商品およびギフトカード
 
-## 6. Kontak Layanan
+## 6. お問い合わせ
 
-Untuk informasi lebih lanjut, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+詳細は[お問い合わせページ](/hubungi-kami)または [support@nihonbuzz.org](mailto:support@nihonbuzz.org)まで。
 
-**Terakhir diperbarui:** 17 Juli 2025
+**最終更新日:** 2025年7月17日

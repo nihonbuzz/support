@@ -1,65 +1,65 @@
 ---
-title: Syarat & Ketentuan Layanan
+title: Terms of Service
 sidebar_position: 3
-description: Persyaratan penggunaan layanan kami dan hak serta kewajiban pengguna.
+description: Terms of use for our services and the rights and obligations of users.
 ---
 
-# Syarat dan Ketentuan Layanan
+# Terms of Service
 
-Dengan menggunakan layanan kami, Anda menyetujui syarat dan ketentuan berikut ini. Harap membaca dengan cermat sebelum menggunakan platform kami.
+By using our services, you agree to the following terms and conditions. Please read carefully before using our platform.
 
-## 1. Penerimaan Syarat
+## 1. Acceptance of Terms
 
-Dengan mendaftar, mengakses, atau menggunakan layanan kami, Anda menyatakan telah membaca, memahami, dan menyetujui untuk terikat dengan syarat dan ketentuan ini.
+By registering, accessing, or using our services, you confirm that you have read, understood, and agree to be bound by these terms.
 
-## 2. Kelayakan
+## 2. Eligibility
 
-Anda harus berusia minimal 13 tahun atau memiliki izin dari orang tua/wali untuk menggunakan layanan ini. Untuk instruktur, syarat tambahan dapat berlaku sebagaimana dijelaskan dalam [Perjanjian Instruktur](/legal/instructor-agreement).
+You must be at least 13 years old or have parental/guardian consent to use our services. For instructors, additional requirements apply as stated in the [Instructor Agreement](/legal/instructor-agreement).
 
-## 3. Akun Pengguna
+## 3. User Account
 
-- Anda bertanggung jawab menjaga keamanan akun Anda.
-- Anda wajib memberikan informasi yang akurat dan lengkap.
-- Kami berhak menangguhkan atau menghapus akun jika ditemukan pelanggaran.
+- You are responsible for maintaining the security of your account.
+- You must provide accurate and complete information.
+- We reserve the right to suspend or delete accounts that violate these terms.
 
-## 4. Hak dan Kewajiban Pengguna
+## 4. User Rights and Obligations
 
-- Dilarang menyalahgunakan materi di platform kami.
-- Dilarang mengunggah konten yang melanggar hukum, hak cipta, atau norma masyarakat.
-- Dilarang mengganggu pengalaman belajar pengguna lain.
+- Do not misuse materials on our platform.
+- Do not upload content that is illegal, violates copyrights, or societal norms.
+- Do not disrupt the learning experience of other users.
 
-## 5. Konten
+## 5. Content
 
-- Semua konten kursus dilindungi hak kekayaan intelektual.
-- Anda tidak boleh menyalin, menyebarkan, atau menjual ulang konten tanpa izin.
-- Lihat [Kebijakan Hak Kekayaan Intelektual](/legal/intellectual-property-policy) untuk detail.
+- All course content is protected by intellectual property rights.
+- You may not copy, distribute, or resell content without permission.
+- See [Intellectual Property Policy](/legal/intellectual-property-policy) for details.
 
-## 6. Pembayaran dan Pengembalian Dana
+## 6. Payment and Refund Policy
 
-Untuk informasi lengkap mengenai pembayaran dan kebijakan pengembalian dana, silakan lihat [Kebijakan Pengembalian Dana](/legal/refund-return-policy) dan [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy).
+For complete information on payments and refunds, see [Refund and Return Policy](/legal/refund-return-policy) and [Payment Security Policy](/legal/payment-security-policy).
 
-## 7. Penangguhan dan Penghentian
+## 7. Suspension and Termination
 
-Kami dapat menangguhkan atau menghentikan akses Anda jika:
+We may suspend or terminate your access if:
 
-- Terjadi pelanggaran terhadap ketentuan ini
-- Ada permintaan dari otoritas hukum
-- Terjadi aktivitas mencurigakan pada akun Anda
+- You violate these terms
+- There is a request from legal authorities
+- Suspicious activity is detected on your account
 
-## 8. Penyangkalan dan Batas Tanggung Jawab
+## 8. Disclaimer and Limitation of Liability
 
-Layanan disediakan “sebagaimana adanya”. Kami tidak memberikan jaminan bahwa layanan akan selalu bebas dari gangguan. Lihat [Disclaimer](/legal/disclaimer) untuk rincian.
+The services are provided “as is.” We do not guarantee that the services will always be uninterrupted. See [Disclaimer](/legal/disclaimer) for details.
 
-## 9. Perubahan Ketentuan
+## 9. Changes to Terms
 
-Kami dapat mengubah syarat dan ketentuan ini dari waktu ke waktu. Perubahan akan diberitahukan melalui platform kami dan berlaku setelah dipublikasikan.
+We may update these terms from time to time. Changes will be notified through our platform and take effect upon publication.
 
-## 10. Hukum yang Berlaku
+## 10. Governing Law
 
-Ketentuan ini diatur oleh hukum yang berlaku di Indonesia. Sengketa yang timbul akan diselesaikan melalui jalur hukum yang berlaku.
+These terms are governed by the laws of Indonesia. Any disputes will be resolved under applicable legal procedures.
 
-## 11. Hubungi Kami
+## 11. Contact Us
 
-Jika Anda memiliki pertanyaan mengenai syarat dan ketentuan ini, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If you have any questions about these terms, please contact us via the [contact page](/hubungi-kami) or email us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 
-**Terakhir diperbarui:** 13 Juli 2025
+**Last updated:** July 13, 2025

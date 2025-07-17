@@ -1,47 +1,47 @@
 ---
-title: Logo Academy
-description: Panduan penggunaan logo resmi Nihonbuzz Academy.
+title: アカデミーロゴ
+description: Nihonbuzz Academy 公式ロゴの使用ガイドライン
 slug: /logo/academy
 sidebar_position: 2
 ---
 
-# Logo Nihonbuzz
+# Nihonbuzz ロゴ
 
-Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
+ロゴは Nihonbuzz のビジュアルアイデンティティにおいて最も重要な要素です。Nihonbuzz には 2 つのブランドがあります：**Nihonbuzz**（企業として）と **Nihonbuzz Academy**（教育部門）。
 
-## Logo Nihonbuzz Academy
+## Nihonbuzz Academy ロゴ
 
-Gunakan logo Academy dalam konteks edukatif seperti kursus, konten pelatihan, dan acara pembelajaran.
+アカデミーロゴは、コース、教材、学習イベントなど教育関連のコンテンツで使用します。
 
-### Versi Logo
+### ロゴバリエーション
 
-- Logo dasar:
-
-<div class="preview-wrapper">
-  <img src="/assets/Academy/Nihonbuzz-Academy-Light.png" alt="Academy Light" width="240"/>
-  <img src="/assets/Academy/Nihonbuzz-Academy-Dark.png" alt="Academy Dark" width="240"/>
-</div>
-
-- Logo dengan landscape:
+- 基本ロゴ：
 
 <div class="preview-wrapper">
-  <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="Academy Landscape Light" width="300"/>
-  <img src="/assets/Academy/Nihonbuzz-Academy-Dark-LS-Medium.png" alt="Academy Landscape Dark" width="300"/>
+  <img src="/assets/Academy/Nihonbuzz-Academy-Light.png" alt="アカデミーライト" width="240"/>
+  <img src="/assets/Academy/Nihonbuzz-Academy-Dark.png" alt="アカデミーダーク" width="240"/>
 </div>
 
-- Logo branding dengan pola:
+- 横長タイプのロゴ：
 
 <div class="preview-wrapper">
-  <img src="/assets/Academy/Nihonbuzz-Academy-Logo-Branding-Pattern-Landscape.png" alt="Academy Branding Landscape" width="300"/>
-  <img src="/assets/Academy/Nihonbuzz-Academy-Logo-Branding-Pattern-Square.png" alt="Academy Branding Square" width="240"/>
+  <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="横長ライト" width="300"/>
+  <img src="/assets/Academy/Nihonbuzz-Academy-Dark-LS-Medium.png" alt="横長ダーク" width="300"/>
 </div>
 
-## Pedoman Umum Penggunaan Logo
+- パターン付きブランディングロゴ：
 
-- Jangan mengubah proporsi logo.
-- Jangan mengganti warna di luar palet resmi.
-- Jangan menempatkan logo di latar belakang yang tidak kontras.
+<div class="preview-wrapper">
+  <img src="/assets/Academy/Nihonbuzz-Academy-Logo-Branding-Pattern-Landscape.png" alt="ブランド横長" width="300"/>
+  <img src="/assets/Academy/Nihonbuzz-Academy-Logo-Branding-Pattern-Square.png" alt="ブランドスクエア" width="240"/>
+</div>
+
+## 使用ルール（基本）
+
+- ロゴの比率を変更しないでください。
+- 公式カラー以外に変更しないでください。
+- コントラストが弱い背景には置かないでください。
 
 ---
 
-Jika Anda ragu terhadap penggunaan logo yang sesuai, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+正しい使用方法に迷った場合は、[support@nihonbuzz.org](/hubungi-kami) までご連絡ください。

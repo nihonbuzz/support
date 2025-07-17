@@ -1,78 +1,78 @@
 ---
-title: Kebijakan Refund & Pembatalan
+title: Refund & Cancellation Policy
 sidebar_position: 3
-description: Penjelasan tentang kebijakan pengembalian dana dan pembatalan pembelian kursus di Nihonbuzz Academy.
+description: Explanation of the refund and cancellation policy for course purchases at Nihonbuzz Academy.
 ---
 
-# Kebijakan Refund & Pembatalan
+# Refund & Cancellation Policy
 
-Kami memahami bahwa situasi setiap peserta bisa berbeda. Oleh karena itu, Nihonbuzz Academy menyediakan kebijakan **refund dan pembatalan** yang bertujuan memberikan kejelasan dan perlindungan bagi semua pengguna.
-
----
-
-## 🔄 Apakah Kursus Bisa Dibatalkan?
-
-Kursus yang sudah dibeli tidak bisa dibatalkan secara otomatis oleh pengguna. Namun, Anda dapat **mengajukan permohonan pembatalan** dalam kondisi tertentu, seperti:
-
-- Pembayaran ganda untuk kursus yang sama
-- Kesalahan teknis saat transaksi
-- Tidak bisa mengakses kursus setelah pembayaran valid
-- Pembelian tidak disengaja
-
-> Setiap pengajuan pembatalan akan melalui proses verifikasi terlebih dahulu.
+We understand that every participant’s situation may differ. Therefore, Nihonbuzz Academy provides a **refund and cancellation policy** to ensure clarity and protection for all users.
 
 ---
 
-## 💰 Kebijakan Refund
+## 🔄 Can a Course Be Canceled?
 
-Refund atau pengembalian dana **bisa diajukan** dalam waktu maksimal **7 hari** sejak tanggal pembelian, dengan syarat:
+Courses that have been purchased cannot be automatically canceled by the user. However, you can **request a cancellation** under certain conditions, such as:
 
-- Materi kursus belum diselesaikan lebih dari 30%
-- Sertifikat belum diunduh
-- Tidak ada pelanggaran terhadap syarat & ketentuan platform
+- Duplicate payment for the same course
+- Technical error during the transaction
+- Unable to access the course after a valid payment
+- Accidental purchase
 
-**Tidak berlaku refund** untuk:
-- Kursus gratis
-- Kursus promo/flash sale yang mencantumkan “tidak dapat direfund”
-- Pelanggaran kebijakan penggunaan
+> Each cancellation request will go through a verification process.
 
 ---
 
-## 📝 Cara Mengajukan Refund
+## 💰 Refund Policy
 
-Untuk mengajukan refund:
+Refund requests can be made within **7 days** of the purchase date, provided that:
 
-1. Kunjungi halaman [Hubungi Kami](../hubungi-kami.md)
-2. Kirimkan pesan dengan subjek **"Permintaan Refund"**
-3. Sertakan informasi berikut:
-   - Nama lengkap
-   - Email akun Anda
-   - Nama kursus
-   - Alasan pengajuan refund
-   - Bukti pembayaran (jika tersedia)
+- The course material has not been completed by more than 30%
+- The certificate has not been downloaded
+- There is no violation of the platform’s terms & conditions
 
-Kami akan memproses dalam waktu **maksimal 5 hari kerja**.
+**Refunds are NOT applicable for:**
+- Free courses
+- Promotional/flash sale courses marked as “non-refundable”
+- Violation of usage policies
 
 ---
 
-## 🧾 Status dan Proses Refund
+## 📝 How to Request a Refund
 
-Setelah disetujui, refund akan dikembalikan ke metode pembayaran awal Anda:
+To request a refund:
 
-- Dompet digital / e-wallet: 1–2 hari kerja
-- Transfer bank: 2–5 hari kerja
-- Kartu kredit: tergantung kebijakan bank penerbit
+1. Visit the [Contact Us](../hubungi-kami.md) page
+2. Send a message with the subject **“Refund Request”**
+3. Include the following details:
+   - Full name
+   - Your account email
+   - Course name
+   - Reason for the refund request
+   - Proof of payment (if available)
 
-Anda akan mendapatkan notifikasi melalui email setelah refund diproses.
-
----
-
-## ❗ Penting untuk Diperhatikan
-
-- Jangan membagikan akses kursus Anda kepada orang lain. Pelanggaran ini membatalkan hak refund.
-- Kami berhak menolak permintaan refund jika ditemukan penyalahgunaan sistem atau itikad tidak baik.
+We will process the request within **a maximum of 5 business days**.
 
 ---
 
-Untuk memahami perbedaan manfaat antara kursus gratis dan berbayar, silakan lihat:  
-👉 [Kursus Gratis vs Berbayar](./kursus-gratis-berbayar.md)
+## 🧾 Refund Status & Process
+
+Once approved, the refund will be returned to your original payment method:
+
+- E-wallet: 1–2 business days
+- Bank transfer: 2–5 business days
+- Credit card: depending on the issuing bank’s policy
+
+You will receive an email notification once the refund is processed.
+
+---
+
+## ❗ Important Notes
+
+- Do not share your course access with others. Doing so will void your refund rights.
+- We reserve the right to reject refund requests if system abuse or bad intent is detected.
+
+---
+
+To understand the difference between free and paid courses, please check:  
+👉 [Free vs Paid Courses](./kursus-gratis-berbayar.md)

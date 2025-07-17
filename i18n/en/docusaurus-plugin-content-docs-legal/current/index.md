@@ -1,31 +1,31 @@
 ---
-title: Kebijakan & Ketentuan
-description: Halaman pengantar untuk seluruh kebijakan dan ketentuan yang berlaku di platform kami.
+title: Policies & Terms
+description: Introduction page for all policies and terms applicable on our platform.
 sidebar_position: 1
 slug: /
 ---
 
-# Kebijakan & Ketentuan NihonBuzz Academy
+# NihonBuzz Academy Policies & Terms
 
-Selamat datang di halaman **Kebijakan & Ketentuan** kami. Di sini Anda dapat menemukan seluruh dokumen hukum yang mengatur penggunaan platform kami, hak dan kewajiban pengguna, serta informasi penting lainnya terkait privasi, keamanan, dan kepatuhan hukum.
+Welcome to our **Policies & Terms** page. Here you will find all legal documents governing the use of our platform, user rights and obligations, as well as important information about privacy, security, and legal compliance.
 
-Kami menyarankan Anda membaca dengan saksama setiap dokumen agar memahami bagaimana kami menjalankan layanan serta bagaimana hak dan data Anda dilindungi.
+We recommend reading each document carefully to understand how we operate our services and how your rights and data are protected.
 
-## Daftar Dokumen Hukum
+## List of Legal Documents
 
-- [Kebijakan Privasi](/legal/privacy-policy)
-- [Syarat dan Ketentuan Layanan](/legal/terms-of-service)
-- [Kebijakan Pengembalian Dana dan Pengembalian Barang](/legal/refund-return-policy)
-- [Kebijakan Cookie](/legal/cookie-policy)
-- [Perjanjian Pengguna](/legal/user-agreement)
-- [Perjanjian Instruktur](/legal/instructor-agreement)
-- [Kebijakan Perlindungan Anak](/legal/child-protection-policy)
-- [Pemberitahuan Hak Cipta](/legal/copyright-notice)
-- [Pemberitahuan DMCA](/legal/dmca-notice)
-- [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy)
-- [Kebijakan Kekayaan Intelektual](/legal/intellectual-property-policy)
-- [Penafian (Disclaimer)](/legal/disclaimer)
+- [Privacy Policy](/legal/privacy-policy)
+- [Terms of Service](/legal/terms-of-service)
+- [Refund & Return Policy](/legal/refund-return-policy)
+- [Cookie Policy](/legal/cookie-policy)
+- [User Agreement](/legal/user-agreement)
+- [Instructor Agreement](/legal/instructor-agreement)
+- [Child Protection Policy](/legal/child-protection-policy)
+- [Copyright Notice](/legal/copyright-notice)
+- [DMCA Notice](/legal/dmca-notice)
+- [Payment Security Policy](/legal/payment-security-policy)
+- [Intellectual Property Policy](/legal/intellectual-property-policy)
+- [Disclaimer](/legal/disclaimer)
 
-Jika Anda memiliki pertanyaan, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If you have any questions, please contact us via the [contact page](/hubungi-kami) or email us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 
-**Terakhir diperbarui:** 13 Juli 2025
+**Last updated:** July 13, 2025

@@ -1,51 +1,51 @@
 ---
-title: Kebijakan Keamanan Pembayaran
+title: Payment Security Policy
 sidebar_position: 11
-description: Informasi tentang sistem keamanan dalam setiap transaksi pembayaran.
+description: Information about security measures for all payment transactions.
 ---
 
-# Kebijakan Penggunaan dan Keamanan Pembayaran
+# Payment Usage and Security Policy
 
-Kebijakan ini menjelaskan prosedur dan langkah-langkah yang kami ambil untuk memastikan keamanan transaksi pembayaran yang dilakukan melalui platform kami.
+This policy outlines the procedures and measures we implement to ensure the security of payment transactions conducted through our platform.
 
-## Sistem Pembayaran yang Digunakan
+## Payment Systems Used
 
-Kami menggunakan penyedia layanan pembayaran pihak ketiga terpercaya untuk memproses transaksi secara aman dan terenkripsi. Saat ini kami mendukung beberapa metode pembayaran, termasuk namun tidak terbatas pada:
+We use trusted third-party payment service providers to process transactions securely with encryption. Currently, we support several payment methods, including but not limited to:
 
-- Kartu kredit/debit (Visa, MasterCard)
-- Transfer bank
-- Pembayaran melalui Virtual Account Bank
-- Pembayaran QRIS
-- Platform pihak ketiga seperti PayPal
+- Credit/Debit Cards (Visa, MasterCard)
+- Bank Transfers
+- Virtual Bank Accounts
+- QRIS Payments
+- Third-party platforms such as PayPal
 
-## Keamanan Informasi Pembayaran
+## Payment Information Security
 
-Untuk melindungi data finansial Anda, kami menggunakan protokol enkripsi standar industri (seperti SSL/TLS) saat memproses dan mentransmisikan informasi pembayaran. Kami tidak menyimpan informasi kartu kredit secara langsung di server kami.
+To protect your financial data, we use industry-standard encryption protocols (such as SSL/TLS) when processing and transmitting payment information. We do not store credit card information directly on our servers.
 
-Semua informasi pembayaran yang dikirimkan melalui platform kami diproses secara langsung oleh penyedia pembayaran yang telah disertifikasi dan sesuai dengan standar keamanan industri (seperti PCI-DSS).
+All payment information submitted through our platform is processed directly by certified payment providers compliant with industry security standards (such as PCI-DSS).
 
-## Pencegahan Penipuan
+## Fraud Prevention
 
-Kami memiliki sistem otomatis untuk mendeteksi transaksi mencurigakan. Jika ditemukan indikasi aktivitas penipuan, transaksi dapat ditangguhkan untuk verifikasi lebih lanjut. Kami dapat menghubungi Anda melalui email resmi kami untuk klarifikasi atau tindakan lanjutan.
+We employ automated systems to detect suspicious transactions. If fraudulent activity is suspected, the transaction may be placed on hold for further verification. We may contact you through our official email for clarification or additional actions.
 
-## Transaksi yang Gagal
+## Failed Transactions
 
-Jika terjadi transaksi yang gagal, mohon pastikan:
+If a transaction fails, please ensure that:
 
-- Koneksi internet stabil
-- Informasi pembayaran yang dimasukkan benar
-- Saldo mencukupi pada metode pembayaran yang dipilih
+- Your internet connection is stable
+- Payment information entered is correct
+- There are sufficient funds in the selected payment method
 
-Jika transaksi tetap gagal, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If the issue persists, please contact us through the [Contact Us](/hubungi-kami) page or email us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 
-## Pengembalian Dana
+## Refunds
 
-Kebijakan pengembalian dana diatur dalam [Kebijakan Pengembalian dan Pembatalan](/legal/refund-return-policy). Pengguna berhak mengajukan pengembalian dana jika memenuhi syarat dan prosedur yang ditentukan.
+Refund policies are governed by our [Refund and Return Policy](/legal/refund-return-policy). Users are entitled to request a refund if they meet the eligibility and follow the specified procedures.
 
-## Perubahan Kebijakan
+## Policy Updates
 
-Kami dapat memperbarui kebijakan ini dari waktu ke waktu untuk menyesuaikan dengan peraturan hukum atau perubahan teknologi. Versi terbaru akan selalu tersedia di halaman ini.
+We may update this policy from time to time to comply with legal regulations or adapt to technological changes. The latest version will always be available on this page.
 
 ---
 
-Jika Anda memiliki pertanyaan mengenai kebijakan ini, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If you have any questions regarding this policy, please contact us through the [Contact Us](/hubungi-kami) page or email us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org).

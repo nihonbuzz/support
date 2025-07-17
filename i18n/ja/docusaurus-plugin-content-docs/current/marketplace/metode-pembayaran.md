@@ -1,78 +1,78 @@
 ---
-title: Metode Pembayaran & Invoice
+title: 支払い方法と請求書
 sidebar_position: 2
-description: Informasi lengkap mengenai metode pembayaran yang tersedia dan cara mendapatkan invoice resmi untuk pembelian kursus.
+description: 利用可能な支払い方法と、コース購入後に公式請求書を取得する方法についての詳細情報。
 ---
 
-# Metode Pembayaran & Invoice
+# 支払い方法と請求書
 
-Untuk memudahkan proses pembelian kursus, Nihonbuzz Academy menyediakan berbagai metode pembayaran yang aman dan fleksibel. Setelah pembayaran berhasil, Anda juga bisa mengunduh invoice resmi sebagai bukti transaksi.
-
----
-
-## 💳 Metode Pembayaran yang Tersedia
-
-Berikut beberapa metode pembayaran yang dapat digunakan:
-
-### 1. Transfer Bank
-- Tersedia virtual account dari berbagai bank
-- Pembayaran dikonfirmasi otomatis
-- Petunjuk transfer muncul setelah checkout
-
-### 2. Dompet Digital
-- Mendukung berbagai dompet populer
-- Pembayaran diproses secara instan
-
-### 3. Kartu Kredit / Debit
-- Bisa digunakan untuk pembayaran instan
-- Sistem mendukung berbagai jenis kartu internasional
-
-### 4. Pembayaran Manual (khusus promo/event tertentu)
-- Konfirmasi pembayaran dilakukan secara manual
-- Proses verifikasi memerlukan waktu tambahan
-
-**Catatan:** Metode pembayaran yang tersedia dapat berbeda tergantung wilayah dan promosi yang sedang berlangsung.
+コース購入をより簡単にするために、Nihonbuzz Academyでは安全で柔軟な複数の支払い方法を提供しています。支払いが完了すると、取引証明として公式請求書をダウンロードすることもできます。
 
 ---
 
-## 🧾 Invoice Pembayaran
+## 💳 利用可能な支払い方法
 
-Setelah pembayaran berhasil, invoice akan dibuat otomatis dan dapat diakses melalui:
+以下の支払い方法をご利用いただけます：
 
-1. Masuk ke akun Anda
-2. Buka menu **“Riwayat Transaksi”**
-3. Klik pada detail transaksi
-4. Unduh **Invoice PDF**
+### 1. 銀行振込
+- 各銀行のバーチャル口座を利用可能
+- 支払いは自動的に確認されます
+- チェックアウト後に振込手順が表示されます
 
-Invoice mencakup:
-- Nama kursus
-- Nomor transaksi
-- Tanggal pembelian
-- Jumlah pembayaran
-- Identitas pembeli
+### 2. 電子ウォレット
+- 人気のデジタルウォレットに対応
+- 支払いは即時処理されます
 
----
+### 3. クレジットカード / デビットカード
+- 即時支払いに利用可能
+- 各種国際カードに対応
 
-## ⚠️ Gagal Melakukan Pembayaran?
+### 4. 手動支払い（特定のプロモーションやイベントのみ）
+- 支払い確認は手動で行われます
+- 確認には追加時間がかかる場合があります
 
-Beberapa penyebab umum kegagalan pembayaran:
-- Melebihi batas waktu pembayaran
-- Salah nominal saat transfer manual
-- Gangguan jaringan atau error teknis
-- Saldo dompet digital atau kartu tidak mencukupi
-
-**Solusi:**
-- Ulangi proses pembelian dari awal
-- Gunakan metode pembayaran lain
-- Jika saldo terpotong tapi kursus belum aktif, segera hubungi dukungan
+**注意:** 利用可能な支払い方法は、地域や実施中のキャンペーンによって異なる場合があります。
 
 ---
 
-## 📬 Bukti Pembayaran Tidak Muncul?
+## 🧾 支払い請求書
 
-Silakan tunggu beberapa menit dan refresh halaman. Jika invoice belum juga muncul, Anda bisa menghubungi tim dukungan melalui [Halaman Hubungi Kami](../hubungi-kami.md) dan menyertakan bukti pembayaran (screenshot atau resi).
+支払い完了後、請求書は自動で作成され、以下の手順でアクセスできます：
+
+1. アカウントにログイン
+2. **「取引履歴」** メニューを開く
+3. 取引詳細をクリック
+4. **請求書PDF** をダウンロード
+
+請求書には以下の情報が含まれます：
+- コース名
+- 取引番号
+- 購入日
+- 支払金額
+- 購入者情報
 
 ---
 
-Untuk informasi pembanding dan pilihan kursus lainnya, lihat juga:  
-👉 [Kursus Gratis vs Berbayar](./kursus-gratis-berbayar.md)
+## ⚠️ 支払いに失敗しましたか？
+
+よくある原因：
+- 支払い期限を過ぎた
+- 手動振込で金額を誤った
+- ネットワーク障害や技術的エラー
+- 電子ウォレットやカードの残高不足
+
+**解決策：**
+- 購入手続きを最初からやり直す
+- 別の支払い方法を利用する
+- 残高が引き落とされたのにコースが有効化されない場合は、すぐにサポートへ連絡
+
+---
+
+## 📬 請求書が表示されませんか？
+
+数分お待ちいただき、ページを更新してください。請求書が表示されない場合は、[お問い合わせページ](../hubungi-kami.md)からサポートに連絡し、支払い証明（スクリーンショットや領収書）を添付してください。
+
+---
+
+コースの比較とオプションについては、こちらもご覧ください：  
+👉 [無料コースと有料コースの比較](./kursus-gratis-berbayar.md)

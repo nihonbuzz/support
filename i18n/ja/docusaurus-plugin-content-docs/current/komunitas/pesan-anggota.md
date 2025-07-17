@@ -1,71 +1,70 @@
 ---
-title: Kirim Pesan & Interaksi
+title: メッセージ送信と交流
 sidebar_position: 2
-description: Panduan mengirim pesan langsung ke anggota lain, serta cara berinteraksi secara positif dalam komunitas Nihonbuzz Academy.
+description: Nihonbuzz Academyコミュニティで、他のメンバーにダイレクトメッセージを送信し、ポジティブに交流するためのガイドです。
 ---
 
-# Kirim Pesan & Interaksi
+# メッセージ送信と交流
 
-Di Nihonbuzz Academy, Anda tidak hanya belajar secara mandiri, tetapi juga bisa membangun koneksi dengan peserta lain. Fitur **pesan pribadi** memungkinkan Anda untuk berinteraksi secara langsung, bertukar pengalaman, dan mendiskusikan materi secara lebih personal.
-
----
-
-## ✉️ Mengirim Pesan ke Anggota
-
-Untuk mengirim pesan:
-
-1. Login ke akun Anda
-2. Kunjungi profil anggota yang ingin Anda hubungi
-3. Klik tombol **"Kirim Pesan"**
-4. Tulis pesan Anda, lalu klik **"Kirim"**
-
-Pesan akan langsung masuk ke kotak masuk penerima. Jika anggota tersebut membalas, Anda akan mendapatkan notifikasi.
+Nihonbuzz Academyでは、学習は一人でするだけでなく、仲間とのつながりを築くことも大切です。**プライベートメッセージ**機能を使えば、直接やり取りし、経験を共有し、教材についてより個人的に話し合うことができます。
 
 ---
 
-## 📥 Mengelola Pesan Masuk
+## ✉️ メンバーにメッセージを送る
 
-Untuk membuka dan mengelola pesan:
+メッセージを送るには：
 
-- Buka menu **Pesan** di dashboard
-- Klik pada percakapan untuk membacanya
-- Balas pesan langsung dari kotak percakapan
-- Hapus atau arsipkan pesan yang sudah tidak diperlukan
+1. アカウントにログインします
+2. 連絡したいメンバーのプロフィールを開きます
+3. **「メッセージを送信」**ボタンをクリックします
+4. メッセージを入力し、**「送信」**をクリックします
 
-**Catatan:** Jika Anda menerima pesan yang mengganggu, Anda dapat memblokir pengirim atau melaporkannya ke tim dukungan.
-
----
-
-## 🤝 Etika Berinteraksi
-
-Agar interaksi antaranggota tetap nyaman dan positif, ikuti panduan berikut:
-
-- Gunakan bahasa yang sopan dan tidak menyinggung
-- Jangan kirim spam, promosi, atau ajakan di luar konteks belajar
-- Hormati privasi dan waktu anggota lain
-- Jika ingin bertanya tentang materi, usahakan jelas dan relevan
-
-Pelanggaran terhadap etika ini dapat dikenakan peringatan hingga penangguhan akun.
+メッセージは受信者の受信トレイに届き、返信があると通知が届きます。
 
 ---
 
-## 🔐 Privasi Pesan
+## 📥 受信メッセージの管理
 
-Semua pesan antaranggota bersifat pribadi dan tidak dapat diakses oleh pengguna lain. Namun, sistem dapat melakukan peninjauan jika ada laporan penyalahgunaan.
+メッセージを確認・管理するには：
 
-Jika Anda menerima pesan yang tidak pantas, segera laporkan melalui opsi **"Laporkan Pesan"** di percakapan tersebut.
+- ダッシュボードの**メッセージ**メニューを開きます
+- 会話をクリックして読む
+- チャット画面から直接返信
+- 不要なメッセージは削除またはアーカイブ
 
----
-
-## 💡 Tips Membangun Relasi Positif
-
-- Sapa anggota lain setelah menyelesaikan kursus yang sama
-- Ucapkan terima kasih jika terbantu dari diskusi
-- Ajukan kolaborasi belajar jika memiliki minat yang sama
-
-Dengan komunikasi yang baik, Anda tidak hanya belajar materi, tapi juga membangun jejaring yang bermanfaat di dunia nyata.
+**注意:** 不快なメッセージを受け取った場合は、送信者をブロックするか、サポートチームに報告できます。
 
 ---
 
-Selanjutnya, pelajari aturan lengkap komunitas kami di halaman:  
-👉 [Aturan & Etika Komunitas](./aturan-komunitas.md)
+## 🤝 良好な交流のためのマナー
+
+快適でポジティブな交流を維持するために、以下のガイドラインに従ってください：
+
+- 丁寧で敬意のある言葉を使う
+- スパムや宣伝、無関係な招待は送らない
+- 他人のプライバシーと時間を尊重する
+- 質問する際は明確かつ関連性のある内容にする
+
+これらのルールに違反した場合、警告やアカウント停止となることがあります。
+
+---
+
+## 🔐 メッセージのプライバシー
+
+メンバー間のプライベートメッセージはすべて非公開で、他のユーザーは閲覧できません。ただし、悪用報告があった場合、システムがメッセージを確認することがあります。
+
+不適切なメッセージを受け取った場合は、会話の**「メッセージを報告」**オプションからすぐに報告してください。
+
+---
+
+## 💡 良好な関係を築くためのヒント
+
+- 同じコースを修了したメンバーに挨拶する
+- 助けてもらったら感謝を伝える
+- 興味が一致すれば一緒に学習する提案をする
+
+良いコミュニケーションは、学習をより充実させ、実生活で役立つネットワークを構築する助けになります。
+
+---
+
+次に、コミュニティガイドラインの全文をこち

@@ -1,38 +1,38 @@
 ---
-title: Unduhan Aset
-description: Unduh aset resmi Nihonbuzz seperti logo, ikon, pola, dan paket identitas visual lainnya.
+title: アセットダウンロード
+description: Nihonbuzzの公式ロゴ、アイコン、パターン、ブランドアイデンティティパックをダウンロードできます。
 slug: /downloads
 sidebar_position: 7
 ---
 
-# Unduhan Aset Resmi
+# 公式アセットダウンロード
 
-Halaman ini menyediakan tautan langsung untuk mengunduh semua aset resmi brand Nihonbuzz. File dikemas dalam format ZIP atau RAR dan mencakup versi lengkap logo, identitas visual, ikon, dan pola.
+このページでは、Nihonbuzzの公式ブランドアセットを直接ダウンロードできます。ファイルはZIPまたはRAR形式で、ロゴ、ビジュアルアイデンティティ、アイコン、パターンの完全版が含まれています。
 
-## 🎒 Paket Lengkap
+## 🎒 フルパッケージ
 
-- [Unduh Semua Aset Nihonbuzz](../static/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
+- [Nihonbuzzアセットをすべてダウンロード](../static/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
 
-## 🏢 Logo Perusahaan (Company)
+## 🏢 会社ロゴ
 
 - [Nihonbuzz Company Pack](../static/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
 
-## 🎓 Logo Akademi (Academy)
+## 🎓 アカデミーロゴ
 
 - [Nihonbuzz Academy Pack](../static/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
 
-## 🆔 Identitas Merek
+## 🆔 ブランドアイデンティティ
 
 - [Nihonbuzz Identity Pack](../static/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
 
-## 🧩 Pola Visual
+## 🧩 ビジュアルパターン
 
 - [Nihonbuzz Pattern Pack](../static/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
 
-## 🖼️ Ikon & Favicon
+## 🖼️ アイコン & ファビコン
 
 - [Nihonbuzz Site Icon Pack](../static/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
 
 ---
 
-Jika Anda memerlukan format khusus atau versi yang tidak tersedia di atas, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+特定のフォーマットや上記にないバージョンが必要な場合は、[support@nihonbuzz.org](/hubungi-kami)までご連絡ください。

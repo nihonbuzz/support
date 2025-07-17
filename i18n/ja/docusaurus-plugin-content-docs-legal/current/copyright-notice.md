@@ -1,53 +1,53 @@
 ---
-title: Pemberitahuan Hak Cipta
+title: 著作権に関するお知らせ
 sidebar_position: 9
-description: Pernyataan hak cipta atas konten dan materi yang tersedia di platform.
+description: プラットフォーム上のすべてのコンテンツおよび資料に関する著作権表示。
 ---
 
-# Pemberitahuan Hak Cipta
+# 著作権に関するお知らせ
 
-Seluruh konten yang terdapat di platform ini, termasuk namun tidak terbatas pada teks, gambar, video, audio, desain, dan perangkat lunak, dilindungi oleh undang-undang hak cipta dan hak kekayaan intelektual lainnya yang berlaku.
+本プラットフォームに掲載されているすべてのコンテンツ（テキスト、画像、動画、音声、デザイン、ソフトウェアを含むがこれに限らない）は、著作権法およびその他の知的財産権によって保護されています。
 
-## 1. Kepemilikan Konten
+## 1. コンテンツの所有権
 
-- Semua materi yang disediakan oleh pengelola platform merupakan milik eksklusif kami atau pihak ketiga yang memberikan lisensi kepada kami.
-- Materi yang dibuat oleh pengguna, termasuk instruktur, tetap menjadi milik penciptanya, kecuali ditentukan lain dalam perjanjian tertulis.
+- プラットフォーム管理者が提供するすべての資料は、当社または当社にライセンスを供与する第三者の専有財産です。
+- ユーザー（インストラクターを含む）が作成した資料は、書面による合意がない限り、その制作者に帰属します。
 
-## 2. Penggunaan yang Diizinkan
+## 2. 許可される使用
 
-Pengguna diperbolehkan untuk:
+ユーザーは次のことが許可されています：
 
-- Mengakses dan menggunakan konten untuk keperluan pribadi dan non-komersial.
-- Mencetak atau mengunduh bagian dari konten untuk referensi pribadi, selama tidak diubah dan disertakan pemberitahuan hak cipta.
+- 個人かつ非営利目的でコンテンツにアクセスおよび利用すること。
+- コンテンツの一部を印刷またはダウンロードすること。ただし、改変せず、著作権表示を含める必要があります。
 
-## 3. Larangan Penggunaan
+## 3. 禁止される使用
 
-Pengguna dilarang:
+ユーザーは次の行為を禁止されています：
 
-- Menyalin, menggandakan, mendistribusikan, menerbitkan ulang, mengunggah, menampilkan secara publik, atau menjual ulang konten tanpa izin tertulis dari pemilik hak cipta.
-- Menghapus atau mengubah atribusi, tanda hak cipta, atau informasi kepemilikan lainnya dari salinan konten.
+- 著作権者の書面による許可なしに、コンテンツをコピー、複製、配布、再出版、アップロード、公に表示、または再販すること。
+- コピーしたコンテンツから著作権表示、帰属情報、またはその他の所有権情報を削除または変更すること。
 
-## 4. Pelanggaran Hak Cipta
+## 4. 著作権侵害
 
-Kami menanggapi pelanggaran hak cipta dengan serius. Jika kami mengetahui adanya pelanggaran, kami berhak untuk:
+当社は著作権侵害を深刻に受け止めています。侵害が確認された場合、当社は次の措置を講じます：
 
-- Menghapus konten yang melanggar tanpa pemberitahuan.
-- Menangguhkan atau menghentikan akun pengguna yang terlibat.
-- Mengambil tindakan hukum yang diperlukan.
+- 侵害コンテンツを事前通知なしに削除。
+- 関連するアカウントを停止または削除。
+- 必要な法的措置を実施。
 
-## 5. Pemberitahuan Pelanggaran
+## 5. 侵害通知
 
-Jika Anda yakin bahwa karya Anda telah digunakan dengan cara yang melanggar hak cipta, silakan ajukan pemberitahuan kepada kami dengan menyertakan:
+著作権侵害が発生しているとお考えの場合は、以下の情報を含む通知を送信してください：
 
-- Identitas karya yang dilanggar.
-- Lokasi materi yang melanggar di platform.
-- Informasi kontak Anda.
-- Pernyataan bahwa Anda adalah pemilik atau mewakili pemilik hak cipta.
+- 侵害されたと主張する著作物の特定。
+- プラットフォーム上で侵害が発生している場所。
+- ご連絡先情報。
+- あなたが著作権者または権限を持つ代理人であることを示す声明。
 
-## 6. Perubahan Pemberitahuan
+## 6. 通知の変更
 
-Kami dapat memperbarui Pemberitahuan Hak Cipta ini dari waktu ke waktu. Perubahan akan diberlakukan setelah dipublikasikan di halaman ini.
+本お知らせは必要に応じて更新される場合があります。変更は本ページで公開された時点で有効となります。
 
-## 7. Hubungi Kami
+## 7. お問い合わせ
 
-Untuk pertanyaan terkait hak cipta atau pemberitahuan pelanggaran, hubungi kami melalui halaman [Kontak](/hubungi-kami).
+著作権に関する質問や侵害報告は、[お問い合わせページ](/hubungi-kami)からご連絡ください。

@@ -1,51 +1,51 @@
 ---
-title: Kebijakan Keamanan Pembayaran
+title: 支払いセキュリティポリシー
 sidebar_position: 11
-description: Informasi tentang sistem keamanan dalam setiap transaksi pembayaran.
+description: すべての支払い取引におけるセキュリティ対策について。
 ---
 
-# Kebijakan Penggunaan dan Keamanan Pembayaran
+# 支払い利用およびセキュリティポリシー
 
-Kebijakan ini menjelaskan prosedur dan langkah-langkah yang kami ambil untuk memastikan keamanan transaksi pembayaran yang dilakukan melalui platform kami.
+本ポリシーでは、当プラットフォームで行われる支払い取引の安全性を確保するために採用している手順と対策について説明します。
 
-## Sistem Pembayaran yang Digunakan
+## 利用する決済システム
 
-Kami menggunakan penyedia layanan pembayaran pihak ketiga terpercaya untuk memproses transaksi secara aman dan terenkripsi. Saat ini kami mendukung beberapa metode pembayaran, termasuk namun tidak terbatas pada:
+当社は、安全かつ暗号化された取引処理を行う信頼できる第三者決済サービスプロバイダーを利用しています。現在、以下の決済方法に対応しています（ただしこれに限りません）：
 
-- Kartu kredit/debit (Visa, MasterCard)
-- Transfer bank
-- Pembayaran melalui Virtual Account Bank
-- Pembayaran QRIS
-- Platform pihak ketiga seperti PayPal
+- クレジット／デビットカード（Visa、MasterCard）
+- 銀行振込
+- バーチャル口座決済
+- QRIS決済
+- PayPalなどの第三者プラットフォーム
 
-## Keamanan Informasi Pembayaran
+## 支払い情報のセキュリティ
 
-Untuk melindungi data finansial Anda, kami menggunakan protokol enkripsi standar industri (seperti SSL/TLS) saat memproses dan mentransmisikan informasi pembayaran. Kami tidak menyimpan informasi kartu kredit secara langsung di server kami.
+お客様の金融データを保護するため、当社は業界標準の暗号化プロトコル（SSL/TLSなど）を使用して、支払い情報の処理および送信を行います。クレジットカード情報は当社サーバーに直接保存しません。
 
-Semua informasi pembayaran yang dikirimkan melalui platform kami diproses secara langsung oleh penyedia pembayaran yang telah disertifikasi dan sesuai dengan standar keamanan industri (seperti PCI-DSS).
+すべての支払い情報は、業界のセキュリティ基準（PCI-DSSなど）に準拠した認定済みの決済プロバイダーによって直接処理されます。
 
-## Pencegahan Penipuan
+## 不正防止
 
-Kami memiliki sistem otomatis untuk mendeteksi transaksi mencurigakan. Jika ditemukan indikasi aktivitas penipuan, transaksi dapat ditangguhkan untuk verifikasi lebih lanjut. Kami dapat menghubungi Anda melalui email resmi kami untuk klarifikasi atau tindakan lanjutan.
+当社は、不審な取引を検出する自動システムを採用しています。不正行為の兆候が見られる場合、取引を保留して追加の確認を行うことがあります。当社から公式メールでご連絡する場合があります。
 
-## Transaksi yang Gagal
+## 取引失敗時の対応
 
-Jika terjadi transaksi yang gagal, mohon pastikan:
+取引に失敗した場合は、次の点をご確認ください：
 
-- Koneksi internet stabil
-- Informasi pembayaran yang dimasukkan benar
-- Saldo mencukupi pada metode pembayaran yang dipilih
+- インターネット接続が安定していること
+- 入力した支払い情報が正しいこと
+- 選択した支払い方法の残高が十分であること
 
-Jika transaksi tetap gagal, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+問題が解決しない場合は、[お問い合わせ](/hubungi-kami)ページまたは [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。
 
-## Pengembalian Dana
+## 返金について
 
-Kebijakan pengembalian dana diatur dalam [Kebijakan Pengembalian dan Pembatalan](/legal/refund-return-policy). Pengguna berhak mengajukan pengembalian dana jika memenuhi syarat dan prosedur yang ditentukan.
+返金ポリシーは [返金および返品ポリシー](/legal/refund-return-policy) に基づきます。条件を満たす場合、返金を申請することができます。
 
-## Perubahan Kebijakan
+## ポリシーの変更
 
-Kami dapat memperbarui kebijakan ini dari waktu ke waktu untuk menyesuaikan dengan peraturan hukum atau perubahan teknologi. Versi terbaru akan selalu tersedia di halaman ini.
+法令や技術の変更に対応するため、本ポリシーを随時更新する場合があります。最新版は常に本ページでご確認いただけます。
 
 ---
 
-Jika Anda memiliki pertanyaan mengenai kebijakan ini, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+本ポリシーに関するご質問は、[お問い合わせ](/hubungi-kami)ページまたは [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。

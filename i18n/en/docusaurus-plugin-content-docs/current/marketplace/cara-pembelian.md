@@ -1,75 +1,75 @@
 ---
-title: Cara Membeli Kursus
+title: How to Purchase a Course
 sidebar_position: 1
-description: Panduan langkah demi langkah untuk membeli kursus berbayar di Nihonbuzz Academy dengan mudah dan aman.
+description: Step-by-step guide to purchasing paid courses on Nihonbuzz Academy easily and securely.
 ---
 
-# Cara Membeli Kursus
+# How to Purchase a Course
 
-Beberapa kursus di Nihonbuzz Academy bersifat **berbayar** dan memerlukan proses pembelian sebelum Anda bisa mengakses materi. Platform ini menyediakan pengalaman pembelian yang sederhana, cepat, dan aman.
-
----
-
-## 🛍️ Menemukan Kursus Berbayar
-
-Untuk menemukan kursus berbayar:
-
-- Kunjungi halaman **Katalog Kursus**
-- Gunakan filter “Berbayar” pada sidebar
-- Kursus berbayar biasanya memiliki label harga dan tombol **"Beli Kursus"**
-
-Setiap kursus memiliki halaman detail yang mencantumkan:
-- Deskripsi lengkap
-- Harga
-- Fasilitas (akses seumur hidup, sertifikat, forum, dll.)
-- Informasi pengajar
+Some courses on Nihonbuzz Academy are **paid** and require purchase before you can access the materials. Our platform offers a simple, fast, and secure purchasing experience.
 
 ---
 
-## 💳 Proses Pembelian Kursus
+## 🛍️ Finding Paid Courses
 
-Berikut langkah-langkah untuk membeli kursus:
+To find paid courses:
 
-1. **Klik tombol “Beli Kursus”** pada halaman kursus yang diinginkan
-2. Anda akan diarahkan ke halaman pembayaran
-3. Isi data yang dibutuhkan (jika belum login, silakan login terlebih dahulu)
-4. Pilih metode pembayaran yang tersedia
-5. Lanjutkan ke proses pembayaran sesuai petunjuk
+- Visit the **Course Catalog** page
+- Use the “Paid” filter in the sidebar
+- Paid courses usually display a price label and a **"Buy Course"** button
 
-Setelah pembayaran berhasil:
-- Anda akan diarahkan kembali ke halaman kursus
-- Kursus langsung bisa diakses tanpa batas
-
----
-
-## 📦 Apa yang Didapat Setelah Membeli?
-
-Dengan membeli kursus, Anda akan mendapatkan:
-
-- Akses penuh ke semua modul kursus
-- Forum dan fitur komunitas khusus peserta kursus
-- Sertifikat setelah menyelesaikan
-- Akses seumur hidup (selama kursus tersedia di platform)
-
-Beberapa kursus juga menyertakan bonus materi tambahan.
+Each course page includes:
+- A detailed description
+- Price
+- Features (lifetime access, certificate, forum, etc.)
+- Instructor information
 
 ---
 
-## ❓ Tidak Bisa Membeli Kursus?
+## 💳 How to Purchase a Course
 
-Jika tombol pembelian tidak muncul atau proses gagal:
+Follow these steps to buy a course:
 
-- Pastikan Anda sudah login
-- Coba dari perangkat atau browser lain
-- Periksa koneksi internet
-- Lihat panduan [Metode Pembayaran & Invoice](./metode-pembayaran.md)
+1. **Click the “Buy Course” button** on the course page
+2. You’ll be redirected to the payment page
+3. Fill in the required details (log in first if you haven’t)
+4. Select an available payment method
+5. Complete the payment following the instructions
 
-Jika masih gagal, silakan laporkan melalui [Halaman Hubungi Kami](../hubungi-kami.md)
+Once the payment is successful:
+- You’ll be redirected back to the course page
+- Immediate and unlimited access will be granted
 
 ---
 
-## 🎓 Kursus Gratis?
+## 📦 What Do You Get After Purchasing?
 
-Tertarik mencoba kursus gratis terlebih dahulu?  
-Lihat perbandingan lengkapnya di sini:  
-👉 [Kursus Gratis vs Berbayar](./kursus-gratis-berbayar.md)
+When you purchase a course, you will receive:
+
+- Full access to all course modules
+- Community forum and features exclusive to course participants
+- Certificate upon completion
+- Lifetime access (as long as the course remains on the platform)
+
+Some courses may also include bonus materials.
+
+---
+
+## ❓ Can’t Purchase a Course?
+
+If the purchase button is missing or the process fails:
+
+- Make sure you’re logged in
+- Try another device or browser
+- Check your internet connection
+- See the guide [Payment Methods & Invoices](./metode-pembayaran.md)
+
+If the issue persists, report it via [Contact Us](../hubungi-kami.md)
+
+---
+
+## 🎓 Free Courses?
+
+Want to try a free course first?  
+See the full comparison here:  
+👉 [Free vs Paid Courses](./kursus-gratis-berbayar.md)

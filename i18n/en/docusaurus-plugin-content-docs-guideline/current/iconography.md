@@ -1,50 +1,50 @@
 ---
-title: Ikonografi
-description: Panduan ikon resmi dan gaya ikonografi Nihonbuzz.
+title: Iconography
+description: Official icon guidelines and Nihonbuzz iconography style.
 slug: /iconography
 sidebar_position: 4
 ---
 
-# Ikonografi Nihonbuzz
+# Nihonbuzz Iconography
 
-Ikon adalah elemen penting dalam komunikasi visual Nihonbuzz. Ikonografi kami dirancang untuk mendukung pesan secara jelas, intuitif, dan konsisten di seluruh platform.
+Icons are an essential part of Nihonbuzz's visual communication. Our iconography is designed to deliver messages clearly, intuitively, and consistently across all platforms.
 
-## Gaya Ikon
+## Icon Style
 
-Kami menggunakan ikon dengan gaya minimalis, solid, dan mudah dikenali. Setiap ikon dibuat dalam bentuk vektor untuk memastikan skalabilitas tanpa kehilangan kualitas.
+We use a **minimalistic, solid, and highly recognizable** icon style. Each icon is created as a vector to ensure scalability without losing quality.
 
-### Karakteristik Ikon Kami
+### Key Characteristics
 
-- **Bentuk sederhana dan padat**
-- **Sudut membulat** untuk kesan ramah
-- **Tebal konsisten** di semua ikon
-- **Warna monokromatis** (biasanya hitam atau putih) untuk fleksibilitas
+- **Simple, bold shapes**
+- **Rounded corners** for a friendly look
+- **Consistent stroke thickness** across all icons
+- **Monochromatic color scheme** (typically black or white) for flexibility
 
-## Contoh Ikon
+## Example Icons
 
-Berikut adalah beberapa contoh ikon resmi kami:
+Here are a few official icon samples:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-512.png" alt="Ikon Aplikasi" width="64" />
-  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-1024-Circle.png" alt="Ikon Bulat" width="64" />
-  <img src="/assets/Site-Icon/BIMI/nihonbuzz-tiny.svg" alt="Ikon BIMI SVG" width="64" />
+  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-512.png" alt="App Icon" width="64" />
+  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-1024-Circle.png" alt="Circle Icon" width="64" />
+  <img src="/assets/Site-Icon/BIMI/nihonbuzz-tiny.svg" alt="BIMI SVG Icon" width="64" />
 </div>
 
-> Ikon-ikon tambahan dapat ditemukan di direktori: `static/assets/Site-Icon/`
+> Additional icons can be found in the directory: `static/assets/Site-Icon/`
 
-## Ukuran & Format
+## Sizes & Formats
 
-- Format utama: `.svg` (vektor), `.png`, `.ico`
-- Ukuran umum: 512×512 px, 1024×1024 px
-- Tersedia juga favicon dalam format `.ico` untuk web
+- Primary formats: `.svg` (vector), `.png`, `.ico`
+- Common sizes: 512×512 px, 1024×1024 px
+- Favicon also available in `.ico` format for web use
 
-## Pedoman Penggunaan
+## Usage Guidelines
 
-- Gunakan ikon resmi yang telah disediakan. Jangan mengganti bentuk atau membuat variasi baru tanpa izin.
-- Selalu gunakan versi SVG untuk hasil terbaik di perangkat beresolusi tinggi.
-- Ikon harus memiliki ruang kosong minimum di sekelilingnya agar mudah dikenali.
-- Hindari menggunakan ikon dalam warna yang tidak sesuai kontras.
+- Always use the official icons provided. Do not alter shapes or create unauthorized variations.
+- Prefer **SVG** format for the best results on high-resolution displays.
+- Maintain adequate spacing around icons to ensure clarity.
+- Avoid using colors that reduce contrast and legibility.
 
 ---
 
-Untuk permintaan ikon tambahan atau versi khusus, silakan hubungi [support@nihonbuzz.org](/hubungi-kami).
+For additional icon requests or custom versions, please contact us at [support@nihonbuzz.org](/hubungi-kami).

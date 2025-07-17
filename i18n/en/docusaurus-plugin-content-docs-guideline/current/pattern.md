@@ -9,34 +9,45 @@ sidebar_position: 5
 
 Pola visual merupakan elemen dekoratif yang digunakan untuk memperkuat identitas Nihonbuzz secara estetis. Pola-pola ini dapat digunakan sebagai latar belakang, pengisi ruang negatif, atau elemen desain tambahan dalam berbagai media.
 
-## Filosofi Pola
+---
+title: Visual Patterns
+description: Decorative pattern guidelines for Nihonbuzz brand identity.
+slug: /pattern
+sidebar_position: 5
+---
 
-Pola kami dirancang dengan mempertimbangkan filosofi berikut:
+# Nihonbuzz Visual Patterns
 
-- **Keteraturan dan ritme**, mencerminkan struktur dan profesionalisme.
-- **Kesederhanaan geometris**, selaras dengan gaya minimalis brand.
-- **Fleksibilitas**, agar dapat diaplikasikan pada berbagai ukuran dan media.
+Visual patterns are decorative elements used to aesthetically reinforce Nihonbuzz's brand identity. These patterns can be applied as backgrounds, negative space fillers, or additional design elements across various media.
 
-## Contoh Pola
+## Pattern Philosophy
 
-Berikut adalah contoh visual dari pola utama Nihonbuzz:
+Our patterns are designed based on the following principles:
+
+- **Order and rhythm**, reflecting structure and professionalism.
+- **Geometric simplicity**, aligned with the brand’s minimalist style.
+- **Flexibility**, allowing application across various sizes and media.
+
+## Pattern Examples
+
+Here are examples of Nihonbuzz's primary patterns:
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-  <img src="/assets/Pattern/pattern.png" alt="Contoh Pola PNG" width="200" />
-  <img src="/assets/Pattern/pattern.svg" alt="Contoh Pola SVG" width="200" />
+  <img src="/assets/Pattern/pattern.png" alt="Pattern PNG Example" width="200" />
+  <img src="/assets/Pattern/pattern.svg" alt="Pattern SVG Example" width="200" />
 </div>
 
-> Format vektor direkomendasikan untuk cetak dan resolusi tinggi.
+> Vector format is recommended for print and high-resolution use.
 
-## Format File
+## File Formats
 
-Pola tersedia dalam format berikut:
+Patterns are available in the following formats:
 
-- `.svg` – untuk fleksibilitas maksimal (desain web dan cetak)
-- `.png` – untuk pratinjau dan media digital
-- `.eps` – untuk aplikasi profesional berbasis cetak
+- `.svg` – for maximum flexibility (web and print design)
+- `.png` – for previews and digital media
+- `.eps` – for professional print applications
 
-Semua file pola dapat ditemukan di:
+All pattern files can be found at:
 
 ```
 https://brand.nihonbuzz.org/assets/Pattern/pattern.eps
@@ -44,13 +55,13 @@ https://brand.nihonbuzz.org/assets/Pattern/pattern.png
 https://brand.nihonbuzz.org/assets/Pattern/pattern.svg
 ```
 
-## Pedoman Penggunaan
+## Usage Guidelines
 
-- Gunakan pola dengan opasitas rendah sebagai latar belakang atau aksen visual.
-- Jangan memodifikasi bentuk dasar pola tanpa persetujuan tim desain.
-- Hindari penggunaan berlebihan agar tidak mengganggu konten utama.
-- Kombinasikan dengan warna merek utama untuk konsistensi visual.
+- Use patterns with low opacity as background or visual accents.
+- Do not modify the base pattern without the design team’s approval.
+- Avoid overusing patterns to prevent distraction from main content.
+- Combine patterns with primary brand colors for visual consistency.
 
 ---
 
-Jika Anda membutuhkan pola dalam dimensi tertentu atau varian warna khusus, hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+If you need patterns in specific dimensions or custom color variations, please contact us at [support@nihonbuzz.org](/hubungi-kami).

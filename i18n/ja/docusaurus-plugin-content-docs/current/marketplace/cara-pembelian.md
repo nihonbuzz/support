@@ -1,75 +1,75 @@
 ---
-title: Cara Membeli Kursus
+title: コースの購入方法
 sidebar_position: 1
-description: Panduan langkah demi langkah untuk membeli kursus berbayar di Nihonbuzz Academy dengan mudah dan aman.
+description: Nihonbuzz Academyで有料コースを簡単かつ安全に購入するためのステップバイステップガイド。
 ---
 
-# Cara Membeli Kursus
+# コースの購入方法
 
-Beberapa kursus di Nihonbuzz Academy bersifat **berbayar** dan memerlukan proses pembelian sebelum Anda bisa mengakses materi. Platform ini menyediakan pengalaman pembelian yang sederhana, cepat, dan aman.
-
----
-
-## 🛍️ Menemukan Kursus Berbayar
-
-Untuk menemukan kursus berbayar:
-
-- Kunjungi halaman **Katalog Kursus**
-- Gunakan filter “Berbayar” pada sidebar
-- Kursus berbayar biasanya memiliki label harga dan tombol **"Beli Kursus"**
-
-Setiap kursus memiliki halaman detail yang mencantumkan:
-- Deskripsi lengkap
-- Harga
-- Fasilitas (akses seumur hidup, sertifikat, forum, dll.)
-- Informasi pengajar
+Nihonbuzz Academyの一部のコースは**有料**で、購入手続きが完了するまで教材にアクセスできません。当プラットフォームは、シンプルで迅速、かつ安全な購入体験を提供します。
 
 ---
 
-## 💳 Proses Pembelian Kursus
+## 🛍️ 有料コースを探す
 
-Berikut langkah-langkah untuk membeli kursus:
+有料コースを探すには：
 
-1. **Klik tombol “Beli Kursus”** pada halaman kursus yang diinginkan
-2. Anda akan diarahkan ke halaman pembayaran
-3. Isi data yang dibutuhkan (jika belum login, silakan login terlebih dahulu)
-4. Pilih metode pembayaran yang tersedia
-5. Lanjutkan ke proses pembayaran sesuai petunjuk
+- **コースカタログ**ページを開く
+- サイドバーで「有料」フィルターを使用
+- 有料コースには価格ラベルと**「コースを購入」**ボタンが表示されます
 
-Setelah pembayaran berhasil:
-- Anda akan diarahkan kembali ke halaman kursus
-- Kursus langsung bisa diakses tanpa batas
-
----
-
-## 📦 Apa yang Didapat Setelah Membeli?
-
-Dengan membeli kursus, Anda akan mendapatkan:
-
-- Akses penuh ke semua modul kursus
-- Forum dan fitur komunitas khusus peserta kursus
-- Sertifikat setelah menyelesaikan
-- Akses seumur hidup (selama kursus tersedia di platform)
-
-Beberapa kursus juga menyertakan bonus materi tambahan.
+各コースの詳細ページには次の情報が含まれます：
+- 詳細な説明
+- 価格
+- 特典（無期限アクセス、修了証明書、フォーラムなど）
+- 講師情報
 
 ---
 
-## ❓ Tidak Bisa Membeli Kursus?
+## 💳 コース購入の手順
 
-Jika tombol pembelian tidak muncul atau proses gagal:
+コースを購入するには、次の手順を実行します：
 
-- Pastikan Anda sudah login
-- Coba dari perangkat atau browser lain
-- Periksa koneksi internet
-- Lihat panduan [Metode Pembayaran & Invoice](./metode-pembayaran.md)
+1. コースページの**「コースを購入」ボタン**をクリック
+2. 支払いページに移動します
+3. 必要な情報を入力（未ログインの場合はログインしてください）
+4. 利用可能な支払い方法を選択
+5. 指示に従って支払いを完了
 
-Jika masih gagal, silakan laporkan melalui [Halaman Hubungi Kami](../hubungi-kami.md)
+支払いが成功すると：
+- コースページにリダイレクトされます
+- 即座に無制限アクセスが可能になります
 
 ---
 
-## 🎓 Kursus Gratis?
+## 📦 購入後に得られるもの
 
-Tertarik mencoba kursus gratis terlebih dahulu?  
-Lihat perbandingan lengkapnya di sini:  
-👉 [Kursus Gratis vs Berbayar](./kursus-gratis-berbayar.md)
+コースを購入すると、以下を利用できます：
+
+- すべてのコースモジュールへのフルアクセス
+- コース参加者限定のコミュニティフォーラムと機能
+- 修了証明書の取得
+- 無期限アクセス（コースがプラットフォームにある限り）
+
+一部のコースには追加のボーナス教材が含まれる場合もあります。
+
+---
+
+## ❓ コースを購入できない場合
+
+購入ボタンが表示されない、または処理に失敗する場合：
+
+- ログインしているか確認
+- 別のデバイスまたはブラウザで試す
+- インターネット接続を確認
+- [支払い方法と請求書](./metode-pembayaran.md)のガイドを確認
+
+問題が解決しない場合は、[お問い合わせページ](../hubungi-kami.md)から報告してください。
+
+---
+
+## 🎓 無料コースについて
+
+まずは無料コースを試したいですか？  
+詳細な比較はこちらをご覧ください：  
+👉 [無料コースと有料コースの比較](./kursus-gratis-berbayar.md)

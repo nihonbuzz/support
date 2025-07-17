@@ -1,82 +1,81 @@
 ---
-title: Error Saat Mengakses Kursus
+title: Error When Accessing Courses
 sidebar_position: 1
-description: Panduan mengatasi error umum saat membuka atau memulai kursus di platform.
+description: Guide to fixing common errors when opening or starting a course on the platform.
 ---
 
-# Error Saat Mengakses Kursus
+# Error When Accessing Courses
 
-Jika Anda mengalami kendala saat mencoba membuka atau mengikuti kursus di Nihonbuzz Academy, ada beberapa kemungkinan penyebab yang bisa diatasi dengan cepat. Halaman ini akan membantu Anda mengenali penyebab dan memberikan solusi mandiri sebelum menghubungi tim dukungan.
-
----
-
-## ❗ Jenis Error yang Umum Terjadi
-
-Beberapa pesan atau kondisi error yang mungkin Anda temui:
-
-- **“Halaman tidak ditemukan”** saat membuka kursus
-- **“Anda tidak memiliki akses ke konten ini”**
-- Tombol **Mulai Kursus** tidak berfungsi
-- Konten kursus tidak muncul setelah diklik
+If you encounter issues when trying to open or start a course on Nihonbuzz Academy, there are several possible causes that can often be resolved quickly. This guide will help you identify the problem and provide self-service solutions before contacting our support team.
 
 ---
 
-## 🔍 Penyebab Umum & Solusi
+## ❗ Common Types of Errors
 
-### 1. **Belum Login**
-Pastikan Anda sudah login sebelum mengakses kursus. Banyak kursus hanya bisa dibuka oleh pengguna terdaftar.
+Some common messages or conditions you may encounter:
 
-👉 **Solusi:**  
-Login terlebih dahulu, lalu kembali ke halaman kursus.
-
----
-
-### 2. **Belum Terdaftar di Kursus**
-Beberapa kursus memerlukan pendaftaran manual atau pembelian sebelum dapat diakses.
-
-👉 **Solusi:**  
-Periksa apakah Anda sudah mendaftar di kursus tersebut. Jika belum, klik tombol **“Ikuti Kursus”** atau lakukan pembelian jika kursus berbayar.
+- **“Page not found”** when opening a course
+- **“You do not have access to this content”**
+- The **Start Course** button does not work
+- Course content does not load after clicking
 
 ---
 
-### 3. **Kursus Sudah Ditutup**
-Kursus tertentu memiliki batas waktu akses atau periode aktif.
+## 🔍 Common Causes & Solutions
 
-👉 **Solusi:**  
-Periksa deskripsi kursus. Jika kursus telah ditutup atau tidak lagi aktif, Anda tidak akan bisa mengaksesnya.
+### 1. **Not Logged In**
+Ensure you are logged in before accessing the course. Many courses can only be opened by registered users.
 
----
-
-### 4. **Masalah Peramban (Browser)**
-Terkadang browser yang usang atau ekstensi yang aktif dapat mengganggu tampilan konten.
-
-👉 **Solusi:**
-- Gunakan browser terbaru (Chrome, Firefox, Safari, dll.)
-- Coba **mode incognito** atau **nonaktifkan ekstensi pihak ketiga**
-- Bersihkan cache dan muat ulang halaman
+👉 **Solution:**  
+Log in first, then return to the course page.
 
 ---
 
-### 5. **Koneksi Internet Tidak Stabil**
-Koneksi yang lambat atau tidak stabil bisa membuat halaman gagal dimuat dengan sempurna.
+### 2. **Not Enrolled in the Course**
+Some courses require manual enrollment or purchase before they can be accessed.
 
-👉 **Solusi:**  
-Pastikan koneksi internet Anda lancar. Jika perlu, sambungkan ke jaringan lain dan coba kembali.
-
----
-
-## 📬 Tetap Tidak Bisa Mengakses?
-
-Jika Anda sudah mencoba langkah-langkah di atas dan masih mengalami kendala:
-
-- Catat pesan error yang muncul
-- Ambil tangkapan layar (screenshot) jika perlu
-- Hubungi tim dukungan melalui halaman:  
-  👉 [Hubungi Kami](../hubungi-kami.md)
-
-Tim kami siap membantu menyelesaikan masalah Anda secepat mungkin.
+👉 **Solution:**  
+Check if you have enrolled in the course. If not, click **“Enroll”** or make a purchase if it is a paid course.
 
 ---
 
-Menjaga kenyamanan belajar Anda adalah prioritas kami. Jangan ragu untuk mencari bantuan jika mengalami kendala teknis.
+### 3. **Course Closed**
+Certain courses have a limited access period or active duration.
 
+👉 **Solution:**  
+Check the course description. If the course has been closed or is no longer active, you will not be able to access it.
+
+---
+
+### 4. **Browser Issues**
+Outdated browsers or active extensions can sometimes interfere with content display.
+
+👉 **Solution:**
+- Use the latest version of your browser (Chrome, Firefox, Safari, etc.)
+- Try **incognito mode** or **disable third-party extensions**
+- Clear your cache and reload the page
+
+---
+
+### 5. **Unstable Internet Connection**
+A slow or unstable connection may prevent the page from loading properly.
+
+👉 **Solution:**  
+Ensure your internet connection is stable. If needed, switch to another network and try again.
+
+---
+
+## 📬 Still Can’t Access?
+
+If you have tried the above steps and still face issues:
+
+- Note down any error messages
+- Take a screenshot if possible
+- Contact our support team via:  
+  👉 [Contact Us](../hubungi-kami.md)
+
+Our team is ready to help resolve your issue as quickly as possible.
+
+---
+
+Your learning experience is our priority. Don’t hesitate to seek help if you face technical difficulties.

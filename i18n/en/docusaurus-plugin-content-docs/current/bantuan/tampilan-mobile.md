@@ -1,87 +1,86 @@
 ---
-title: Masalah Tampilan Mobile
+title: Mobile Display Issues
 sidebar_position: 2
-description: Panduan mengatasi masalah tampilan dan navigasi saat mengakses platform melalui perangkat mobile.
+description: Guide to troubleshooting display and navigation issues when accessing the platform via mobile devices.
 ---
 
-# Masalah Tampilan Mobile
+# Mobile Display Issues
 
-Platform Nihonbuzz Academy dirancang agar responsif dan dapat diakses dengan baik melalui perangkat mobile seperti smartphone dan tablet. Namun, dalam beberapa kasus, Anda mungkin mengalami kendala tampilan atau fungsi tertentu saat menggunakan perangkat mobile.
-
----
-
-## 📱 Gejala Umum Masalah Tampilan
-
-Berikut beberapa kendala yang sering dilaporkan pengguna:
-
-- Tombol atau menu tidak muncul atau tidak bisa ditekan
-- Halaman kursus tidak termuat sempurna
-- Teks terlalu kecil atau terlalu besar
-- Video tidak bisa diputar di layar penuh
-- Scroll tidak berfungsi normal
+Nihonbuzz Academy is designed to be responsive and accessible on mobile devices such as smartphones and tablets. However, in some cases, you might encounter display or functional issues when using a mobile device.
 
 ---
 
-## 🔍 Penyebab & Solusi Umum
+## 📱 Common Display Problems
 
-### 1. **Versi Peramban Tidak Diperbarui**
-Peramban (browser) versi lama dapat menyebabkan masalah kompatibilitas.
+Here are some issues often reported by users:
 
-👉 **Solusi:**  
-Pastikan Anda menggunakan versi terbaru dari browser seperti Chrome, Safari, atau Firefox.
-
----
-
-### 2. **Koneksi Internet Tidak Stabil**
-Koneksi yang lambat bisa membuat elemen halaman tidak termuat sempurna.
-
-👉 **Solusi:**  
-Gunakan jaringan Wi-Fi yang stabil atau periksa sinyal data seluler Anda.
+- Buttons or menus do not appear or cannot be tapped
+- Course page does not load completely
+- Text is too small or too large
+- Video cannot play in full screen
+- Scrolling does not work properly
 
 ---
 
-### 3. **Ekstensi/Blokir Iklan (Ad Blocker) Aktif**
-Beberapa ekstensi browser mobile atau aplikasi keamanan dapat mengganggu tampilan.
+## 🔍 Common Causes & Solutions
 
-👉 **Solusi:**  
-Nonaktifkan ekstensi ad blocker atau buka platform menggunakan mode incognito/private.
+### 1. **Outdated Browser Version**
+Older browser versions can cause compatibility issues.
 
----
-
-### 4. **Perangkat Terlalu Kecil atau Lama**
-Beberapa perangkat sangat lama mungkin tidak sepenuhnya kompatibel.
-
-👉 **Solusi:**  
-Jika memungkinkan, gunakan perangkat dengan ukuran layar minimal 5,5 inci dan sistem operasi terbaru.
+👉 **Solution:**  
+Ensure you are using the latest version of browsers like Chrome, Safari, or Firefox.
 
 ---
 
-### 5. **Cache & Data Browser Bermasalah**
-Cache lama atau data rusak dapat mengganggu tampilan halaman.
+### 2. **Unstable Internet Connection**
+A slow or unstable connection may cause page elements to fail to load.
 
-👉 **Solusi:**  
-Bersihkan cache dan data browser Anda, lalu muat ulang halaman.
-
----
-
-## 💡 Tips Optimal Belajar di Mobile
-
-- Gunakan mode **lanskap (horizontal)** saat menonton video
-- Perbesar tampilan teks jika terasa kecil melalui pengaturan browser
-- Simpan link kursus ke layar utama untuk akses cepat
-- Aktifkan **mode gelap** jika belajar malam hari untuk kenyamanan mata
+👉 **Solution:**  
+Use a stable Wi-Fi connection or check your mobile data signal.
 
 ---
 
-## 🚨 Masih Mengalami Masalah?
+### 3. **Ad Blocker or Extensions Enabled**
+Some mobile browser extensions or security apps can interfere with display.
 
-Jika semua langkah di atas tidak berhasil:
+👉 **Solution:**  
+Disable ad blockers or try accessing the platform using incognito/private mode.
 
-1. Catat detail masalah Anda (perangkat, browser, dan versi)
-2. Ambil tangkapan layar (jika perlu)
-3. Laporkan melalui halaman berikut:
+---
 
-👉 [Hubungi Kami](../hubungi-kami.md)
+### 4. **Device Too Small or Outdated**
+Older devices may not be fully compatible.
 
-Kami akan membantu Anda untuk memastikan pengalaman belajar tetap lancar di perangkat apa pun.
+👉 **Solution:**  
+If possible, use a device with a minimum 5.5-inch screen and an updated operating system.
 
+---
+
+### 5. **Corrupted Cache & Browser Data**
+Old cache or corrupted data may disrupt page rendering.
+
+👉 **Solution:**  
+Clear your browser cache and data, then reload the page.
+
+---
+
+## 💡 Tips for Better Mobile Learning
+
+- Use **landscape mode** when watching videos
+- Increase text size via browser settings if it feels too small
+- Add the course link to your home screen for quick access
+- Enable **dark mode** for eye comfort during nighttime study sessions
+
+---
+
+## 🚨 Still Having Issues?
+
+If the above steps do not work:
+
+1. Note down the details of your issue (device, browser, and version)
+2. Take a screenshot if necessary
+3. Report the issue via this page:
+
+👉 [Contact Us](../hubungi-kami.md)
+
+We’ll help ensure a smooth learning experience on any device.

@@ -1,82 +1,82 @@
 ---
-title: Email Tidak Masuk (Reset / Aktivasi)
+title: メールが届かない（リセット / アクティベーション）
 sidebar_position: 3
-description: Panduan mengatasi masalah email yang tidak diterima, seperti email aktivasi akun atau reset kata sandi.
+description: アカウント有効化やパスワードリセットなど、重要なメールが届かない場合の対処方法。
 ---
 
-# Email Tidak Masuk (Reset / Aktivasi)
+# メールが届かない（リセット / アクティベーション）
 
-Setelah mendaftar atau meminta reset kata sandi di Nihonbuzz Academy, Anda seharusnya menerima email penting seperti:
+Nihonbuzz Academyに登録した後、またはパスワードリセットをリクエストした後、以下の重要なメールが届くはずです：
 
-- Email aktivasi akun
-- Tautan reset kata sandi
-- Notifikasi pembelian atau pendaftaran kursus
+- アカウント有効化メール
+- パスワードリセットリンク
+- 購入やコース登録の通知
 
-Namun, dalam beberapa kasus, email tersebut mungkin tidak muncul di kotak masuk Anda. Berikut adalah panduan untuk mengatasi masalah ini.
-
----
-
-## 📬 Periksa Folder Spam atau Promosi
-
-Email dari sistem kami kadang disaring secara otomatis oleh penyedia email dan masuk ke folder:
-
-- **Spam**
-- **Promosi** (khusus Gmail)
-- **Update / Sosial** (tab lainnya)
-
-👉 **Solusi:**  
-Periksa semua folder tersebut dan tandai email dari kami sebagai **bukan spam** agar email berikutnya langsung masuk ke kotak utama.
+しかし、一部のケースでは、これらのメールが受信トレイに表示されないことがあります。以下はその解決策です。
 
 ---
 
-## 📛 Salah Mengetik Alamat Email
+## 📬 スパムやプロモーションフォルダを確認
 
-Kesalahan penulisan alamat email saat mendaftar atau reset kata sandi akan membuat sistem tidak dapat mengirimkan email ke Anda.
+システムからのメールは、メールプロバイダによって自動的に以下のフォルダに振り分けられることがあります：
 
-👉 **Solusi:**  
-Coba ulangi proses dengan alamat email yang benar. Jika Anda tidak yakin, hubungi tim dukungan untuk pengecekan.
+- **迷惑メール**
+- **プロモーション**（Gmailの場合）
+- **アップデート / ソーシャル**タブ
 
----
-
-## ⏳ Server Email Sedang Lambat
-
-Dalam beberapa kondisi, pengiriman email bisa tertunda hingga 5–10 menit, terutama saat lalu lintas tinggi.
-
-👉 **Solusi:**  
-Tunggu beberapa saat, lalu periksa kembali email Anda.
+👉 **解決策:**  
+これらのフォルダをすべて確認し、当社からのメールを**迷惑メールではない**としてマークしてください。これで、次回以降はメイン受信トレイに届きます。
 
 ---
 
-## 📵 Email Diblokir oleh Penyedia
+## 📛 メールアドレスの入力ミス
 
-Beberapa penyedia email secara otomatis memblokir email dari sistem tertentu, terutama jika Anda menggunakan alamat khusus seperti email kantor atau domain pribadi.
+登録やリセット時にメールアドレスを間違えると、システムはメールを送信できません。
 
-👉 **Solusi:**
-- Gunakan alamat email umum seperti Gmail atau Yahoo
-- Atau, tambahkan alamat email pengirim ke daftar kontak (whitelist)
-
----
-
-## 🔁 Kirim Ulang Email Aktivasi / Reset
-
-Jika Anda tidak menerima email aktivasi atau tautan reset kata sandi:
-
-1. Kunjungi halaman login
-2. Klik **Lupa Kata Sandi** atau **Kirim Ulang Email Aktivasi**
-3. Masukkan alamat email Anda
-4. Cek kembali kotak masuk dalam beberapa menit
+👉 **解決策:**  
+正しいメールアドレスで再度手続きを行ってください。自信がない場合は、サポートにお問い合わせください。
 
 ---
 
-## 📞 Masih Tidak Menerima Email?
+## ⏳ メールサーバーの遅延
 
-Jika Anda sudah mencoba semua langkah di atas dan tetap tidak menerima email dari sistem:
+特にアクセスが集中している場合、メールの配信が5〜10分遅れることがあります。
 
-- Kirim laporan melalui halaman [Hubungi Kami](../hubungi-kami.md)
-- Sertakan alamat email Anda dan jenis email yang ditunggu (aktivasi/reset/konfirmasi)
-
-Tim kami akan membantu Anda secara manual untuk memastikan akun Anda tetap bisa digunakan.
+👉 **解決策:**  
+しばらく待ってから、再度受信トレイを確認してください。
 
 ---
 
-Menjaga akses Anda tetap lancar adalah prioritas kami. Jangan ragu menghubungi tim dukungan jika mengalami kendala seperti ini.
+## 📵 メールプロバイダによるブロック
+
+一部のメールプロバイダは、特定のシステムメールを自動的にブロックすることがあります。特に会社用メールや独自ドメインを使用している場合に発生します。
+
+👉 **解決策:**
+- GmailやYahooなどの一般的なメールサービスを使用
+- または、送信元アドレスを連絡先（ホワイトリスト）に追加
+
+---
+
+## 🔁 有効化 / リセットメールを再送信
+
+有効化メールやリセットリンクを受け取っていない場合：
+
+1. ログインページにアクセス
+2. **パスワードを忘れた場合** または **有効化メールを再送信** をクリック
+3. メールアドレスを入力
+4. 数分後に受信トレイを再確認
+
+---
+
+## 📞 それでもメールが届かない場合
+
+上記の手順をすべて試してもメールが届かない場合：
+
+- [お問い合わせ](../hubungi-kami.md)ページから報告してください
+- あなたのメールアドレスと、期待しているメールの種類（有効化 / リセット / 確認）を記載してください
+
+当社のチームが、アカウントへのアクセスを確保するために手動で対応します。
+
+---
+
+スムーズなアクセスを維持することは、当社の最優先事項です。このような問題が発生した場合は、遠慮なくご連絡ください。

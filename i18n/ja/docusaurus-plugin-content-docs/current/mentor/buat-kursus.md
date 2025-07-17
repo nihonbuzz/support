@@ -1,99 +1,99 @@
 ---
-title: Cara Membuat Kursus (Instruktur)
+title: コースの作成方法（講師向け）
 sidebar_position: 1
-description: Panduan lengkap bagi instruktur untuk membuat dan menerbitkan kursus di platform Nihonbuzz Academy.
+description: Nihonbuzz Academyで講師がコースを作成し公開するための完全ガイド。
 ---
 
-# Cara Membuat Kursus (Instruktur)
+# コースの作成方法（講師向け）
 
-Sebagai instruktur, Anda memiliki peran penting dalam membagikan ilmu dan pengalaman kepada peserta di Nihonbuzz Academy. Platform ini menyediakan sistem yang mudah digunakan untuk membuat, mengelola, dan menerbitkan kursus secara mandiri.
+講師として、あなたはNihonbuzz Academyの学習者に知識と経験を共有する重要な役割を担っています。当プラットフォームでは、簡単にコースを作成・管理・公開できるシステムを提供しています。
 
-Halaman ini akan memandu Anda langkah demi langkah dalam membuat kursus pertama Anda.
-
----
-
-## 🎯 Persiapan Sebelum Membuat Kursus
-
-Sebelum mulai membuat kursus, siapkan terlebih dahulu:
-
-- Judul kursus
-- Tujuan pembelajaran
-- Silabus atau struktur materi
-- Konten (teks, video, kuis, atau materi unduhan)
-- Gambar thumbnail kursus
+このページでは、初めてのコースを作成するための手順をステップごとに説明します。
 
 ---
 
-## ✏️ Langkah-Langkah Membuat Kursus
+## 🎯 コース作成前の準備
 
-### 1. **Masuk ke Dashboard Instruktur**
-Login ke akun Anda dan buka menu **Dashboard Instruktur** dari menu utama.
+開始前に以下を準備してください：
 
----
-
-### 2. **Buat Kursus Baru**
-Klik tombol **Buat Kursus Baru**. Anda akan diarahkan ke editor kursus.
-
----
-
-### 3. **Isi Informasi Umum Kursus**
-Lengkapi informasi berikut:
-
-- **Judul Kursus**
-- **Deskripsi Singkat** (akan tampil di halaman pencarian)
-- **Kategori**
-- **Tingkat Kesulitan** (Pemula, Menengah, Lanjutan)
-- **Gambar Sampul / Thumbnail**
+- コースのタイトル
+- 学習目標
+- シラバスまたはコンテンツ構成
+- コンテンツ（テキスト、動画、クイズ、ダウンロード資料など）
+- コースのサムネイル画像
 
 ---
 
-### 4. **Tambahkan Konten Pembelajaran**
-Strukturkan kursus Anda ke dalam:
+## ✏️ コース作成の手順
 
-- **Bab atau Modul** (sebagai pembagian utama)
-- **Pelajaran** (berisi video, teks, atau kombinasi keduanya)
-- **Kuis** (opsional, bisa ditambahkan untuk evaluasi)
-- **Tugas / Latihan** (jika dibutuhkan)
-
-Konten bisa diunggah langsung atau disusun menggunakan editor bawaan.
+### 1. **講師用ダッシュボードにアクセス**
+アカウントにログインし、メインメニューから**講師用ダッシュボード**を開きます。
 
 ---
 
-### 5. **Atur Harga dan Akses**
-Pilih apakah kursus akan:
-
-- **Gratis** atau
-- **Berbayar** (sertakan harga)
-
-Jika berbayar, sistem akan secara otomatis mengatur integrasi ke marketplace.
+### 2. **新しいコースを作成**
+**「新しいコースを作成」**をクリックします。コースエディターに移動します。
 
 ---
 
-### 6. **Pratinjau & Simpan**
-Setelah selesai:
+### 3. **コースの基本情報を入力**
+以下の情報を入力してください：
 
-- Pratinjau kursus untuk memastikan semuanya tampil dengan benar
-- Klik **Simpan** untuk menyimpan draf, atau **Kirim untuk Ditinjau** jika sudah siap diterbitkan
-
----
-
-## 📢 Publikasi Kursus
-
-Setelah dikirim, tim admin akan melakukan peninjauan ringan sebelum kursus dapat dipublikasikan secara resmi di platform.
-
-Waktu peninjauan biasanya memakan waktu 1–2 hari kerja.
+- **コースタイトル**
+- **短い説明**（検索結果に表示されます）
+- **カテゴリー**
+- **難易度レベル**（初級、中級、上級）
+- **カバー画像 / サムネイル**
 
 ---
 
-## 💡 Tips untuk Instruktur
+### 4. **学習コンテンツを追加**
+コースを以下の構成で整理します：
 
-- Gunakan gaya bahasa yang jelas dan terstruktur
-- Sertakan ilustrasi atau video untuk memperkaya pembelajaran
-- Tambahkan kuis untuk meningkatkan keterlibatan peserta
-- Pastikan semua tautan dan file yang Anda unggah aktif dan dapat diakses
+- **モジュールまたは章**（主要な区分）
+- **レッスン**（動画、テキスト、またはその両方）
+- **クイズ**（任意、評価用）
+- **課題 / 演習**（必要に応じて）
+
+コンテンツは直接アップロードするか、内蔵エディターで作成できます。
 
 ---
 
-Jika Anda membutuhkan bantuan selama proses pembuatan kursus, silakan kunjungi halaman [Hubungi Kami](../hubungi-kami.md) untuk menghubungi tim support.
+### 5. **価格とアクセスの設定**
+コースを以下のどちらかに設定します：
 
-Selamat berkarya dan berbagi ilmu!
+- **無料**
+- **有料**（価格を設定）
+
+有料コースの場合、システムが自動でマーケットプレイス連携を処理します。
+
+---
+
+### 6. **プレビューと保存**
+完了後：
+
+- コースをプレビューして正しく表示されているか確認
+- **「下書き保存」**または**「レビューを送信」**をクリック（公開準備完了の場合）
+
+---
+
+## 📢 コースの公開
+
+送信後、コースは公式に公開される前に管理チームによる軽い審査を受けます。
+
+審査には通常1～2営業日かかります。
+
+---
+
+## 💡 講師へのヒント
+
+- 明確で構造的な言葉を使う
+- 学習を豊かにするため、イラストや動画を追加する
+- 受講者の参加を促すため、クイズを取り入れる
+- すべてのリンクやアップロードしたファイルが有効であることを確認
+
+---
+
+コース作成中にサポートが必要な場合は、[お問い合わせページ](../hubungi-kami.md)をご利用ください。
+
+知識を共有し、素晴らしいコースを作りましょう！

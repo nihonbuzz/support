@@ -1,51 +1,51 @@
 ---
-title: Hak Kekayaan Intelektual
+title: 知的財産ポリシー
 sidebar_position: 12
-description: Ketentuan mengenai kepemilikan dan penggunaan konten intelektual di platform.
+description: プラットフォームにおける知的財産の所有権および利用に関する方針。
 ---
 
-# Kebijakan Kekayaan Intelektual
+# 知的財産ポリシー
 
-Kami menghormati dan melindungi hak kekayaan intelektual semua pihak yang menggunakan platform kami. Kebijakan ini menetapkan standar dan prosedur yang harus dipatuhi oleh semua pengguna dan penyedia konten.
+当社は、プラットフォームを利用するすべての関係者の知的財産権を尊重し、保護します。本ポリシーでは、すべてのユーザーおよびコンテンツ提供者が遵守すべき基準と手続きについて定めています。
 
-## Kepemilikan Konten
+## コンテンツの所有権
 
-Semua materi yang tersedia di platform kami—termasuk teks, gambar, video, materi kursus, dan desain antarmuka—merupakan milik kami atau pemilik lisensinya, dan dilindungi oleh undang-undang hak cipta dan kekayaan intelektual yang berlaku.
+当プラットフォームに掲載されているすべての資料（テキスト、画像、動画、コース教材、インターフェースデザインなど）は、当社またはライセンス提供者の所有物であり、著作権法および知的財産に関する法律で保護されています。
 
-Pengguna tidak diperbolehkan menggandakan, mendistribusikan, memodifikasi, atau menyebarluaskan materi kami tanpa izin tertulis dari kami atau pemilik hak yang sah.
+ユーザーは、当社または正当な権利者の書面による許可なしに、当社のコンテンツを複製、配布、改変、または公開することを禁止します。
 
-## Hak Cipta oleh Instruktur dan Pengguna
+## 講師およびユーザーによる著作権
 
-Instruktur atau pengguna yang mengunggah konten ke platform menyatakan dan menjamin bahwa mereka memiliki hak yang sah atas konten tersebut, dan bahwa konten tidak melanggar hak cipta pihak ketiga mana pun.
+プラットフォームにコンテンツをアップロードする講師やユーザーは、そのコンテンツに対して合法的な権利を有し、第三者の著作権を侵害していないことを保証します。
 
-Dengan mengunggah konten, Anda memberikan kami hak non-eksklusif, bebas royalti, dan dapat dipindahkan untuk menampilkan dan mendistribusikan konten Anda secara publik di platform kami.
+コンテンツをアップロードすることで、ユーザーは当社に対し、プラットフォーム上でコンテンツを公開・配信するための非独占的、ロイヤリティフリー、譲渡可能なライセンスを付与するものとします。
 
-## Pelaporan Pelanggaran
+## 侵害報告
 
-Jika Anda meyakini bahwa konten di platform kami melanggar hak cipta atau hak kekayaan intelektual Anda, Anda dapat melaporkannya kepada kami dengan menyertakan informasi berikut:
+当プラットフォーム上のコンテンツが、あなたの著作権または知的財産権を侵害していると考える場合は、以下の情報を添えて報告してください：
 
-- Identitas pemilik hak cipta
-- Deskripsi materi yang dilanggar
-- Tautan langsung ke materi pelanggar
-- Pernyataan bahwa laporan diajukan dengan itikad baik
-- Informasi kontak Anda
+- 著作権所有者の情報
+- 侵害されている素材の説明
+- 該当する素材のリンク
+- 無断使用であると誠実に信じる旨の声明
+- あなたの連絡先情報
 
-Kirim laporan pelanggaran ke: [support@nihonbuzz.org](mailto:support@nihonbuzz.org)
+報告先：[support@nihonbuzz.org](mailto:support@nihonbuzz.org)
 
-## Penanganan Pelanggaran
+## 違反対応
 
-Setelah menerima laporan yang valid, kami dapat:
+有効な報告を受けた場合、当社は以下の措置を講じることがあります：
 
-- Menghapus atau menonaktifkan akses ke konten pelanggar
-- Memberi peringatan kepada pengguna yang melanggar
-- Menangguhkan atau menghapus akun pengguna jika terjadi pelanggaran berulang
+- 該当コンテンツの削除またはアクセスの無効化
+- 違反ユーザーへの警告
+- 繰り返し違反がある場合、アカウントの停止または削除
 
-Kami berhak untuk menolak laporan yang tidak lengkap atau tidak berdasar.
+不完全または根拠のない報告については、当社の裁量で却下することがあります。
 
-## Perubahan Kebijakan
+## ポリシーの変更
 
-Kebijakan ini dapat diperbarui dari waktu ke waktu. Setiap perubahan akan diumumkan di halaman ini dan mulai berlaku sejak tanggal publikasi.
+本ポリシーは必要に応じて更新される場合があります。変更は本ページに掲載され、公開後に効力を持ちます。
 
 ---
 
-Jika Anda memiliki pertanyaan atau laporan terkait kekayaan intelektual, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+知的財産に関する質問や報告は、[お問い合わせ](/hubungi-kami)ページまたは [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。

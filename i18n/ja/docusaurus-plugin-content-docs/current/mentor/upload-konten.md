@@ -1,94 +1,94 @@
 ---
-title: Upload Konten & Kuis
+title: コンテンツとクイズのアップロード
 sidebar_position: 3
-description: Panduan bagi instruktur untuk mengunggah materi pelajaran, video, file, dan membuat kuis di dalam kursus.
+description: 講師がレッスン、ビデオ、ファイルをアップロードし、コース内でクイズを作成するためのガイド。
 ---
 
-# Upload Konten & Kuis
+# コンテンツとクイズのアップロード
 
-Setelah membuat kerangka kursus, langkah selanjutnya adalah mengunggah materi pembelajaran dan menyusun kuis. Platform ini menyediakan antarmuka yang intuitif bagi instruktur untuk mengelola semua jenis konten, baik teks, video, maupun dokumen pelengkap.
+コースの構造を作成した後は、学習教材をアップロードし、クイズを作成します。本プラットフォームは、テキスト、ビデオ、補足資料など、さまざまなコンテンツを簡単に管理できる直感的なインターフェースを提供しています。
 
-Halaman ini menjelaskan bagaimana Anda dapat mengisi kursus Anda dengan materi yang menarik dan interaktif.
-
----
-
-## 📝 Jenis Konten yang Bisa Ditambahkan
-
-Sebagai instruktur, Anda dapat menambahkan:
-
-- **Teks pelajaran**  
-- **Video pembelajaran** (dari URL atau unggahan langsung)  
-- **File pendukung** (PDF, gambar, dokumen, dll.)  
-- **Kuis dan latihan soal**  
-- **Tugas atau latihan mandiri**
+このページでは、魅力的でインタラクティブなコンテンツでコースを充実させる方法を説明します。
 
 ---
 
-## 🔼 Mengunggah Materi Pelajaran
+## 📝 追加できるコンテンツの種類
 
-### 1. **Masuk ke Editor Kursus**
-- Buka dashboard instruktur
-- Pilih kursus yang ingin Anda kelola
-- Klik tombol **Edit Kursus**
+講師は以下のコンテンツを追加できます：
 
-### 2. **Tambahkan Pelajaran**
-- Pilih bab / modul tempat pelajaran ingin dimasukkan
-- Klik **Tambah Pelajaran Baru**
-
-### 3. **Masukkan Konten**
-- Tambahkan judul dan isi pelajaran menggunakan editor teks
-- Jika ingin menyisipkan video, gunakan opsi **Tambah Video**
-- Jika ada file pelengkap, klik **Tambahkan Lampiran**
-
-> **Catatan:** Video bisa ditautkan dari platform eksternal atau diunggah langsung ke sistem.
+- **レッスンテキスト**  
+- **ビデオレッスン**（URLリンクまたは直接アップロード）  
+- **補足ファイル**（PDF、画像、ドキュメントなど）  
+- **クイズや練習問題**  
+- **課題または自主学習タスク**
 
 ---
 
-## ❓ Menambahkan Kuis
+## 🔼 レッスン教材のアップロード
 
-Untuk membuat kuis atau soal evaluasi:
+### 1. **コースエディターにアクセス**
+- 講師ダッシュボードを開く
+- 管理したいコースを選択
+- **コースを編集**をクリック
 
-1. Buka bagian **Kuis** di dalam modul
-2. Klik **Buat Kuis Baru**
-3. Tambahkan:
-   - Soal pilihan ganda
-   - Benar / salah
-   - Isian singkat
+### 2. **レッスンを追加**
+- レッスンを追加するモジュールを選択
+- **新しいレッスンを追加**をクリック
 
-Setiap soal dapat dilengkapi dengan penjelasan dan skor otomatis.
+### 3. **コンテンツを入力**
+- テキストエディターを使用してタイトルと本文を追加
+- ビデオを挿入する場合は**ビデオを追加**を選択
+- 補足ファイルを追加するには**添付ファイルを追加**をクリック
 
----
-
-## 🧩 Mengelola Tugas / Latihan
-
-Jika Anda ingin memberikan tugas:
-
-- Tambahkan pelajaran khusus bertipe **Tugas**
-- Sertakan instruksi lengkap dan format jawaban
-- Anda dapat mengaktifkan fitur unggah file dari peserta
-
-Instruktur bisa memberikan nilai atau komentar langsung dari dashboard.
+> **注意:** ビデオは外部プラットフォームのリンクまたはシステムに直接アップロードできます。
 
 ---
 
-## 📁 Tips Pengelolaan Konten
+## ❓ クイズの追加
 
-- Gunakan judul pelajaran yang jelas dan ringkas
-- Susun pelajaran secara urut agar alur belajar terarah
-- Sertakan gambar atau media interaktif untuk meningkatkan pemahaman
-- Jangan unggah file terlalu besar; kompresi video sangat disarankan
+クイズや評価問題を作成するには：
 
----
+1. モジュール内の**クイズ**セクションを開く
+2. **新しいクイズを作成**をクリック
+3. 以下を追加：
+   - 選択式問題
+   - 正誤問題
+   - 短答式問題
 
-## 🆘 Kendala Saat Mengunggah?
-
-Jika Anda mengalami error saat mengunggah konten atau file tidak muncul setelah disimpan:
-
-- Coba logout dan login ulang
-- Pastikan format file sesuai
-- Gunakan koneksi internet stabil
-- Jika tetap gagal, hubungi tim dukungan melalui [Hubungi Kami](../hubungi-kami.md)
+各問題には解説や自動採点を設定できます。
 
 ---
 
-Dengan konten yang tersusun rapi dan kuis yang sesuai, Anda bisa menciptakan pengalaman belajar yang bermakna dan efektif untuk peserta kursus.
+## 🧩 課題の管理
+
+課題を設定する場合：
+
+- **課題**タイプの特別なレッスンを追加
+- 詳細な指示と回答形式を記載
+- 必要に応じて、受講者のファイルアップロード機能を有効にします
+
+講師はダッシュボードから直接、提出物に対する採点やコメントができます。
+
+---
+
+## 📁 コンテンツ管理のヒント
+
+- 明確で簡潔なレッスンタイトルを使用
+- 学習の流れをスムーズにするために論理的な順序でレッスンを配置
+- 理解を深めるために画像やインタラクティブなメディアを含める
+- 大きすぎるファイルを避ける。ビデオは圧縮推奨
+
+---
+
+## 🆘 アップロード時のトラブル
+
+コンテンツのアップロード時にエラーが発生したり、保存後にファイルが表示されない場合：
+
+- 一度ログアウトして再度ログイン
+- ファイル形式がサポート対象であることを確認
+- 安定したインターネット接続を使用
+- 問題が続く場合は、[お問い合わせ](../hubungi-kami.md)ページからサポートに連絡してください
+
+---
+
+整理されたコンテンツと適切なクイズを活用して、受講者にとって意味のある魅力的な学習体験を提供しましょう。

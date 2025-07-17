@@ -1,82 +1,82 @@
 ---
-title: Email Tidak Masuk (Reset / Aktivasi)
+title: Email Not Received (Reset / Activation)
 sidebar_position: 3
-description: Panduan mengatasi masalah email yang tidak diterima, seperti email aktivasi akun atau reset kata sandi.
+description: Guide to fixing issues where you don't receive important emails, such as account activation or password reset emails.
 ---
 
-# Email Tidak Masuk (Reset / Aktivasi)
+# Email Not Received (Reset / Activation)
 
-Setelah mendaftar atau meminta reset kata sandi di Nihonbuzz Academy, Anda seharusnya menerima email penting seperti:
+After registering or requesting a password reset on Nihonbuzz Academy, you should receive important emails such as:
 
-- Email aktivasi akun
-- Tautan reset kata sandi
-- Notifikasi pembelian atau pendaftaran kursus
+- Account activation email
+- Password reset link
+- Purchase or course registration notifications
 
-Namun, dalam beberapa kasus, email tersebut mungkin tidak muncul di kotak masuk Anda. Berikut adalah panduan untuk mengatasi masalah ini.
-
----
-
-## 📬 Periksa Folder Spam atau Promosi
-
-Email dari sistem kami kadang disaring secara otomatis oleh penyedia email dan masuk ke folder:
-
-- **Spam**
-- **Promosi** (khusus Gmail)
-- **Update / Sosial** (tab lainnya)
-
-👉 **Solusi:**  
-Periksa semua folder tersebut dan tandai email dari kami sebagai **bukan spam** agar email berikutnya langsung masuk ke kotak utama.
+However, in some cases, these emails may not appear in your inbox. Here’s how to troubleshoot this issue.
 
 ---
 
-## 📛 Salah Mengetik Alamat Email
+## 📬 Check Spam or Promotions Folder
 
-Kesalahan penulisan alamat email saat mendaftar atau reset kata sandi akan membuat sistem tidak dapat mengirimkan email ke Anda.
+Our system emails may sometimes be filtered automatically by your email provider and placed in:
 
-👉 **Solusi:**  
-Coba ulangi proses dengan alamat email yang benar. Jika Anda tidak yakin, hubungi tim dukungan untuk pengecekan.
+- **Spam** folder
+- **Promotions** tab (Gmail)
+- **Updates / Social** tabs
 
----
-
-## ⏳ Server Email Sedang Lambat
-
-Dalam beberapa kondisi, pengiriman email bisa tertunda hingga 5–10 menit, terutama saat lalu lintas tinggi.
-
-👉 **Solusi:**  
-Tunggu beberapa saat, lalu periksa kembali email Anda.
+👉 **Solution:**  
+Check all these folders and mark our emails as **Not Spam** so future emails go to your main inbox.
 
 ---
 
-## 📵 Email Diblokir oleh Penyedia
+## 📛 Incorrect Email Address
 
-Beberapa penyedia email secara otomatis memblokir email dari sistem tertentu, terutama jika Anda menggunakan alamat khusus seperti email kantor atau domain pribadi.
+A typo in your email address during registration or password reset will prevent the system from sending emails to you.
 
-👉 **Solusi:**
-- Gunakan alamat email umum seperti Gmail atau Yahoo
-- Atau, tambahkan alamat email pengirim ke daftar kontak (whitelist)
-
----
-
-## 🔁 Kirim Ulang Email Aktivasi / Reset
-
-Jika Anda tidak menerima email aktivasi atau tautan reset kata sandi:
-
-1. Kunjungi halaman login
-2. Klik **Lupa Kata Sandi** atau **Kirim Ulang Email Aktivasi**
-3. Masukkan alamat email Anda
-4. Cek kembali kotak masuk dalam beberapa menit
+👉 **Solution:**  
+Repeat the process with the correct email address. If unsure, contact support for assistance.
 
 ---
 
-## 📞 Masih Tidak Menerima Email?
+## ⏳ Email Server Delay
 
-Jika Anda sudah mencoba semua langkah di atas dan tetap tidak menerima email dari sistem:
+Email delivery can occasionally be delayed by 5–10 minutes, especially during high traffic periods.
 
-- Kirim laporan melalui halaman [Hubungi Kami](../hubungi-kami.md)
-- Sertakan alamat email Anda dan jenis email yang ditunggu (aktivasi/reset/konfirmasi)
-
-Tim kami akan membantu Anda secara manual untuk memastikan akun Anda tetap bisa digunakan.
+👉 **Solution:**  
+Wait a few minutes and check your inbox again.
 
 ---
 
-Menjaga akses Anda tetap lancar adalah prioritas kami. Jangan ragu menghubungi tim dukungan jika mengalami kendala seperti ini.
+## 📵 Email Blocked by Provider
+
+Some email providers may block system emails, particularly if you are using a company email or custom domain.
+
+👉 **Solution:**
+- Use a common email provider like Gmail or Yahoo
+- Or, whitelist our sender address in your contacts
+
+---
+
+## 🔁 Resend Activation or Reset Email
+
+If you didn’t receive an activation email or reset link:
+
+1. Go to the login page
+2. Click **Forgot Password** or **Resend Activation Email**
+3. Enter your email address
+4. Check your inbox again within a few minutes
+
+---
+
+## 📞 Still Not Receiving Emails?
+
+If you’ve tried all the steps above and still don’t receive any system emails:
+
+- Submit a report via [Contact Us](../hubungi-kami.md)
+- Include your email address and the type of email you were expecting (activation/reset/confirmation)
+
+Our team will manually assist you to ensure your account remains accessible.
+
+---
+
+Keeping your access smooth is our top priority. Don’t hesitate to reach out if you encounter issues like this.

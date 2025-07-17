@@ -1,47 +1,47 @@
 ---
-title: Logo Academy
-description: Panduan penggunaan logo resmi Nihonbuzz Academy.
+title: Academy Logo
+description: Guidelines for using the official Nihonbuzz Academy logo.
 slug: /logo/academy
 sidebar_position: 2
 ---
 
-# Logo Nihonbuzz
+# Nihonbuzz Logo
 
-Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
+The logo is the most essential element of Nihonbuzz's visual identity. We have two primary identities: **Nihonbuzz** as the corporate entity, and **Nihonbuzz Academy** as the educational division.
 
-## Logo Nihonbuzz Academy
+## Nihonbuzz Academy Logo
 
-Gunakan logo Academy dalam konteks edukatif seperti kursus, konten pelatihan, dan acara pembelajaran.
+Use the Academy logo in educational contexts such as courses, training materials, and learning events.
 
-### Versi Logo
+### Logo Versions
 
-- Logo dasar:
+- Basic logos:
 
 <div class="preview-wrapper">
   <img src="/assets/Academy/Nihonbuzz-Academy-Light.png" alt="Academy Light" width="240"/>
   <img src="/assets/Academy/Nihonbuzz-Academy-Dark.png" alt="Academy Dark" width="240"/>
 </div>
 
-- Logo dengan landscape:
+- Landscape logos:
 
 <div class="preview-wrapper">
   <img src="/assets/Academy/Nihonbuzz-Academy-Light-LS-Regular.png" alt="Academy Landscape Light" width="300"/>
   <img src="/assets/Academy/Nihonbuzz-Academy-Dark-LS-Medium.png" alt="Academy Landscape Dark" width="300"/>
 </div>
 
-- Logo branding dengan pola:
+- Branded logos with patterns:
 
 <div class="preview-wrapper">
   <img src="/assets/Academy/Nihonbuzz-Academy-Logo-Branding-Pattern-Landscape.png" alt="Academy Branding Landscape" width="300"/>
   <img src="/assets/Academy/Nihonbuzz-Academy-Logo-Branding-Pattern-Square.png" alt="Academy Branding Square" width="240"/>
 </div>
 
-## Pedoman Umum Penggunaan Logo
+## General Logo Usage Guidelines
 
-- Jangan mengubah proporsi logo.
-- Jangan mengganti warna di luar palet resmi.
-- Jangan menempatkan logo di latar belakang yang tidak kontras.
+- Do not alter the logo’s proportions.
+- Do not change the colors outside of the official palette.
+- Do not place the logo on backgrounds with poor contrast.
 
 ---
 
-Jika Anda ragu terhadap penggunaan logo yang sesuai, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+If you are unsure about proper logo usage, please contact us at [support@nihonbuzz.org](/hubungi-kami).

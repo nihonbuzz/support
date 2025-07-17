@@ -1,99 +1,99 @@
 ---
-title: Cara Membuat Kursus (Instruktur)
+title: How to Create a Course (Instructor)
 sidebar_position: 1
-description: Panduan lengkap bagi instruktur untuk membuat dan menerbitkan kursus di platform Nihonbuzz Academy.
+description: Complete guide for instructors on creating and publishing courses on the Nihonbuzz Academy platform.
 ---
 
-# Cara Membuat Kursus (Instruktur)
+# How to Create a Course (Instructor)
 
-Sebagai instruktur, Anda memiliki peran penting dalam membagikan ilmu dan pengalaman kepada peserta di Nihonbuzz Academy. Platform ini menyediakan sistem yang mudah digunakan untuk membuat, mengelola, dan menerbitkan kursus secara mandiri.
+As an instructor, you play an important role in sharing knowledge and experience with learners at Nihonbuzz Academy. Our platform provides an easy-to-use system to create, manage, and publish your courses independently.
 
-Halaman ini akan memandu Anda langkah demi langkah dalam membuat kursus pertama Anda.
-
----
-
-## 🎯 Persiapan Sebelum Membuat Kursus
-
-Sebelum mulai membuat kursus, siapkan terlebih dahulu:
-
-- Judul kursus
-- Tujuan pembelajaran
-- Silabus atau struktur materi
-- Konten (teks, video, kuis, atau materi unduhan)
-- Gambar thumbnail kursus
+This page will guide you step by step in creating your first course.
 
 ---
 
-## ✏️ Langkah-Langkah Membuat Kursus
+## 🎯 Preparation Before Creating a Course
 
-### 1. **Masuk ke Dashboard Instruktur**
-Login ke akun Anda dan buka menu **Dashboard Instruktur** dari menu utama.
+Before starting, prepare the following:
 
----
-
-### 2. **Buat Kursus Baru**
-Klik tombol **Buat Kursus Baru**. Anda akan diarahkan ke editor kursus.
-
----
-
-### 3. **Isi Informasi Umum Kursus**
-Lengkapi informasi berikut:
-
-- **Judul Kursus**
-- **Deskripsi Singkat** (akan tampil di halaman pencarian)
-- **Kategori**
-- **Tingkat Kesulitan** (Pemula, Menengah, Lanjutan)
-- **Gambar Sampul / Thumbnail**
+- Course title
+- Learning objectives
+- Syllabus or content structure
+- Content (text, videos, quizzes, or downloadable materials)
+- Course thumbnail image
 
 ---
 
-### 4. **Tambahkan Konten Pembelajaran**
-Strukturkan kursus Anda ke dalam:
+## ✏️ Steps to Create a Course
 
-- **Bab atau Modul** (sebagai pembagian utama)
-- **Pelajaran** (berisi video, teks, atau kombinasi keduanya)
-- **Kuis** (opsional, bisa ditambahkan untuk evaluasi)
-- **Tugas / Latihan** (jika dibutuhkan)
-
-Konten bisa diunggah langsung atau disusun menggunakan editor bawaan.
+### 1. **Access the Instructor Dashboard**
+Log in to your account and go to the **Instructor Dashboard** from the main menu.
 
 ---
 
-### 5. **Atur Harga dan Akses**
-Pilih apakah kursus akan:
-
-- **Gratis** atau
-- **Berbayar** (sertakan harga)
-
-Jika berbayar, sistem akan secara otomatis mengatur integrasi ke marketplace.
+### 2. **Create a New Course**
+Click **Create New Course**. You will be directed to the course editor.
 
 ---
 
-### 6. **Pratinjau & Simpan**
-Setelah selesai:
+### 3. **Fill in General Course Information**
+Complete the following details:
 
-- Pratinjau kursus untuk memastikan semuanya tampil dengan benar
-- Klik **Simpan** untuk menyimpan draf, atau **Kirim untuk Ditinjau** jika sudah siap diterbitkan
-
----
-
-## 📢 Publikasi Kursus
-
-Setelah dikirim, tim admin akan melakukan peninjauan ringan sebelum kursus dapat dipublikasikan secara resmi di platform.
-
-Waktu peninjauan biasanya memakan waktu 1–2 hari kerja.
+- **Course Title**
+- **Short Description** (displayed in search results)
+- **Category**
+- **Difficulty Level** (Beginner, Intermediate, Advanced)
+- **Cover Image / Thumbnail**
 
 ---
 
-## 💡 Tips untuk Instruktur
+### 4. **Add Learning Content**
+Structure your course into:
 
-- Gunakan gaya bahasa yang jelas dan terstruktur
-- Sertakan ilustrasi atau video untuk memperkaya pembelajaran
-- Tambahkan kuis untuk meningkatkan keterlibatan peserta
-- Pastikan semua tautan dan file yang Anda unggah aktif dan dapat diakses
+- **Modules or Chapters** (main divisions)
+- **Lessons** (with video, text, or both)
+- **Quizzes** (optional, for evaluation)
+- **Assignments / Exercises** (if needed)
+
+You can upload content directly or use the built-in editor.
 
 ---
 
-Jika Anda membutuhkan bantuan selama proses pembuatan kursus, silakan kunjungi halaman [Hubungi Kami](../hubungi-kami.md) untuk menghubungi tim support.
+### 5. **Set Pricing and Access**
+Choose whether the course will be:
 
-Selamat berkarya dan berbagi ilmu!
+- **Free**, or
+- **Paid** (set a price)
+
+If paid, the system will automatically handle marketplace integration.
+
+---
+
+### 6. **Preview & Save**
+After completing:
+
+- Preview the course to ensure everything looks correct
+- Click **Save Draft**, or **Submit for Review** if ready to publish
+
+---
+
+## 📢 Course Publication
+
+After submission, the admin team will conduct a light review before the course is officially published on the platform.
+
+The review process usually takes 1–2 business days.
+
+---
+
+## 💡 Tips for Instructors
+
+- Use clear and structured language
+- Include illustrations or videos to enrich learning
+- Add quizzes to increase engagement
+- Ensure all links and uploaded files are active and accessible
+
+---
+
+If you need assistance during the course creation process, please visit the [Contact Us](../hubungi-kami.md) page to reach our support team.
+
+Happy teaching and sharing knowledge!

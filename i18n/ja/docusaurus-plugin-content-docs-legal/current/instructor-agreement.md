@@ -1,51 +1,51 @@
 ---
-title: Perjanjian Instruktur
+title: インストラクター契約
 sidebar_position: 7
-description: Ketentuan kerja sama antara platform dan instruktur.
+description: プラットフォームとインストラクターの間の協力条件。
 ---
 
-# Perjanjian Penyedia Layanan (Instruktur)
+# サービス提供者契約（インストラクター）
 
-Perjanjian ini mengatur hubungan hukum antara platform kami dan Anda sebagai penyedia konten atau instruktur yang berkontribusi dalam menyediakan kursus, materi, atau layanan lainnya melalui platform.
+本契約は、当社プラットフォームと、コース、教材、またはその他のサービスを提供するコンテンツ提供者またはインストラクターとの間の法的関係を規定します。
 
-Dengan mendaftar sebagai instruktur dan menggunakan fitur-fitur yang disediakan untuk mengunggah atau menjual konten, Anda setuju untuk terikat oleh ketentuan dalam perjanjian ini.
+インストラクターとして登録し、コンテンツのアップロードや販売のための機能を利用することで、あなたは本契約の条件に拘束されることに同意したものとみなされます。
 
-## 1. Pendaftaran dan Kelayakan
+## 1. 登録と資格
 
-- Instruktur harus mendaftar secara sah dan memberikan informasi yang valid.
-- Kami berhak menolak atau mencabut status instruktur jika ditemukan pelanggaran.
+- インストラクターは、正確かつ有効な情報を提供し、正規に登録する必要があります。
+- 当社は、違反が認められた場合、インストラクターステータスを拒否または取り消す権利を有します。
 
-## 2. Hak dan Kepemilikan Konten
+## 2. 権利とコンテンツの所有権
 
-- Instruktur tetap memegang hak atas konten yang diunggah.
-- Dengan mengunggah konten, Anda memberikan kami lisensi non-eksklusif untuk menampilkan, memasarkan, dan mendistribusikan konten tersebut melalui platform.
-- Anda menjamin bahwa semua konten adalah asli dan tidak melanggar hak cipta pihak ketiga.
+- インストラクターは、アップロードしたコンテンツの権利を保持します。
+- コンテンツをアップロードすることで、当社に対し、そのコンテンツをプラットフォーム上で表示、販売、配布するための非独占的ライセンスを付与します。
+- すべてのコンテンツがオリジナルであり、第三者の著作権を侵害しないことを保証します。
 
-## 3. Standar Kualitas
+## 3. 品質基準
 
-- Semua materi kursus harus memenuhi standar kualitas yang kami tetapkan, termasuk kejelasan, keakuratan, dan kelengkapan.
-- Kami berhak meninjau, menyarankan perbaikan, atau menolak konten yang tidak memenuhi standar.
+- すべての教材は、明確さ、正確さ、完全性を含む当社の定める品質基準を満たさなければなりません。
+- 当社は、基準を満たさないコンテンツをレビュー、改善提案、または拒否する権利を有します。
 
-## 4. Pembayaran dan Pembagian Pendapatan
+## 4. 支払いと収益分配
 
-- Pendapatan dari penjualan konten akan dibagi sesuai persentase yang disepakati.
-- Pembayaran dilakukan secara berkala sesuai dengan laporan pendapatan bulanan.
-- Pajak atau potongan lainnya yang diwajibkan oleh hukum akan dikenakan sesuai ketentuan yang berlaku.
+- コンテンツ販売による収益は、合意された割合に従って分配されます。
+- 支払いは、月次の収益報告に基づき、定期的に行われます。
+- 法律で義務付けられた税金やその他の控除が適用されます。
 
-## 5. Kode Etik dan Perilaku
+## 5. 行動規範とマナー
 
-- Instruktur wajib menjaga profesionalisme dan etika dalam berinteraksi dengan peserta.
-- Dilarang memberikan informasi menyesatkan, promosi pribadi yang tidak relevan, atau konten yang melanggar hukum.
+- インストラクターは、学習者とのやり取りにおいて、常に専門性と倫理を守らなければなりません。
+- 誤解を招く情報、不適切な自己宣伝、または違法なコンテンツは禁止されています。
 
-## 6. Penghapusan Konten
+## 6. コンテンツの削除
 
-- Instruktur dapat meminta penghapusan konten sewaktu-waktu dengan pemberitahuan.
-- Kami berhak menghapus konten jika terbukti melanggar hukum, hak pihak ketiga, atau kebijakan platform.
+- インストラクターは、通知を行うことで、いつでもコンテンツの削除を依頼できます。
+- 当社は、違法、第三者の権利侵害、またはプラットフォームポリシー違反と判断したコンテンツを削除する権利を有します。
 
-## 7. Perubahan Ketentuan
+## 7. 契約の変更
 
-Kami dapat memperbarui perjanjian ini sewaktu-waktu. Perubahan akan diberlakukan setelah diumumkan dan penggunaan layanan oleh instruktur setelah itu dianggap sebagai persetujuan terhadap perubahan tersebut.
+当社は、随時本契約を更新する場合があります。変更は通知後に効力を持ち、変更後もサービスを利用することで、最新の条件に同意したものとみなされます。
 
-## 8. Hubungi Kami
+## 8. お問い合わせ
 
-Untuk pertanyaan lebih lanjut mengenai perjanjian ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami).
+本契約に関するご質問は、[お問い合わせページ](/hubungi-kami)からご連絡ください。

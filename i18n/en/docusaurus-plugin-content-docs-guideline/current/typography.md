@@ -1,52 +1,52 @@
 ---
 id: typography
-title: Tipografi
-description: Panduan penggunaan tipografi untuk identitas visual Nihonbuzz.
+title: Typography
+description: Typography guidelines for the Nihonbuzz visual identity.
 sidebar_position: 3
 ---
 
-# Tipografi
+# Typography
 
-Tipografi merupakan elemen penting dalam menjaga konsistensi visual dan kesan profesional merek Nihonbuzz. Kami menggunakan kombinasi font khusus untuk menciptakan identitas yang kuat dan mudah dikenali.
+Typography plays a key role in maintaining visual consistency and a professional look for the Nihonbuzz brand. We use a specific combination of fonts to build a strong and recognizable identity.
 
-## Font Utama
+## Primary Fonts
 
 ### Staatliches
 
-Font utama yang digunakan untuk heading adalah **Staatliches**. Font ini memiliki karakteristik geometris dan tegas, sangat cocok untuk kebutuhan judul dan tampilan yang menonjol.
+Our main heading font is **Staatliches**. It features bold, geometric shapes—perfect for titles and elements that need to stand out.
 
-> Contoh penggunaan:
+> Usage example:
 
 <div style={{ fontFamily: '"Staatliches", sans-serif', fontSize: '2rem', lineHeight: '2.8rem', margin: '0.5rem 0' }}>
   Nihonbuzz Academy
 </div>
 
-### Inter (atau sistem sans-serif)
+### Inter (or system sans-serif)
 
-Untuk teks isi dan navigasi umum, kami menggunakan **Inter** atau font sans-serif sistem lainnya. Font ini memberikan tampilan yang bersih, modern, dan mudah dibaca dalam berbagai ukuran layar.
+For body text and general navigation, we use **Inter** or other system sans-serif fonts. This provides a clean, modern, and highly readable look across screen sizes.
 
-> Contoh penggunaan:
+> Usage example:
 
 <div style={{ fontFamily: 'Inter, sans-serif', fontSize: '1rem', lineHeight: '1.5rem', margin: '0.5rem 0' }}>
   ```
-  Belajar bahasa Jepang secara menyenangkan dan terstruktur di Nihonbuzz Academy.
+  Learn Japanese in a fun and structured way with Nihonbuzz Academy.
   ```
 </div>
 
-## Panduan Penggunaan
+## Usage Guidelines
 
-- Gunakan **Staatliches** hanya untuk heading atau elemen branding utama.
-- Gunakan **Inter** atau sans-serif lainnya untuk isi teks, deskripsi, dan navigasi.
-- Jangan mencampur lebih dari dua tipe font dalam satu halaman atau komponen.
-- Hindari penggunaan huruf kapital secara berlebihan kecuali pada heading utama.
+- Use **Staatliches** only for headings or key brand elements.
+- Use **Inter** or other sans-serif fonts for body text, descriptions, and UI navigation.
+- Avoid mixing more than two font types on a single page or component.
+- Avoid using all-caps excessively, except for main headings.
 
-## Akses Font
+## Font Access
 
-- **Staatliches** tersedia di Google Fonts: [https://fonts.google.com/specimen/Staatliches](https://fonts.google.com/specimen/Staatliches)
-- **Inter** tersedia di Google Fonts: [https://fonts.google.com/specimen/Inter](https://fonts.google.com/specimen/Inter)
+- **Staatliches** is available on Google Fonts: [https://fonts.google.com/specimen/Staatliches](https://fonts.google.com/specimen/Staatliches)
+- **Inter** is available on Google Fonts: [https://fonts.google.com/specimen/Inter](https://fonts.google.com/specimen/Inter)
 
-Pastikan untuk memuat font ini melalui `@import` atau integrasi langsung ke dalam proyek frontend Anda jika tidak menggunakan font sistem.
+Be sure to load these fonts via `@import` or directly integrate them into your frontend project if you are not using system fonts.
 
 ---
 
-Jika Anda memiliki pertanyaan tentang penerapan tipografi yang tepat, hubungi kami di [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If you have questions about proper typography usage, contact us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org).

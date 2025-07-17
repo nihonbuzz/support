@@ -1,78 +1,78 @@
 ---
-title: Kebijakan Privasi
+title: プライバシーポリシー
 sidebar_position: 2
-description: Menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda.
+description: 個人情報の収集、利用、保護方法について説明します。
 ---
 
-# Kebijakan Privasi
+# プライバシーポリシー
 
-Privasi Anda penting bagi kami. Kebijakan ini menjelaskan bagaimana kami mengumpulkan, menggunakan, menyimpan, dan melindungi informasi pribadi Anda saat menggunakan layanan di platform kami.
+あなたのプライバシーは、私たちにとってとても重要です。本ポリシーでは、当サービス利用時にどのように情報を収集・利用・保存・保護するかを説明します。
 
-## 1. Informasi yang Kami Kumpulkan
+## 1. 収集する情報
 
-Kami dapat mengumpulkan informasi pribadi berikut:
+次のような個人情報を収集する場合があります：
 
-- Nama lengkap
-- Alamat email
-- Nomor telepon
-- Informasi pembayaran
-- Aktivitas penggunaan platform
-- Informasi teknis (alamat IP, jenis perangkat, browser, dll.)
+- 氏名
+- メールアドレス
+- 電話番号
+- 支払い情報
+- プラットフォームの利用履歴
+- 技術情報（IPアドレス、デバイスタイプ、ブラウザなど）
 
-## 2. Cara Pengumpulan Informasi
+## 2. 情報の収集方法
 
-Data dikumpulkan melalui:
+データは以下を通じて収集されます：
 
-- Formulir pendaftaran
-- Formulir pembayaran
-- Interaksi Anda dengan kursus atau komunitas
-- Cookies dan teknologi pelacakan
+- 登録フォーム
+- 支払いフォーム
+- コースやコミュニティでのやり取り
+- クッキーやトラッキング技術
 
-## 3. Penggunaan Informasi
+## 3. 情報の利用目的
 
-Kami menggunakan informasi Anda untuk:
+収集した情報は次のために使用します：
 
-- Memproses pendaftaran dan transaksi
-- Memberikan akses ke kursus dan layanan kami
-- Memberikan dukungan teknis dan layanan pelanggan
-- Mengirimkan pembaruan dan pemberitahuan terkait akun Anda
-- Meningkatkan layanan kami melalui analisis penggunaan
+- 登録や取引の処理
+- コースやサービスへのアクセス提供
+- 技術サポートやカスタマーサービス
+- アカウント関連の通知や更新情報の送信
+- 利用状況の分析によるサービス改善
 
-## 4. Penyimpanan dan Keamanan Data
+## 4. データの保存とセキュリティ
 
-Kami menggunakan langkah-langkah teknis dan organisasi untuk melindungi informasi Anda dari akses tidak sah, pengungkapan, perubahan, atau penghancuran. Informasi Anda disimpan selama diperlukan untuk tujuan yang dijelaskan dalam kebijakan ini.
+不正アクセス、情報漏洩、改ざん、破壊を防ぐために技術的および組織的な対策を実施します。データは本ポリシーで定めた目的のために必要な期間のみ保持されます。
 
-## 5. Berbagi Informasi dengan Pihak Ketiga
+## 5. 第三者との情報共有
 
-Kami tidak menjual data pribadi Anda. Informasi hanya dibagikan dengan pihak ketiga yang tepercaya seperti:
+あなたの個人情報を販売することはありません。情報は以下の信頼できる第三者と共有される場合があります：
 
-- Penyedia pembayaran untuk memproses transaksi
-- Layanan analitik untuk memahami penggunaan platform
-- Pihak ketiga sesuai dengan hukum yang berlaku
+- 決済処理のための決済サービス提供者
+- プラットフォーム利用状況を把握するための分析サービス
+- 法律に基づき必要な第三者
 
-## 6. Hak Anda
+## 6. あなたの権利
 
-Anda memiliki hak untuk:
+あなたには以下の権利があります：
 
-- Mengakses informasi pribadi Anda
-- Meminta perbaikan atau penghapusan data Anda
-- Menarik persetujuan Anda kapan saja
-- Menolak penggunaan data untuk pemasaran
+- 個人情報へのアクセス
+- データの修正または削除の要求
+- 同意の撤回
+- マーケティング目的でのデータ利用を拒否
 
-## 7. Cookie
+## 7. クッキー
 
-Kami menggunakan cookie untuk meningkatkan pengalaman Anda. Lihat [Kebijakan Cookie](/legal/cookie-policy) untuk informasi lebih lanjut.
+当サイトはクッキーを使用して体験を向上させています。詳細は[クッキーポリシー](/legal/cookie-policy)をご覧ください。
 
-## 8. Anak-anak
+## 8. 子どもに関して
 
-Platform ini tidak ditujukan untuk anak-anak di bawah usia 13 tahun tanpa izin orang tua. Lihat [Kebijakan Perlindungan Anak](/legal/child-protection-policy).
+本プラットフォームは、保護者の同意がない13歳未満の子どもを対象としていません。[児童保護ポリシー](/legal/child-protection-policy)もご確認ください。
 
-## 9. Perubahan Kebijakan Ini
+## 9. 本ポリシーの変更
 
-Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Tanggal revisi terakhir akan ditampilkan di bagian bawah halaman ini.
+ポリシーは随時更新されることがあります。最新の更新日を本ページ下部に記載します。
 
-## 10. Hubungi Kami
+## 10. お問い合わせ
 
-Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+プライバシーポリシーについて質問がある場合は、[お問い合わせページ](/hubungi-kami)または [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。
 
-**Terakhir diperbarui:** 13 Juli 2025
+**最終更新日:** 2025年7月13日

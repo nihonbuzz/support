@@ -1,78 +1,78 @@
 ---
-title: Kebijakan Refund & Pembatalan
+title: 返金・キャンセルポリシー
 sidebar_position: 3
-description: Penjelasan tentang kebijakan pengembalian dana dan pembatalan pembelian kursus di Nihonbuzz Academy.
+description: Nihonbuzz Academyでのコース購入に関する返金およびキャンセルポリシーの説明。
 ---
 
-# Kebijakan Refund & Pembatalan
+# 返金・キャンセルポリシー
 
-Kami memahami bahwa situasi setiap peserta bisa berbeda. Oleh karena itu, Nihonbuzz Academy menyediakan kebijakan **refund dan pembatalan** yang bertujuan memberikan kejelasan dan perlindungan bagi semua pengguna.
-
----
-
-## 🔄 Apakah Kursus Bisa Dibatalkan?
-
-Kursus yang sudah dibeli tidak bisa dibatalkan secara otomatis oleh pengguna. Namun, Anda dapat **mengajukan permohonan pembatalan** dalam kondisi tertentu, seperti:
-
-- Pembayaran ganda untuk kursus yang sama
-- Kesalahan teknis saat transaksi
-- Tidak bisa mengakses kursus setelah pembayaran valid
-- Pembelian tidak disengaja
-
-> Setiap pengajuan pembatalan akan melalui proses verifikasi terlebih dahulu.
+参加者の状況はそれぞれ異なることを理解しています。そのため、Nihonbuzz Academyでは、すべてのユーザーに明確さと保護を提供するために、**返金およびキャンセルポリシー**を設けています。
 
 ---
 
-## 💰 Kebijakan Refund
+## 🔄 コースはキャンセルできますか？
 
-Refund atau pengembalian dana **bisa diajukan** dalam waktu maksimal **7 hari** sejak tanggal pembelian, dengan syarat:
+購入済みのコースはユーザー側で自動的にキャンセルすることはできません。ただし、以下のような特定の条件下では**キャンセルの申請**が可能です：
 
-- Materi kursus belum diselesaikan lebih dari 30%
-- Sertifikat belum diunduh
-- Tidak ada pelanggaran terhadap syarat & ketentuan platform
+- 同じコースへの二重支払い
+- 取引中の技術的エラー
+- 正しい支払い後にコースへアクセスできない
+- 誤って購入した場合
 
-**Tidak berlaku refund** untuk:
-- Kursus gratis
-- Kursus promo/flash sale yang mencantumkan “tidak dapat direfund”
-- Pelanggaran kebijakan penggunaan
+> 各キャンセル申請は確認プロセスを経ます。
 
 ---
 
-## 📝 Cara Mengajukan Refund
+## 💰 返金ポリシー
 
-Untuk mengajukan refund:
+返金の申請は、購入日から**7日以内**で、以下の条件を満たす場合に可能です：
 
-1. Kunjungi halaman [Hubungi Kami](../hubungi-kami.md)
-2. Kirimkan pesan dengan subjek **"Permintaan Refund"**
-3. Sertakan informasi berikut:
-   - Nama lengkap
-   - Email akun Anda
-   - Nama kursus
-   - Alasan pengajuan refund
-   - Bukti pembayaran (jika tersedia)
+- コースの学習進捗が30％を超えていない
+- 証明書をダウンロードしていない
+- プラットフォームの利用規約に違反していない
 
-Kami akan memproses dalam waktu **maksimal 5 hari kerja**.
+**返金対象外：**
+- 無料コース
+- 「返金不可」と記載されたプロモーション/フラッシュセールコース
+- 利用規約違反の場合
 
 ---
 
-## 🧾 Status dan Proses Refund
+## 📝 返金申請の方法
 
-Setelah disetujui, refund akan dikembalikan ke metode pembayaran awal Anda:
+返金を申請するには：
 
-- Dompet digital / e-wallet: 1–2 hari kerja
-- Transfer bank: 2–5 hari kerja
-- Kartu kredit: tergantung kebijakan bank penerbit
+1. [お問い合わせページ](../hubungi-kami.md)にアクセス
+2. 件名に**「返金申請」**と記入してメッセージを送信
+3. 以下の情報を記載してください：
+   - 氏名
+   - アカウントのメールアドレス
+   - コース名
+   - 返金を希望する理由
+   - 支払い証明（可能であれば）
 
-Anda akan mendapatkan notifikasi melalui email setelah refund diproses.
-
----
-
-## ❗ Penting untuk Diperhatikan
-
-- Jangan membagikan akses kursus Anda kepada orang lain. Pelanggaran ini membatalkan hak refund.
-- Kami berhak menolak permintaan refund jika ditemukan penyalahgunaan sistem atau itikad tidak baik.
+申請は**最長5営業日以内**に処理されます。
 
 ---
 
-Untuk memahami perbedaan manfaat antara kursus gratis dan berbayar, silakan lihat:  
-👉 [Kursus Gratis vs Berbayar](./kursus-gratis-berbayar.md)
+## 🧾 返金のステータスと処理
+
+承認後、返金は元の支払い方法に戻されます：
+
+- 電子ウォレット：1～2営業日
+- 銀行振込：2～5営業日
+- クレジットカード：発行銀行のポリシーによる
+
+返金処理完了後、メールで通知されます。
+
+---
+
+## ❗ 重要な注意事項
+
+- コースのアクセス情報を他人と共有しないでください。違反した場合、返金権利は無効となります。
+- システムの悪用や不正な意図が確認された場合、返金申請を拒否する権利を当社は保持します。
+
+---
+
+無料コースと有料コースの違いについては、こちらをご覧ください：  
+👉 [無料コースと有料コースの比較](./kursus-gratis-berbayar.md)

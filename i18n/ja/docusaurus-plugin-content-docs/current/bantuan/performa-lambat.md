@@ -1,94 +1,94 @@
 ---
-title: Performa Lambat / Timeout
+title: パフォーマンスが遅い / タイムアウト
 sidebar_position: 4
-description: Panduan mengatasi masalah loading lambat, timeout, atau gangguan performa saat menggunakan platform.
+description: プラットフォーム使用中に発生する読み込みの遅さやタイムアウトの問題を解決するためのガイド。
 ---
 
-# Performa Lambat / Timeout
+# パフォーマンスが遅い / タイムアウト
 
-Jika platform terasa lambat, tidak merespons, atau muncul pesan **timeout**, ini bisa disebabkan oleh beberapa faktor. Kami memahami bahwa kelancaran akses sangat penting bagi pengalaman belajar Anda. Halaman ini akan membantu Anda mengatasi masalah performa secara mandiri sebelum menghubungi tim dukungan.
-
----
-
-## 🐌 Gejala Umum
-
-- Halaman tidak termuat sepenuhnya
-- Loading video atau kuis terlalu lama
-- Gagal menyimpan progress belajar
-- Timeout saat membuka dashboard atau kursus
+プラットフォームの動作が遅い、反応しない、または**タイムアウト**エラーが表示される場合、いくつかの要因が考えられます。スムーズなアクセスは学習体験にとって非常に重要です。このページでは、サポートチームに連絡する前にできる対処法を紹介します。
 
 ---
 
-## 🌐 Penyebab Umum & Solusi
+## 🐌 よくある症状
 
-### 1. **Koneksi Internet Tidak Stabil**
-Koneksi yang lambat atau sering terputus adalah penyebab paling umum.
-
-👉 **Solusi:**
-- Coba pindah ke jaringan Wi-Fi yang lebih stabil
-- Gunakan koneksi data seluler yang kuat jika perlu
-- Hindari penggunaan VPN yang dapat memperlambat koneksi
+- ページが完全に読み込まれない
+- 動画やクイズの読み込みが遅い
+- 学習進捗が保存されない
+- ダッシュボードやコースを開く際にタイムアウト
 
 ---
 
-### 2. **Terlalu Banyak Tab atau Aplikasi Aktif**
-Performa perangkat Anda bisa terganggu jika terlalu banyak tab browser atau aplikasi berjalan bersamaan.
+## 🌐 主な原因と解決策
 
-👉 **Solusi:**
-- Tutup tab yang tidak diperlukan
-- Restart perangkat Anda
-- Gunakan satu tab untuk belajar agar lebih fokus dan ringan
+### 1. **インターネット接続が不安定**
+最も一般的な原因は、接続速度の遅さや断続的な接続です。
 
----
-
-### 3. **Peramban (Browser) Tidak Kompatibel**
-Beberapa masalah tampilan dan kecepatan bisa terjadi jika Anda menggunakan browser versi lama.
-
-👉 **Solusi:**
-- Gunakan browser versi terbaru seperti Chrome, Firefox, Safari, atau Edge
-- Coba akses platform menggunakan mode **incognito/private**
+👉 **解決策:**
+- より安定したWi-Fiに切り替える
+- 必要に応じて強力なモバイルデータを使用
+- VPNの使用を避ける（速度低下の原因になります）
 
 ---
 
-### 4. **Cache dan Cookie Bermasalah**
-Cache yang menumpuk atau cookie rusak dapat memperlambat pemuatan halaman.
+### 2. **タブやアプリが多すぎる**
+ブラウザのタブやアプリを同時に開きすぎると、デバイスのパフォーマンスに影響します。
 
-👉 **Solusi:**
-- Bersihkan cache dan cookie dari browser Anda secara berkala
-- Setelah dibersihkan, login kembali ke platform
-
----
-
-### 5. **Pemeliharaan Sistem atau Lalu Lintas Tinggi**
-Kadang-kadang server kami sedang mengalami pemeliharaan atau menerima akses pengguna dalam jumlah besar secara bersamaan.
-
-👉 **Solusi:**
-- Tunggu beberapa menit dan coba lagi
-- Periksa pengumuman atau notifikasi jika ada informasi pemeliharaan
+👉 **解決策:**
+- 不要なタブを閉じる
+- デバイスを再起動
+- 学習には1つのタブを使用して集中しやすく、動作も軽くなります
 
 ---
 
-## 🧪 Tes Koneksi Anda
+### 3. **ブラウザの互換性問題**
+古いバージョンのブラウザを使用していると、表示や速度の問題が発生します。
 
-Jika Anda ingin mengecek apakah koneksi Anda memadai:
-
-1. Kunjungi situs [fast.com](https://fast.com)
-2. Pastikan kecepatan unduh (download) minimal 3 Mbps untuk pembelajaran video
-3. Pastikan latensi (ping) rendah dan koneksi stabil
-
----
-
-## 🆘 Masih Mengalami Masalah?
-
-Jika semua langkah di atas sudah dilakukan namun performa tetap lambat:
-
-- Catat waktu dan halaman yang bermasalah
-- Ambil tangkapan layar (jika perlu)
-- Laporkan masalah Anda melalui:  
-  👉 [Hubungi Kami](../hubungi-kami.md)
-
-Tim kami akan membantu mengecek lebih lanjut dari sisi teknis.
+👉 **解決策:**
+- Chrome、Firefox、Safari、Edgeなどの最新バージョンを使用
+- **シークレット/プライベートモード**でアクセスしてみる
 
 ---
 
-Kami berkomitmen untuk memastikan pengalaman belajar Anda tetap lancar dan nyaman. Terima kasih atas kesabaran dan kerja samanya.
+### 4. **キャッシュやクッキーの問題**
+キャッシュの蓄積や破損したクッキーは、ページ読み込みを遅くする原因になります。
+
+👉 **解決策:**
+- 定期的にブラウザのキャッシュとクッキーをクリア
+- クリア後は再度ログインしてください
+
+---
+
+### 5. **システムメンテナンスや高トラフィック**
+サーバーのメンテナンス中やアクセス集中時に問題が発生することがあります。
+
+👉 **解決策:**
+- 数分待ってから再試行
+- メンテナンス情報についてはお知らせや通知を確認してください
+
+---
+
+## 🧪 接続テストを行う
+
+インターネット接続が十分かどうか確認するには：
+
+1. [fast.com](https://fast.com)にアクセス
+2. 動画学習には最低3Mbpsのダウンロード速度を確保
+3. レイテンシ（ping）が低く、接続が安定していることを確認
+
+---
+
+## 🆘 まだ問題が解決しない場合
+
+すべての手順を試してもパフォーマンスが改善しない場合：
+
+- 問題が発生した時間とページを記録
+- 必要に応じてスクリーンショットを取得
+- 次のページから報告してください：  
+  👉 [お問い合わせ](../hubungi-kami.md)
+
+当社チームが技術的な側面から詳細に確認します。
+
+---
+
+快適な学習体験を提供するために全力を尽くします。ご理解とご協力に感謝します。

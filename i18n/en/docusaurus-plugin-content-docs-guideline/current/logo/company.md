@@ -1,47 +1,47 @@
 ---
-title: Logo Company
-description: Panduan penggunaan logo resmi Nihonbuzz.
+title: Company Logo
+description: Guidelines for using the official Nihonbuzz logo.
 slug: /logo/company
 sidebar_position: 1
 ---
 
-# Logo Nihonbuzz
+# Nihonbuzz Logo
 
-Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
+The logo is the most essential element of Nihonbuzz's visual identity. We have two primary identities: **Nihonbuzz** as the corporate entity, and **Nihonbuzz Academy** as the educational division.
 
-## Logo Nihonbuzz (Company)
+## Nihonbuzz Logo (Company)
 
-Gunakan logo ini untuk representasi merek perusahaan secara umum, termasuk komunikasi bisnis, kemitraan, dan media korporat.
+Use this logo to represent the corporate brand, including business communications, partnerships, and corporate media.
 
-### Versi Logo
+### Logo Versions
 
-- Logo warna dasar:
+- Primary color logos:
 
 <div class="preview-wrapper">
   <img src="/assets/Company/Nihonbuzz-Logo-Dark.png" alt="Logo Dark" width="240"/>
   <img src="/assets/Company/Nihonbuzz-Logo-Light.png" alt="Logo Light" width="240"/>
 </div>
 
-- Logo lanskap:
+- Landscape logos:
 
 <div class="preview-wrapper">
   <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Dark.png" alt="Logo Landscape Dark" width="300"/>
   <img src="/assets/Company/Nihonbuzz-Logo-Landscape-Light.png" alt="Logo Landscape Light" width="300"/>
 </div>
 
-- Logo lainnya:
+- Additional logo variations:
 
 <div class="preview-wrapper">
   <img src="/assets/Company/Nihonbuzz-Logo-Outlined.png" alt="Logo Outlined" width="240"/>
   <img src="/assets/Company/Nihonbuzz-Logo-Branding.png" alt="Logo Branding" width="240"/>
 </div>
 
-## Pedoman Umum Penggunaan Logo
+## General Logo Usage Guidelines
 
-- Jangan mengubah proporsi logo.
-- Jangan mengganti warna di luar palet resmi.
-- Jangan menempatkan logo di latar belakang yang tidak kontras.
+- Do not alter the logo’s proportions.
+- Do not change the colors outside of the official palette.
+- Do not place the logo on backgrounds that lack sufficient contrast.
 
 ---
 
-Jika Anda ragu terhadap penggunaan logo yang sesuai, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+If you are unsure about proper logo usage, please contact us at [support@nihonbuzz.org](/hubungi-kami).

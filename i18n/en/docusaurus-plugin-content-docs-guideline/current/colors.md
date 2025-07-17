@@ -1,40 +1,40 @@
 ---
-title: Palet Warna
-description: Warna resmi merek Nihonbuzz dan panduan penggunaannya.
+title: Color Palette
+description: Official Nihonbuzz brand colors and usage guidelines.
 slug: /colors
 sidebar_position: 2
 ---
 
-# Palet Warna Nihonbuzz
+# Nihonbuzz Color Palette
 
-Palet warna adalah elemen penting dalam identitas visual Nihonbuzz. Warna digunakan secara konsisten di semua materi komunikasi untuk memperkuat pengenalan merek.
+The color palette is a key element of Nihonbuzz’s visual identity. Colors are used consistently across all communication materials to reinforce brand recognition.
 
-## Warna Utama
+## Primary Colors
 
-Gunakan warna utama sebagai fondasi visual dalam semua desain resmi Nihonbuzz.
+Use primary colors as the visual foundation in all official Nihonbuzz designs.
 
-| Nama Warna | Kode HEX | RGB           | Penggunaan                     |
-|------------|----------|---------------|--------------------------------|
-| Merah Nihonbuzz | `#DA0037` | `218, 0, 55`   | Logo, tombol utama, aksen utama |
-| Hitam | `#1A1A1A` | `26, 26, 26`     | Teks utama, latar, logo dark   |
-| Putih | `#FFFFFF` | `255, 255, 255` | Teks terang, latar bersih      |
+| Color Name      | HEX Code  | RGB             | Usage                               |
+|-----------------|-----------|-----------------|-------------------------------------|
+| Nihonbuzz Red   | `#DA0037`| `218, 0, 55`    | Logo, primary buttons, main accents|
+| Black           | `#1A1A1A`| `26, 26, 26`    | Main text, background, dark logo   |
+| White           | `#FFFFFF`| `255, 255, 255` | Light text, clean backgrounds      |
 
-## Warna Sekunder
+## Secondary Colors
 
-Warna-warna ini mendukung elemen grafis dan latar belakang, memberikan fleksibilitas dalam desain.
+These colors support graphics and backgrounds, providing design flexibility.
 
-| Nama Warna | Kode HEX | RGB           | Penggunaan                      |
-|------------|----------|---------------|---------------------------------|
-| Abu Muda   | `#F5F5F5` | `245, 245, 245` | Latar belakang terang, pembatas |
-| Abu Gelap  | `#444444` | `68, 68, 68`    | Teks pendukung, ikon            |
-| Merah Tua  | `#8B001E` | `139, 0, 30`    | Sorotan, badge, batasan visual  |
+| Color Name    | HEX Code  | RGB             | Usage                                |
+|---------------|-----------|-----------------|---------------------------------------|
+| Light Gray    | `#F5F5F5`| `245, 245, 245` | Light background, separators         |
+| Dark Gray     | `#444444`| `68, 68, 68`    | Supporting text, icons               |
+| Deep Red      | `#8B001E`| `139, 0, 30`    | Highlights, badges, visual accents   |
 
-## Contoh Penggunaan
+## Usage Example
 
-Warna utama dan sekunder dapat dikombinasikan untuk menciptakan tampilan yang kohesif di semua media visual.
+Primary and secondary colors can be combined to create a cohesive look across all visual media.
 
 ```css
-/* Contoh penggunaan CSS */
+/* Example CSS usage */
 .color-primary {
   background-color: #DA0037;
   color: #FFFFFF;
@@ -46,12 +46,12 @@ Warna utama dan sekunder dapat dikombinasikan untuk menciptakan tampilan yang ko
 }
 ```
 
-## Pedoman Penggunaan
+## Usage Guidelines
 
-- Gunakan warna primer untuk membangun identitas visual yang kuat.
-- Pastikan kontras cukup antara latar dan teks.
-- Hindari penggunaan warna primer secara berlebihan dalam satu tampilan.
+- Use primary colors to build a strong brand identity.
+- Ensure sufficient contrast between background and text.
+- Avoid excessive use of primary colors in a single layout.
 
 ---
 
-Jika Anda memerlukan palet dalam format ASE (Adobe Swatch Exchange) atau kode warna lainnya, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+If you need the palette in ASE (Adobe Swatch Exchange) format or other color codes, please contact us at support@nihonbuzz.org.

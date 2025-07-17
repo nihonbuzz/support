@@ -1,37 +1,37 @@
 ---
-title: Penafian (Disclaimer)
+title: Disclaimer
 sidebar_position: 13
-description: Penyangkalan atas tanggung jawab hukum terkait konten, layanan, dan informasi di situs kami.
+description: Legal disclaimer regarding liability for content, services, and information on our site.
 ---
 
-# Penafian (Disclaimer)
+# Disclaimer
 
-Informasi yang tersedia di platform ini disediakan untuk tujuan pendidikan dan informasi umum semata. Kami tidak memberikan jaminan atau representasi apa pun terkait keakuratan, kelengkapan, atau hasil dari penggunaan informasi tersebut.
+The information provided on this platform is for educational and general informational purposes only. We make no guarantees or representations regarding the accuracy, completeness, or outcomes of using such information.
 
-## Tidak Ada Jaminan Keberhasilan
+## No Guarantee of Success
 
-Meskipun kami berusaha menyediakan materi pembelajaran yang berkualitas, kami tidak dapat menjamin bahwa pengguna akan mencapai hasil tertentu—baik secara akademis, profesional, maupun finansial—setelah mengikuti kursus atau menggunakan layanan kami.
+While we strive to provide high-quality learning materials, we cannot guarantee that users will achieve specific results—whether academic, professional, or financial—after taking courses or using our services.
 
-Keberhasilan Anda tergantung pada berbagai faktor seperti dedikasi, pemahaman materi, pengalaman sebelumnya, dan keterlibatan aktif Anda.
+Your success depends on various factors such as dedication, understanding of the material, prior experience, and active engagement.
 
-## Tanggung Jawab Pengguna
+## User Responsibility
 
-Setiap tindakan atau keputusan yang Anda ambil berdasarkan informasi dari platform ini adalah sepenuhnya tanggung jawab Anda. Kami tidak bertanggung jawab atas kerugian atau kerusakan, langsung maupun tidak langsung, yang timbul akibat penggunaan atau ketergantungan terhadap informasi atau layanan kami.
+Any actions or decisions you make based on information from this platform are entirely your responsibility. We are not liable for any loss or damage, direct or indirect, arising from the use of or reliance on our information or services.
 
-## Tautan ke Pihak Ketiga
+## Third-Party Links
 
-Platform kami mungkin menyertakan tautan ke situs web atau layanan pihak ketiga. Kami tidak memiliki kendali atas konten atau praktik mereka dan tidak bertanggung jawab atas keakuratan, kebijakan privasi, atau praktik mereka.
+Our platform may include links to third-party websites or services. We have no control over their content or practices and are not responsible for their accuracy, privacy policies, or practices.
 
-Disarankan untuk membaca kebijakan dan syarat layanan dari situs pihak ketiga sebelum menggunakannya.
+We recommend reviewing the policies and terms of any third-party sites before using them.
 
-## Perubahan Informasi
+## Changes to Information
 
-Informasi pada platform kami dapat berubah sewaktu-waktu tanpa pemberitahuan. Kami tidak berkewajiban untuk memperbarui informasi yang tersedia, meskipun mungkin sudah usang.
+Information on our platform may change at any time without notice. We are not obligated to update information that may become outdated.
 
-## Pertanyaan
+## Questions
 
-Jika Anda memiliki pertanyaan terkait penafian ini atau penggunaan platform, silakan hubungi kami melalui halaman [Hubungi Kami](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If you have questions regarding this disclaimer or the use of our platform, please contact us via the [Contact Us](/hubungi-kami) page or email [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 
 ---
 
-Dengan menggunakan platform ini, Anda dianggap telah membaca, memahami, dan menyetujui seluruh isi penafian ini.
+By using this platform, you acknowledge that you have read, understood, and agreed to the entirety of this disclaimer.

@@ -1,82 +1,81 @@
 ---
-title: Error Saat Mengakses Kursus
+title: コースにアクセスできないエラー
 sidebar_position: 1
-description: Panduan mengatasi error umum saat membuka atau memulai kursus di platform.
+description: プラットフォームでコースを開く際に発生する一般的なエラーの解決ガイド。
 ---
 
-# Error Saat Mengakses Kursus
+# コースにアクセスできないエラー
 
-Jika Anda mengalami kendala saat mencoba membuka atau mengikuti kursus di Nihonbuzz Academy, ada beberapa kemungkinan penyebab yang bisa diatasi dengan cepat. Halaman ini akan membantu Anda mengenali penyebab dan memberikan solusi mandiri sebelum menghubungi tim dukungan.
-
----
-
-## ❗ Jenis Error yang Umum Terjadi
-
-Beberapa pesan atau kondisi error yang mungkin Anda temui:
-
-- **“Halaman tidak ditemukan”** saat membuka kursus
-- **“Anda tidak memiliki akses ke konten ini”**
-- Tombol **Mulai Kursus** tidak berfungsi
-- Konten kursus tidak muncul setelah diklik
+Nihonbuzz Academyでコースを開いたり開始したりする際に問題が発生した場合、原因はいくつか考えられますが、多くの場合すぐに解決できます。このガイドでは、原因を特定し、サポートに連絡する前に試せる解決策をご紹介します。
 
 ---
 
-## 🔍 Penyebab Umum & Solusi
+## ❗ よくあるエラーの種類
 
-### 1. **Belum Login**
-Pastikan Anda sudah login sebelum mengakses kursus. Banyak kursus hanya bisa dibuka oleh pengguna terdaftar.
+表示される可能性のあるエラーメッセージや状況：
 
-👉 **Solusi:**  
-Login terlebih dahulu, lalu kembali ke halaman kursus.
-
----
-
-### 2. **Belum Terdaftar di Kursus**
-Beberapa kursus memerlukan pendaftaran manual atau pembelian sebelum dapat diakses.
-
-👉 **Solusi:**  
-Periksa apakah Anda sudah mendaftar di kursus tersebut. Jika belum, klik tombol **“Ikuti Kursus”** atau lakukan pembelian jika kursus berbayar.
+- コースを開くと**「ページが見つかりません」**
+- **「このコンテンツにアクセスする権限がありません」**
+- **「コースを開始」**ボタンが反応しない
+- コースの内容がクリックしても表示されない
 
 ---
 
-### 3. **Kursus Sudah Ditutup**
-Kursus tertentu memiliki batas waktu akses atau periode aktif.
+## 🔍 主な原因と解決策
 
-👉 **Solusi:**  
-Periksa deskripsi kursus. Jika kursus telah ditutup atau tidak lagi aktif, Anda tidak akan bisa mengaksesnya.
+### 1. **ログインしていない**
+コースにアクセスする前にログインしてください。多くのコースは登録ユーザーのみ利用可能です。
 
----
-
-### 4. **Masalah Peramban (Browser)**
-Terkadang browser yang usang atau ekstensi yang aktif dapat mengganggu tampilan konten.
-
-👉 **Solusi:**
-- Gunakan browser terbaru (Chrome, Firefox, Safari, dll.)
-- Coba **mode incognito** atau **nonaktifkan ekstensi pihak ketiga**
-- Bersihkan cache dan muat ulang halaman
+👉 **解決策:**  
+まずログインしてから、コースページに戻ってください。
 
 ---
 
-### 5. **Koneksi Internet Tidak Stabil**
-Koneksi yang lambat atau tidak stabil bisa membuat halaman gagal dimuat dengan sempurna.
+### 2. **コースに未登録**
+一部のコースは、アクセス前に手動登録または購入が必要です。
 
-👉 **Solusi:**  
-Pastikan koneksi internet Anda lancar. Jika perlu, sambungkan ke jaringan lain dan coba kembali.
-
----
-
-## 📬 Tetap Tidak Bisa Mengakses?
-
-Jika Anda sudah mencoba langkah-langkah di atas dan masih mengalami kendala:
-
-- Catat pesan error yang muncul
-- Ambil tangkapan layar (screenshot) jika perlu
-- Hubungi tim dukungan melalui halaman:  
-  👉 [Hubungi Kami](../hubungi-kami.md)
-
-Tim kami siap membantu menyelesaikan masalah Anda secepat mungkin.
+👉 **解決策:**  
+コースに登録済みか確認してください。未登録の場合、**「コースに参加」**をクリックするか、有料コースなら購入してください。
 
 ---
 
-Menjaga kenyamanan belajar Anda adalah prioritas kami. Jangan ragu untuk mencari bantuan jika mengalami kendala teknis.
+### 3. **コースが終了している**
+一部のコースには利用期限や提供期間があります。
 
+👉 **解決策:**  
+コース説明を確認してください。コースが終了している場合、アクセスはできません。
+
+---
+
+### 4. **ブラウザの問題**
+古いブラウザや有効な拡張機能がコンテンツ表示を妨げることがあります。
+
+👉 **解決策:**
+- 最新版のブラウザ（Chrome、Firefox、Safariなど）を使用
+- **シークレットモード**で試す、または**サードパーティ拡張を無効化**
+- キャッシュをクリアしてページを再読み込み
+
+---
+
+### 5. **インターネット接続が不安定**
+接続が遅い、または不安定な場合、ページが正しく読み込まれないことがあります。
+
+👉 **解決策:**  
+安定したインターネット接続を確保してください。必要であれば別のネットワークに切り替えて再試行してください。
+
+---
+
+## 📬 それでもアクセスできませんか？
+
+上記の手順を試しても問題が解決しない場合：
+
+- 表示されたエラーメッセージを記録
+- 可能であればスクリーンショットを撮る
+- サポートページからお問い合わせください：  
+  👉 [お問い合わせ](../hubungi-kami.md)
+
+私たちのチームができるだけ早く問題を解決します。
+
+---
+
+学習体験の快適さは私たちの最優先事項です。技術的な問題に直面した場合は、遠慮なくサポートをご利用ください。

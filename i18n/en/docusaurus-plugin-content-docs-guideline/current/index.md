@@ -1,38 +1,37 @@
 ---
-
-title: Panduan Identitas Merek
-description: Panduan resmi identitas visual Nihonbuzz
+title: Brand Identity Guidelines
+description: Official visual identity guidelines for Nihonbuzz
 slug: /
 sidebar_position: 0
 ---
 
-# Panduan Identitas Merek NihonBuzz
+# NihonBuzz Brand Identity Guidelines
 
-Selamat datang di **Panduan Identitas Merek** NihonBuzz. Halaman ini dirancang sebagai referensi utama bagi siapa pun yang berinteraksi dengan identitas visual kami, baik internal maupun eksternal.
+Welcome to the **NihonBuzz Brand Identity Guidelines**. This page serves as the primary reference for anyone interacting with our visual identity, whether internally or externally.
 
-Panduan ini mencakup semua elemen penting dari brand kami, termasuk logo, warna, tipografi, ikonografi, pola visual, serta aturan penggunaan yang tepat. Kami juga menyediakan paket unduhan yang berisi aset resmi.
+This guide covers all the key elements of our brand, including logo, colors, typography, iconography, visual patterns, and proper usage rules. We also provide downloadable packages containing official brand assets.
 
-## Tujuan Panduan
+## Purpose of This Guide
 
-Panduan ini bertujuan untuk:
+The purpose of this guide is to:
 
-* Menjaga konsistensi visual di semua media dan platform.
-* Memastikan penggunaan identitas merek kami yang tepat.
-* Memberikan akses ke aset brand yang sah dan terbaru.
+* Maintain visual consistency across all media and platforms.
+* Ensure proper and accurate use of our brand identity.
+* Provide access to official and up-to-date brand assets.
 
-## Struktur Panduan
+## Guide Structure
 
-Panduan ini terbagi dalam beberapa bagian:
+The guide is divided into several sections:
 
-* [Logo NihonBuzz Company](./logo/company): Variasi dan penggunaan logo NihonBuzz Company.
-* [Logo NihonBuzz Academy](./logo/academy): Variasi dan penggunaan logo NihonBuzz Academy.
-* [Warna](./colors): Skema warna utama dan pendukung.
-* [Tipografi](./typography): Font resmi yang digunakan.
-* [Ikonografi](./iconography): Gaya dan ikon resmi.
-* [Pola Visual](./pattern): Elemen dekoratif visual.
-* [Do & Don'ts](./dos-and-donts): Praktik penggunaan yang benar dan salah.
-* [Unduhan](./downloads): Aset resmi dalam berbagai format.
+* [NihonBuzz Company Logo](./logo/company): Variations and usage of the NihonBuzz Company logo.
+* [NihonBuzz Academy Logo](./logo/academy): Variations and usage of the NihonBuzz Academy logo.
+* [Colors](./colors): Primary and secondary color schemes.
+* [Typography](./typography): Official fonts used.
+* [Iconography](./iconography): Style and official icons.
+* [Visual Patterns](./pattern): Decorative visual elements.
+* [Do & Don'ts](./dos-and-donts): Best practices and common mistakes.
+* [Downloads](./downloads): Official assets in various formats.
 
 ---
 
-Jika Anda membutuhkan bantuan lebih lanjut atau versi khusus dari aset, silakan hubungi kami melalui email [support@nihonbuzz.org](/hubungi-kami).
+If you need further assistance or custom versions of assets, please contact us via email at [support@nihonbuzz.org](/hubungi-kami).

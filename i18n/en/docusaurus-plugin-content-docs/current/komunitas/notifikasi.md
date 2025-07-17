@@ -1,84 +1,83 @@
 ---
-title: Notifikasi & Aktivitas
+title: Notifications & Activity
 sidebar_position: 4
-description: Pelajari cara kerja notifikasi, jenis-jenisnya, dan bagaimana Anda bisa mengatur atau menyesuaikan pemberitahuan di Nihonbuzz Academy.
+description: Learn how notifications work, their types, and how to manage or customize alerts on Nihonbuzz Academy.
 ---
 
-# Notifikasi & Aktivitas
+# Notifications & Activity
 
-Sistem notifikasi membantu Anda tetap terhubung dengan semua aktivitas penting dalam akun, kursus, dan komunitas. Anda akan menerima pemberitahuan saat ada interaksi baru, pembaruan materi, atau aktivitas lain yang relevan dengan perjalanan belajar Anda.
-
----
-
-## 🔔 Jenis Notifikasi
-
-Berikut beberapa jenis notifikasi yang umum Anda terima:
-
-### 📚 Pembelajaran
-- Pemberitahuan kursus baru yang Anda ikuti
-- Pengingat menyelesaikan modul atau kuis
-- Tugas yang perlu dikumpulkan atau telah dinilai
-- Sertifikat yang sudah tersedia
-
-### 👥 Komunitas
-- Balasan di forum atau grup yang Anda ikuti
-- Pesan pribadi dari anggota lain
-- Aktivitas diskusi dalam grup kursus
-
-### 💼 Akun & Sistem
-- Perubahan pada profil atau pengaturan akun
-- Status pembayaran atau langganan
-- Informasi penting dari tim akademi
+The notification system keeps you connected to all important activities in your account, courses, and community. You’ll receive alerts when there are new interactions, material updates, or other activities relevant to your learning journey.
 
 ---
 
-## ⚙️ Mengatur Preferensi Notifikasi
+## 🔔 Types of Notifications
 
-Anda bisa menyesuaikan jenis dan cara Anda menerima notifikasi:
+Here are some common types of notifications you may receive:
 
-1. Buka **Dashboard > Akun > Preferensi Notifikasi**
-2. Pilih jenis notifikasi yang ingin Anda aktifkan atau nonaktifkan
-3. Pilih metode notifikasi: di dalam platform, email, atau keduanya
-4. Simpan perubahan
+### 📚 Learning
+- Notifications for new courses you’ve enrolled in
+- Reminders to complete modules or quizzes
+- Assignments that need submission or have been graded
+- Certificates that are available for download
 
-Untuk pengaturan lebih lanjut, lihat juga:  
-👉 [Bahasa & Preferensi Tampilan](../akun/preferensi.md)
+### 👥 Community
+- Replies in forums or groups you follow
+- Private messages from other members
+- Group discussion activity for your enrolled courses
 
----
-
-## 📩 Notifikasi Email
-
-Secara default, Anda akan menerima notifikasi penting melalui email, seperti:
-
-- Aktivasi akun dan reset sandi
-- Sertifikat selesai
-- Pesan pribadi dari anggota
-
-**Tips:** Pastikan email Anda aktif dan tidak masuk ke folder spam. Bila Anda tidak menerima email, baca panduan:  
-👉 [Email Tidak Masuk (Reset / Aktivasi)](../bantuan/email-tidak-masuk.md)
+### 💼 Account & System
+- Changes to your profile or account settings
+- Payment or subscription status updates
+- Important information from the academy team
 
 ---
 
-## 🔕 Menonaktifkan atau Menghentikan Notifikasi
+## ⚙️ Managing Notification Preferences
 
-Jika merasa terganggu oleh notifikasi tertentu:
+You can customize the types and delivery methods of notifications:
 
-- Anda bisa menonaktifkan notifikasi spesifik di pengaturan akun
-- Untuk keluar dari grup diskusi, gunakan opsi **"Keluar dari Grup"**
-- Untuk berhenti menerima email dari forum, klik tautan **berhenti berlangganan** di bagian bawah email
+1. Go to **Dashboard > Account > Notification Preferences**
+2. Select which types of notifications to enable or disable
+3. Choose delivery method: in-app, email, or both
+4. Save your changes
 
----
-
-## 🧭 Riwayat Aktivitas
-
-Semua notifikasi dan aktivitas juga tercatat di halaman **Aktivitas Saya**, yang bisa Anda akses dari dashboard.
-
-Di sana Anda bisa melihat:
-- Kursus terakhir yang diikuti
-- Riwayat forum dan pesan
-- Update terbaru dari grup diskusi
+For more settings, see:  
+👉 [Language & Display Preferences](../akun/preferensi.md)
 
 ---
 
-Dengan pengaturan notifikasi yang tepat, Anda tidak akan ketinggalan perkembangan apa pun dalam proses belajar Anda.
+## 📩 Email Notifications
 
+By default, you’ll receive important notifications via email, such as:
+
+- Account activation and password reset
+- Certificate availability
+- Private messages from members
+
+**Tip:** Ensure your email is active and check spam folders. If you’re not receiving emails, see:  
+👉 [Emails Not Received (Reset / Activation)](../bantuan/email-tidak-masuk.md)
+
+---
+
+## 🔕 Disabling or Stopping Notifications
+
+If certain notifications are bothering you:
+
+- You can disable specific notifications in account settings
+- To leave a discussion group, use the **“Leave Group”** option
+- To stop receiving forum emails, click the **unsubscribe** link at the bottom of the email
+
+---
+
+## 🧭 Activity History
+
+All notifications and activities are also recorded in the **My Activity** page, accessible from the dashboard.
+
+There you can view:
+- Recently accessed courses
+- Forum and message history
+- Latest updates from discussion groups
+
+---
+
+With the right notification settings, you’ll never miss an important update in your learning process.

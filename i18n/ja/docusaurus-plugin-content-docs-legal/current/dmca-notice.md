@@ -1,30 +1,30 @@
 ---
-title: Pemberitahuan DMCA
+title: DMCA通知
 sidebar_position: 10
-description: Prosedur pelaporan pelanggaran hak cipta berdasarkan DMCA.
+description: DMCAに基づく著作権侵害報告の手続き。
 ---
 
-# Pemberitahuan DMCA
+# DMCA通知
 
-Kami menghormati hak kekayaan intelektual pihak lain dan berharap Anda juga demikian. Sesuai dengan ketentuan Digital Millennium Copyright Act (DMCA), kami akan merespons dengan cepat terhadap klaim pelanggaran hak cipta yang dilaporkan kepada kami.
+当社は他者の知的財産権を尊重し、皆様にも同様にお願いしています。Digital Millennium Copyright Act（DMCA）に従い、当社は報告された著作権侵害の申し立てに迅速に対応します。
 
-## Cara Mengirim Pemberitahuan
+## 通知の送信方法
 
-Jika Anda adalah pemilik hak cipta, atau diberi wewenang untuk bertindak atas nama pemilik hak eksklusif yang diduga dilanggar, Anda dapat mengirimkan pemberitahuan pelanggaran kepada kami dengan menyertakan informasi berikut:
+あなたが著作権者、または独占的権利の所有者の代理として行動する権限を有する場合、以下の情報を含めてDMCA通知を当社に送信してください：
 
-1. Tanda tangan fisik atau elektronik dari pemilik hak cipta atau pihak yang diberi wewenang;
-2. Identifikasi karya yang diklaim telah dilanggar;
-3. Identifikasi materi yang diduga melanggar dan informasi yang cukup agar kami dapat menemukannya;
-4. Informasi kontak Anda (alamat, nomor telepon, dan email);
-5. Pernyataan bahwa Anda memiliki keyakinan baik bahwa penggunaan tersebut tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum;
-6. Pernyataan bahwa informasi dalam pemberitahuan adalah akurat, dan bahwa Anda memiliki wewenang untuk bertindak atas nama pemilik hak eksklusif.
+1. 著作権者またはその代理人の物理的または電子的署名；
+2. 侵害されたと主張する著作物の特定；
+3. 侵害しているとされる資料の特定およびその所在情報；
+4. あなたの連絡先情報（住所、電話番号、メールアドレス）；
+5. 当該使用が著作権者、その代理人、または法律により許可されていないと誠実に信じる旨の声明；
+6. 通知に記載された情報が正確であり、偽証罪の罰則を承知の上で、あなたが著作権者またはその代理人であることを証明する声明。
 
-Pemberitahuan DMCA dapat dikirim ke:
+通知は以下の宛先に送信してください：
 
 📩 **Email:** [support@nihonbuzz.org](mailto:support@nihonbuzz.org)
 
-Kami akan menyelidiki semua pemberitahuan pelanggaran yang sah dan mengambil tindakan yang sesuai, termasuk penghapusan materi atau penangguhan akun jika perlu.
+当社はすべての有効な侵害通知を調査し、必要に応じて資料の削除やアカウントの停止など、適切な措置を講じます。
 
 ---
 
-Jika Anda memiliki pertanyaan atau memerlukan bantuan lainnya, silakan kunjungi halaman [Hubungi Kami](/hubungi-kami).
+ご質問やサポートが必要な場合は、[お問い合わせページ](/hubungi-kami)をご覧ください。

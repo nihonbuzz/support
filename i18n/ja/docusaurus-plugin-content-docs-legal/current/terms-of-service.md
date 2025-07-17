@@ -1,65 +1,65 @@
 ---
-title: Syarat & Ketentuan Layanan
+title: 利用規約
 sidebar_position: 3
-description: Persyaratan penggunaan layanan kami dan hak serta kewajiban pengguna.
+description: サービス利用に関する条件と、ユーザーの権利・義務について説明します。
 ---
 
-# Syarat dan Ketentuan Layanan
+# 利用規約
 
-Dengan menggunakan layanan kami, Anda menyetujui syarat dan ketentuan berikut ini. Harap membaca dengan cermat sebelum menggunakan platform kami.
+当サービスをご利用いただくことで、以下の利用規約に同意したものとみなされます。ご利用前に必ずお読みください。
 
-## 1. Penerimaan Syarat
+## 1. 規約への同意
 
-Dengan mendaftar, mengakses, atau menggunakan layanan kami, Anda menyatakan telah membaca, memahami, dan menyetujui untuk terikat dengan syarat dan ketentuan ini.
+登録、アクセス、またはサービスの利用を行うことで、本規約を理解し、同意したことを確認します。
 
-## 2. Kelayakan
+## 2. 利用資格
 
-Anda harus berusia minimal 13 tahun atau memiliki izin dari orang tua/wali untuk menggunakan layanan ini. Untuk instruktur, syarat tambahan dapat berlaku sebagaimana dijelaskan dalam [Perjanjian Instruktur](/legal/instructor-agreement).
+サービスを利用するには、13歳以上であるか、保護者の同意が必要です。講師として利用する場合は、[講師契約](/legal/instructor-agreement)に記載された追加条件が適用されます。
 
-## 3. Akun Pengguna
+## 3. ユーザーアカウント
 
-- Anda bertanggung jawab menjaga keamanan akun Anda.
-- Anda wajib memberikan informasi yang akurat dan lengkap.
-- Kami berhak menangguhkan atau menghapus akun jika ditemukan pelanggaran.
+- アカウントの安全管理はご自身で行ってください。
+- 正確かつ完全な情報を提供する必要があります。
+- 規約違反があった場合、当社はアカウントの停止・削除を行う権利を有します。
 
-## 4. Hak dan Kewajiban Pengguna
+## 4. ユーザーの権利と義務
 
-- Dilarang menyalahgunakan materi di platform kami.
-- Dilarang mengunggah konten yang melanggar hukum, hak cipta, atau norma masyarakat.
-- Dilarang mengganggu pengalaman belajar pengguna lain.
+- 当プラットフォームの資料を不正に利用しないこと。
+- 違法・著作権侵害・社会的に不適切なコンテンツをアップロードしないこと。
+- 他ユーザーの学習体験を妨げないこと。
 
-## 5. Konten
+## 5. コンテンツについて
 
-- Semua konten kursus dilindungi hak kekayaan intelektual.
-- Anda tidak boleh menyalin, menyebarkan, atau menjual ulang konten tanpa izin.
-- Lihat [Kebijakan Hak Kekayaan Intelektual](/legal/intellectual-property-policy) untuk detail.
+- すべてのコースコンテンツは知的財産権で保護されています。
+- 許可なくコピー、配布、販売することはできません。
+- 詳細は[知的財産ポリシー](/legal/intellectual-property-policy)をご覧ください。
 
-## 6. Pembayaran dan Pengembalian Dana
+## 6. 支払いと返金ポリシー
 
-Untuk informasi lengkap mengenai pembayaran dan kebijakan pengembalian dana, silakan lihat [Kebijakan Pengembalian Dana](/legal/refund-return-policy) dan [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy).
+支払いおよび返金に関する詳細は、[返金・返品ポリシー](/legal/refund-return-policy)および[決済セキュリティポリシー](/legal/payment-security-policy)をご確認ください。
 
-## 7. Penangguhan dan Penghentian
+## 7. 停止および解約
 
-Kami dapat menangguhkan atau menghentikan akses Anda jika:
+以下の場合、サービスの利用を停止または終了することがあります：
 
-- Terjadi pelanggaran terhadap ketentuan ini
-- Ada permintaan dari otoritas hukum
-- Terjadi aktivitas mencurigakan pada akun Anda
+- 規約に違反した場合
+- 法的機関からの要請があった場合
+- アカウントに不審な活動が確認された場合
 
-## 8. Penyangkalan dan Batas Tanggung Jawab
+## 8. 免責事項と責任制限
 
-Layanan disediakan “sebagaimana adanya”. Kami tidak memberikan jaminan bahwa layanan akan selalu bebas dari gangguan. Lihat [Disclaimer](/legal/disclaimer) untuk rincian.
+サービスは「現状のまま」提供されます。常に中断なく提供されることは保証しません。詳細は[免責事項](/legal/disclaimer)をご確認ください。
 
-## 9. Perubahan Ketentuan
+## 9. 規約の変更
 
-Kami dapat mengubah syarat dan ketentuan ini dari waktu ke waktu. Perubahan akan diberitahukan melalui platform kami dan berlaku setelah dipublikasikan.
+規約は随時変更される場合があります。変更はプラットフォーム上で通知され、公開後に適用されます。
 
-## 10. Hukum yang Berlaku
+## 10. 準拠法
 
-Ketentuan ini diatur oleh hukum yang berlaku di Indonesia. Sengketa yang timbul akan diselesaikan melalui jalur hukum yang berlaku.
+本規約はインドネシアの法律に準拠します。紛争が発生した場合は、適用される法的手続きに従って解決されます。
 
-## 11. Hubungi Kami
+## 11. お問い合わせ
 
-Jika Anda memiliki pertanyaan mengenai syarat dan ketentuan ini, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+利用規約に関する質問は、[お問い合わせページ](/hubungi-kami)または [support@nihonbuzz.org](mailto:support@nihonbuzz.org) までご連絡ください。
 
-**Terakhir diperbarui:** 13 Juli 2025
+**最終更新日:** 2025年7月13日

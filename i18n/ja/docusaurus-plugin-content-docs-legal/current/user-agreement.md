@@ -1,47 +1,47 @@
 ---
-title: Perjanjian Pengguna
+title: 利用規約
 sidebar_position: 6
-description: Kesepakatan antara pengguna dan platform kami dalam penggunaan layanan.
+description: 当社プラットフォームのサービス利用に関するユーザーとの合意。
 ---
 
-# Perjanjian Pengguna
+# 利用規約
 
-Perjanjian Pengguna ini mengatur hubungan hukum antara Anda sebagai pengguna dan platform kami dalam mengakses dan menggunakan layanan yang tersedia.
+本利用規約は、ユーザーとしてのあなたと当社プラットフォームとの間の法的関係を、当社サービスへのアクセスおよび利用に関して定めるものです。
 
-Dengan menggunakan platform kami, Anda dianggap telah membaca, memahami, dan menyetujui seluruh isi dari Perjanjian ini.
+当プラットフォームを利用することで、あなたは本規約のすべてを読み、理解し、同意したものとみなされます。
 
-## 1. Pendaftaran dan Akun
+## 1. 登録とアカウント
 
-- Pengguna wajib memberikan informasi yang benar, akurat, dan lengkap saat mendaftar.
-- Anda bertanggung jawab atas keamanan akun Anda, termasuk menjaga kerahasiaan kata sandi.
-- Kami berhak menangguhkan atau menghapus akun jika ditemukan pelanggaran terhadap ketentuan ini.
+- ユーザーは、登録時に正確で真実かつ完全な情報を提供する必要があります。
+- アカウントのセキュリティを維持する責任はユーザーにあり、パスワードの管理を含みます。
+- 当社は、本規約違反が判明した場合、アカウントを一時停止または削除する権利を有します。
 
-## 2. Hak dan Kewajiban Pengguna
+## 2. ユーザーの権利と義務
 
-- Pengguna berhak mengakses konten dan layanan sesuai ketentuan yang berlaku.
-- Dilarang menggunakan platform untuk tujuan ilegal, merugikan pihak lain, atau melanggar hukum yang berlaku.
-- Pengguna bertanggung jawab penuh atas konten yang diunggah, dikirim, atau dibagikan melalui platform.
+- ユーザーは、適用される条件に従ってコンテンツやサービスにアクセスする権利があります。
+- 違法行為、他人への損害、または適用法令の違反を目的としてプラットフォームを使用することは禁止されています。
+- ユーザーは、プラットフォームを通じてアップロード、送信、または共有するコンテンツに全面的な責任を負います。
 
-## 3. Perilaku dalam Komunitas
+## 3. コミュニティでの行動
 
-- Pengguna wajib menjaga etika dan sopan santun dalam berinteraksi.
-- Dilarang mengunggah konten yang mengandung ujaran kebencian, pornografi, kekerasan, spam, atau pelanggaran hak cipta.
-- Kami berhak menghapus konten yang dianggap melanggar tanpa pemberitahuan sebelumnya.
+- ユーザーは、やり取りの際に倫理と礼儀を守る必要があります。
+- ヘイトスピーチ、ポルノ、暴力、スパム、または著作権侵害を含むコンテンツのアップロードは禁止されています。
+- 当社は、違反と判断したコンテンツを事前通知なしに削除する権利を有します。
 
-## 4. Hak Kekayaan Intelektual
+## 4. 知的財産権
 
-- Semua konten di platform, kecuali yang diunggah oleh pengguna, merupakan milik kami atau pihak ketiga yang dilindungi undang-undang.
-- Anda tidak diperkenankan memperbanyak, menyebarkan, atau memodifikasi konten tanpa izin tertulis.
+- ユーザーがアップロードしたものを除き、プラットフォーム上のすべてのコンテンツは当社または法律で保護される第三者に帰属します。
+- 書面による許可なしにコンテンツを複製、配布、または改変することはできません。
 
-## 5. Pembatalan dan Penghapusan Akun
+## 5. アカウントの解約および削除
 
-- Pengguna dapat menghapus akun sewaktu-waktu melalui pengaturan profil.
-- Kami berhak menangguhkan atau menghapus akun yang melanggar ketentuan atau menyebabkan kerugian bagi platform.
+- ユーザーは、プロフィール設定からいつでもアカウントを削除できます。
+- 当社は、本規約に違反した場合またはプラットフォームに損害を与える場合、アカウントを一時停止または削除する権利を有します。
 
-## 6. Perubahan Perjanjian
+## 6. 規約の変更
 
-Kami berhak memperbarui perjanjian ini sewaktu-waktu. Perubahan akan diberlakukan setelah diumumkan di halaman ini. Penggunaan berkelanjutan setelah perubahan dianggap sebagai persetujuan atas versi terbaru.
+当社は、随時本規約を更新する場合があります。変更は本ページで告知され、告知後すぐに有効となります。変更後も利用を継続することで、最新の規約に同意したものとみなされます。
 
-## 7. Kontak
+## 7. お問い合わせ
 
-Jika Anda memiliki pertanyaan mengenai Perjanjian Pengguna ini, silakan hubungi kami melalui halaman [Kontak](/hubungi-kami) di platform kami.
+本利用規約に関するご質問は、[お問い合わせページ](/hubungi-kami)からご連絡ください。

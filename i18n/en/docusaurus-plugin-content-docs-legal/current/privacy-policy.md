@@ -1,78 +1,78 @@
 ---
-title: Kebijakan Privasi
+title: Privacy Policy
 sidebar_position: 2
-description: Menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda.
+description: Explains how we collect, use, and protect your personal information.
 ---
 
-# Kebijakan Privasi
+# Privacy Policy
 
-Privasi Anda penting bagi kami. Kebijakan ini menjelaskan bagaimana kami mengumpulkan, menggunakan, menyimpan, dan melindungi informasi pribadi Anda saat menggunakan layanan di platform kami.
+Your privacy is important to us. This policy explains how we collect, use, store, and protect your personal information when using our platform services.
 
-## 1. Informasi yang Kami Kumpulkan
+## 1. Information We Collect
 
-Kami dapat mengumpulkan informasi pribadi berikut:
+We may collect the following personal information:
 
-- Nama lengkap
-- Alamat email
-- Nomor telepon
-- Informasi pembayaran
-- Aktivitas penggunaan platform
-- Informasi teknis (alamat IP, jenis perangkat, browser, dll.)
+- Full name
+- Email address
+- Phone number
+- Payment information
+- Platform usage activity
+- Technical details (IP address, device type, browser, etc.)
 
-## 2. Cara Pengumpulan Informasi
+## 2. How We Collect Information
 
-Data dikumpulkan melalui:
+Data is collected through:
 
-- Formulir pendaftaran
-- Formulir pembayaran
-- Interaksi Anda dengan kursus atau komunitas
-- Cookies dan teknologi pelacakan
+- Registration forms
+- Payment forms
+- Your interactions with courses or the community
+- Cookies and tracking technologies
 
-## 3. Penggunaan Informasi
+## 3. How We Use Information
 
-Kami menggunakan informasi Anda untuk:
+We use your information to:
 
-- Memproses pendaftaran dan transaksi
-- Memberikan akses ke kursus dan layanan kami
-- Memberikan dukungan teknis dan layanan pelanggan
-- Mengirimkan pembaruan dan pemberitahuan terkait akun Anda
-- Meningkatkan layanan kami melalui analisis penggunaan
+- Process registrations and transactions
+- Provide access to our courses and services
+- Offer technical support and customer service
+- Send updates and notifications related to your account
+- Improve our services through usage analysis
 
-## 4. Penyimpanan dan Keamanan Data
+## 4. Data Storage and Security
 
-Kami menggunakan langkah-langkah teknis dan organisasi untuk melindungi informasi Anda dari akses tidak sah, pengungkapan, perubahan, atau penghancuran. Informasi Anda disimpan selama diperlukan untuk tujuan yang dijelaskan dalam kebijakan ini.
+We implement technical and organizational measures to protect your information from unauthorized access, disclosure, alteration, or destruction. Your data is stored as long as necessary for the purposes outlined in this policy.
 
-## 5. Berbagi Informasi dengan Pihak Ketiga
+## 5. Sharing Information with Third Parties
 
-Kami tidak menjual data pribadi Anda. Informasi hanya dibagikan dengan pihak ketiga yang tepercaya seperti:
+We do not sell your personal data. Information is only shared with trusted third parties such as:
 
-- Penyedia pembayaran untuk memproses transaksi
-- Layanan analitik untuk memahami penggunaan platform
-- Pihak ketiga sesuai dengan hukum yang berlaku
+- Payment providers for transaction processing
+- Analytics services to understand platform usage
+- Third parties as required by applicable law
 
-## 6. Hak Anda
+## 6. Your Rights
 
-Anda memiliki hak untuk:
+You have the right to:
 
-- Mengakses informasi pribadi Anda
-- Meminta perbaikan atau penghapusan data Anda
-- Menarik persetujuan Anda kapan saja
-- Menolak penggunaan data untuk pemasaran
+- Access your personal information
+- Request correction or deletion of your data
+- Withdraw your consent at any time
+- Opt out of data usage for marketing purposes
 
-## 7. Cookie
+## 7. Cookies
 
-Kami menggunakan cookie untuk meningkatkan pengalaman Anda. Lihat [Kebijakan Cookie](/legal/cookie-policy) untuk informasi lebih lanjut.
+We use cookies to enhance your experience. See [Cookie Policy](/legal/cookie-policy) for more details.
 
-## 8. Anak-anak
+## 8. Children
 
-Platform ini tidak ditujukan untuk anak-anak di bawah usia 13 tahun tanpa izin orang tua. Lihat [Kebijakan Perlindungan Anak](/legal/child-protection-policy).
+This platform is not intended for children under the age of 13 without parental consent. See [Child Protection Policy](/legal/child-protection-policy).
 
-## 9. Perubahan Kebijakan Ini
+## 9. Changes to This Policy
 
-Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Tanggal revisi terakhir akan ditampilkan di bagian bawah halaman ini.
+We may update this policy from time to time. The last revised date will be displayed at the bottom of this page.
 
-## 10. Hubungi Kami
+## 10. Contact Us
 
-Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+If you have questions about this privacy policy, please contact us via the [contact page](/hubungi-kami) or email us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 
-**Terakhir diperbarui:** 13 Juli 2025
+**Last updated:** July 13, 2025

@@ -1,68 +1,68 @@
 ---
-title: Aturan & Etika Komunitas
+title: コミュニティのルールとエチケット
 sidebar_position: 3
-description: Panduan lengkap tentang aturan, etika, dan tata krama berinteraksi di forum dan komunitas Nihonbuzz Academy.
+description: Nihonbuzz Academy のフォーラムやコミュニティでのルール、エチケット、適切なマナーに関する完全ガイド。
 ---
 
-# Aturan & Etika Komunitas
+# コミュニティのルールとエチケット
 
-Komunitas Nihonbuzz Academy dibangun atas dasar rasa hormat, kolaborasi, dan semangat belajar bersama. Untuk menjaga suasana yang aman dan produktif, setiap anggota wajib mematuhi aturan serta etika yang berlaku saat berinteraksi di forum, grup diskusi, dan pesan pribadi.
-
----
-
-## ✅ Prinsip Utama Komunitas
-
-1. **Saling Menghormati:** Hormati pendapat, latar belakang, dan pengalaman belajar peserta lain.
-2. **Berbahasa Baik:** Gunakan bahasa yang sopan, jelas, dan tidak menyerang secara pribadi.
-3. **Bersikap Terbuka:** Terima perbedaan pendapat dan jangan memaksakan sudut pandang.
-4. **Bantu Sesama:** Jika bisa membantu peserta lain, berikan jawaban yang membangun dan solutif.
-5. **Fokus pada Pembelajaran:** Jaga agar setiap diskusi tetap relevan dengan topik dan tujuan belajar.
+Nihonbuzz Academy のコミュニティは、尊重、協力、そして学習意欲を基盤としています。安全で生産的な環境を維持するために、フォーラム、ディスカッショングループ、プライベートメッセージでの交流時には、以下のルールとエチケットを守ってください。
 
 ---
 
-## 🚫 Larangan & Pelanggaran
+## ✅ コミュニティの基本原則
 
-Berikut adalah tindakan yang **tidak diperbolehkan**:
-
-- Menggunakan kata-kata kasar, diskriminatif, atau menyudutkan
-- Spam atau promosi produk dan layanan pribadi
-- Mengunggah konten yang tidak pantas, vulgar, atau berbahaya
-- Menyebarkan informasi palsu atau menyesatkan
-- Mengganggu anggota lain melalui pesan pribadi atau forum
-- Membagikan materi kursus ke luar platform tanpa izin
-- Mengaku sebagai mentor/tim admin jika bukan bagian resmi
-
-> Pelanggaran terhadap poin-poin ini dapat mengakibatkan teguran, pembatasan fitur, hingga **penangguhan akun** secara permanen.
+1. **相互尊重:** 他のメンバーの意見、背景、学習経験を尊重する。
+2. **丁寧な言葉遣い:** 攻撃的にならず、明確で礼儀正しい言葉を使用する。
+3. **オープンな姿勢:** 意見の違いを受け入れ、自分の考えを押し付けない。
+4. **助け合い:** 可能であれば、他のメンバーに建設的で有益な回答を提供する。
+5. **学習に集中:** 議論を学習やコースに関連する内容に保つ。
 
 ---
 
-## 🧭 Moderasi & Pelaporan
+## 🚫 禁止事項
 
-Kami memiliki sistem moderasi aktif untuk memastikan komunitas tetap aman dan nyaman:
+以下の行為は禁止されています：
 
-- Tim kami akan meninjau laporan dalam waktu maksimal 2x24 jam.
-- Anda bisa melaporkan perilaku atau postingan yang tidak pantas lewat tombol **“Laporkan”** di forum atau pesan.
-- Semua laporan akan ditangani secara rahasia.
+- 攻撃的、差別的、または有害な言葉の使用
+- スパムや個人の製品・サービスの宣伝
+- 不適切、わいせつ、または危険なコンテンツの投稿
+- 虚偽または誤解を招く情報の拡散
+- メッセージやフォーラムを通じて他のメンバーを嫌がらせ
+- コース資料を許可なく外部に共有
+- 正式なメンター/管理者でないのに偽る行為
 
----
-
-## 🔐 Privasi & Keamanan
-
-- Jangan bagikan informasi pribadi seperti nomor HP, alamat rumah, atau akun keuangan.
-- Hindari ajakan untuk berkomunikasi di luar platform jika belum saling kenal baik.
-- Kami tidak pernah meminta kata sandi atau akses akun melalui forum atau pesan pribadi.
+> これらのルールに違反した場合、警告、機能制限、または**アカウントの永久停止**になる可能性があります。
 
 ---
 
-## 🧡 Bangun Komunitas Positif
+## 🧭 モデレーションと報告
 
-Kami percaya bahwa pembelajaran terbaik terjadi di lingkungan yang mendukung dan inklusif. Jadilah bagian dari komunitas yang:
+コミュニティを安全でポジティブに保つため、モデレーションシステムを導入しています：
 
-- Menyemangati satu sama lain
-- Merayakan keberhasilan sesama peserta
-- Saling bantu dalam menghadapi tantangan
+- 報告は最大48時間以内に対応します。
+- フォーラムやメッセージの**「報告」**ボタンから、不適切な行動や投稿を報告できます。
+- 報告内容はすべて機密として扱われます。
 
 ---
 
-Jika Anda memiliki pertanyaan atau laporan terkait perilaku anggota lain, hubungi tim kami melalui halaman:  
-👉 [Hubungi Kami](../hubungi-kami.md)
+## 🔐 プライバシーと安全性
+
+- 電話番号、自宅住所、金融情報などの個人情報を共有しないでください。
+- 信頼できない相手とプラットフォーム外でのやり取りは避けてください。
+- 私たちがフォーラムやプライベートメッセージでパスワードやアカウント情報を求めることはありません。
+
+---
+
+## 🧡 ポジティブなコミュニティを築こう
+
+私たちは、サポート的で包括的な環境でこそ最良の学習が行われると信じています。以下のようなコミュニティを目指しましょう：
+
+- お互いを励まし合う
+- 他のメンバーの成果を称える
+- 困難に直面したときに助け合う
+
+---
+
+メンバーの行動に関する質問や報告がある場合は、次のページからご連絡ください：  
+👉 [お問い合わせ](../hubungi-kami.md)

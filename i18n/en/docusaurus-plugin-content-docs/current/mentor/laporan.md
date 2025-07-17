@@ -1,81 +1,81 @@
 ---
-title: Statistik & Laporan Kelas
+title: Course Statistics & Reports
 sidebar_position: 4
-description: Panduan bagi instruktur untuk melihat laporan statistik kursus dan aktivitas peserta secara keseluruhan.
+description: A guide for instructors to view course statistics and participant activity reports.
 ---
 
-# Statistik & Laporan Kelas
+# Course Statistics & Reports
 
-Platform menyediakan fitur statistik dan pelaporan yang memudahkan instruktur dalam memantau performa kursus dan keterlibatan peserta. Data ini berguna untuk mengevaluasi efektivitas materi serta mengambil langkah perbaikan jika diperlukan.
+The platform provides statistical and reporting features that make it easier for instructors to monitor course performance and learner engagement. This data helps evaluate content effectiveness and identify areas for improvement.
 
-Laporan dapat diakses langsung dari dashboard instruktur dan diperbarui secara berkala.
-
----
-
-## 📈 Akses Statistik Kursus
-
-Untuk melihat statistik:
-
-1. Masuk ke **Dashboard Instruktur**
-2. Pilih salah satu kursus yang telah Anda buat
-3. Klik tab **Statistik / Laporan**
+Reports can be accessed directly from the instructor dashboard and are updated regularly.
 
 ---
 
-## 🔍 Data yang Ditampilkan
+## 📈 Accessing Course Statistics
 
-Beberapa informasi yang tersedia dalam laporan:
+To view course statistics:
 
-- **Jumlah total peserta**
-- **Jumlah peserta aktif (mingguan/bulanan)**
-- **Persentase penyelesaian kursus**
-- **Rata-rata nilai kuis**
-- **Tingkat dropout (peserta tidak menyelesaikan kursus)**
-- **Komentar atau umpan balik dari peserta**
-
-Semua data ditampilkan dalam bentuk grafik dan tabel yang mudah dibaca.
+1. Log in to your **Instructor Dashboard**
+2. Select the course you want to review
+3. Click the **Statistics / Reports** tab
 
 ---
 
-## 📤 Unduh Laporan
+## 🔍 Data Available
 
-Jika Anda ingin menyimpan laporan:
+The report includes information such as:
 
-- Klik tombol **Unduh Laporan**
-- Pilih format (CSV atau PDF)
-- Laporan akan mencakup semua data kursus termasuk aktivitas per peserta
+- **Total number of participants**
+- **Number of active participants (weekly/monthly)**
+- **Course completion rate**
+- **Average quiz score**
+- **Dropout rate (participants who did not finish the course)**
+- **Comments or feedback from participants**
 
-Laporan ini cocok untuk keperluan dokumentasi, evaluasi, atau pelaporan ke manajemen.
-
----
-
-## 🎯 Menggunakan Data untuk Evaluasi
-
-Manfaatkan laporan untuk:
-
-- Mengetahui bagian kursus mana yang paling banyak ditinggalkan
-- Menyesuaikan metode penyampaian materi
-- Menambahkan kuis atau penjelasan tambahan di bagian yang memiliki skor rendah
-- Menghubungi peserta yang belum aktif untuk memberi dorongan
+All data is presented in easy-to-read charts and tables.
 
 ---
 
-## 🛠 Masalah Umum
+## 📤 Download Reports
 
-Jika data statistik tidak muncul atau tidak akurat:
+To save the report:
 
-- Pastikan kursus sudah diterbitkan dan memiliki peserta
-- Cek ulang rentang waktu filter laporan
-- Jika tetap tidak muncul, hubungi tim dukungan melalui halaman [Hubungi Kami](../hubungi-kami.md)
+- Click **Download Report**
+- Choose the format (CSV or PDF)
+- The report will include all course data, including individual participant activity
+
+This report is useful for documentation, evaluation, or management reporting.
+
+---
+
+## 🎯 Using Data for Evaluation
+
+Use the reports to:
+
+- Identify which parts of the course have the highest dropout rates
+- Adjust the delivery method of the material
+- Add quizzes or extra explanations for sections with low scores
+- Reach out to inactive participants for re-engagement
+
+---
+
+## 🛠 Common Issues
+
+If statistics do not appear or seem inaccurate:
+
+- Make sure the course is published and has participants
+- Double-check the date range filter
+- If the issue persists, contact support via the [Contact Us](../hubungi-kami.md) page
 
 ---
 
 ## 💡 Tips
 
-- Lakukan evaluasi rutin setiap akhir bulan
-- Simpan laporan sebagai referensi untuk kursus selanjutnya
-- Jadikan umpan balik peserta sebagai bahan pengembangan
+- Perform regular evaluations at the end of each month
+- Save reports as references for future courses
+- Use participant feedback for continuous improvement
 
 ---
 
-Statistik bukan hanya angka—mereka adalah cerminan kualitas pengalaman belajar yang Anda berikan. Gunakan data dengan bijak untuk terus berkembang sebagai instruktur.
+Statistics are more than just numbers—they reflect the quality of the learning experience you provide. Use the data wisely to keep improving as an instructor.

@@ -1,72 +1,72 @@
 ---
-title: Kursus Gratis vs Berbayar
+title: 無料コースと有料コースの比較
 sidebar_position: 4
-description: Perbedaan antara kursus gratis dan kursus berbayar, serta manfaat yang Anda dapatkan dari masing-masing jenis kursus.
+description: 無料コースと有料コースの違いや、それぞれで得られるメリットについて解説します。
 ---
 
-# Kursus Gratis vs Berbayar
+# 無料コースと有料コースの比較
 
-Nihonbuzz Academy menyediakan dua jenis kursus utama: **Gratis** dan **Berbayar**. Masing-masing memiliki fitur dan manfaat berbeda yang disesuaikan dengan kebutuhan serta tingkat komitmen belajar Anda.
-
----
-
-## 🆓 Kursus Gratis
-
-Kursus gratis dirancang sebagai pengantar atau materi dasar untuk mengenalkan konsep penting kepada peserta.
-
-**Fitur yang umumnya tersedia:**
-- Akses ke sebagian atau seluruh modul materi
-- Video pembelajaran terbatas
-- Tidak semua kursus disertai kuis atau sertifikat
-- Fitur forum komunitas mungkin dibatasi
-- Tidak termasuk pembaruan materi berkelanjutan
-
-**Cocok untuk:**
-- Pemula yang ingin mencoba platform
-- Belajar dasar-dasar sebelum masuk ke materi lanjutan
-- Pengguna yang ingin belajar dengan fleksibilitas penuh tanpa biaya
+Nihonbuzz Academyでは、**無料**と**有料**の2種類のコースを提供しています。それぞれのコースには、学習ニーズや学習へのコミットメントに応じた特徴とメリットがあります。
 
 ---
 
-## 💼 Kursus Berbayar
+## 🆓 無料コース
 
-Kursus berbayar dirancang untuk memberikan pengalaman belajar yang komprehensif dan profesional.
+無料コースは、主要な概念を学習者に紹介するための入門編または基礎教材として設計されています。
 
-**Manfaat dan fitur tambahan:**
-- Akses penuh ke seluruh materi
-- Video pembelajaran berkualitas tinggi tanpa batasan
-- Kuis, tugas, dan evaluasi terstruktur
-- Sertifikat resmi setelah menyelesaikan kursus
-- Dukungan komunitas, forum eksklusif, dan mentoring (jika tersedia)
-- Akses ke pembaruan materi secara berkala
-- Bonus konten tambahan (jika disediakan oleh mentor)
+**一般的な特徴：**
+- 一部または全ての教材モジュールにアクセス可能
+- 制限付きの学習動画
+- クイズや修了証明書は付属しない場合あり
+- コミュニティフォーラムへのアクセスは制限される場合あり
+- 継続的な教材更新は含まれない
 
-**Cocok untuk:**
-- Peserta yang ingin serius mendalami bidang tertentu
-- Profesional yang butuh sertifikat resmi
-- Siapa saja yang ingin investasi dalam pembelajaran jangka panjang
+**適している方：**
+- プラットフォームを試したい初心者
+- 応用編に進む前に基礎を学びたい方
+- 無料で柔軟に学びたい方
 
 ---
 
-## 📊 Perbandingan Singkat
+## 💼 有料コース
 
-| Fitur                        | Kursus Gratis     | Kursus Berbayar   |
-|-----------------------------|-------------------|-------------------|
-| Akses Materi Lengkap        | ❌ Sebagian       | ✅ Lengkap        |
-| Kuis & Tugas                | ❌ Terbatas       | ✅ Penuh          |
-| Sertifikat                  | ❌ Tidak tersedia | ✅ Tersedia       |
-| Akses Komunitas Eksklusif   | ❌ Tidak semua    | ✅ Ya             |
-| Pembaruan Materi            | ❌ Terbatas       | ✅ Berkelanjutan  |
-| Dukungan Mentor             | ❌ Tidak tersedia | ✅ Jika disediakan|
+有料コースは、包括的でプロフェッショナルな学習体験を提供します。
+
+**追加のメリットと特徴：**
+- 全コンテンツへの完全アクセス
+- 高品質な学習動画の無制限視聴
+- 構造化されたクイズ、課題、評価
+- 修了後に公式証明書を取得
+- コミュニティサポート、専用フォーラム、メンタリング（利用可能な場合）
+- 定期的なコンテンツ更新
+- 講師による追加教材（提供される場合）
+
+**適している方：**
+- 専門分野を本気で習得したい学習者
+- 公式な証明書が必要なプロフェッショナル
+- 長期的な学習に投資したい方
 
 ---
 
-## 💡 Tips Memilih
+## 📊 簡単な比較
 
-- Jika Anda baru mulai, ambillah kursus gratis terlebih dahulu untuk mencoba metode pembelajaran.
-- Jika Anda ingin hasil maksimal, pengalaman mendalam, dan pengakuan resmi melalui sertifikat, kursus berbayar adalah pilihan terbaik.
+| 特徴                        | 無料コース        | 有料コース          |
+|---------------------------|-------------------|---------------------|
+| コンテンツ全アクセス         | ❌ 一部のみ         | ✅ すべて           |
+| クイズと課題               | ❌ 制限あり         | ✅ 完全             |
+| 修了証明書                  | ❌ なし             | ✅ あり             |
+| 専用コミュニティアクセス      | ❌ 限定的            | ✅ あり             |
+| コンテンツ更新               | ❌ 制限あり          | ✅ 定期的           |
+| メンターサポート              | ❌ なし             | ✅ （提供される場合）|
 
 ---
 
-Untuk mengetahui cara membeli kursus berbayar, silakan baca:  
-👉 [Cara Membeli Kursus](./cara-pembelian.md)
+## 💡 選び方のヒント
+
+- 初めての方は、まず無料コースで学習方法を体験してください。
+- 最大の成果、深い学習体験、公式な証明書を求める場合は、有料コースがおすすめです。
+
+---
+
+有料コースの購入手順については、こちらをご覧ください：  
+👉 [コース購入方法](./cara-pembelian.md)

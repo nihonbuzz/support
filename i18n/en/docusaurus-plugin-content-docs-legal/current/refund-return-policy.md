@@ -1,66 +1,66 @@
 ---
-title: Kebijakan Pengembalian Dana dan Pengembalian Barang
+title: Refund and Return Policy
 sidebar_position: 4
-description: Ketentuan resmi mengenai pengembalian dana untuk kursus online dan merchandise Nihonbuzz.
+description: Official terms for refunds on Nihonbuzz online courses and merchandise.
 ---
 
-# Kebijakan Pengembalian Dana
+# Refund and Return Policy
 
-Kebijakan ini disusun untuk memberikan kejelasan kepada seluruh pengguna terkait pengembalian dana pada layanan dan produk Nihonbuzz. Kami berkomitmen untuk memberikan pengalaman terbaik, baik dalam pembelajaran daring maupun pembelian merchandise.
+This policy provides clarity regarding refunds for services and products offered by Nihonbuzz. We are committed to delivering the best experience for online learning and merchandise purchases.
 
-## 1. Ruang Lingkup
+## 1. Scope
 
-Kebijakan ini berlaku untuk:
+This policy applies to:
 
-- **Produk Digital:** Kursus online dan materi belajar melalui Nihonbuzz Academy.
-- **Produk Fisik:** Merchandise resmi Nihonbuzz yang dibeli melalui toko daring kami.
+- **Digital Products:** Online courses and learning materials from Nihonbuzz Academy.
+- **Physical Products:** Official Nihonbuzz merchandise purchased through our online store.
 
-## 2. Ketentuan untuk Produk Digital (Kursus Online)
+## 2. Terms for Digital Products (Online Courses)
 
-Pengajuan pengembalian dana untuk produk digital dapat dilakukan dengan ketentuan berikut:
+Refund requests for digital products can be made under the following conditions:
 
-- Permintaan diajukan dalam **7 (tujuh) hari kalender** sejak tanggal pembelian.
-- Pengguna **belum menyelesaikan lebih dari 20%** konten kursus.
-- Kursus tidak termasuk dalam promosi yang bersifat **non-refundable**.
-- Tidak berlaku untuk kursus yang diperoleh melalui **beasiswa atau hadiah**.
+- The request is submitted within **7 calendar days** from the purchase date.
+- The user **has not completed more than 20%** of the course content.
+- The course is not part of a **non-refundable promotion**.
+- Does not apply to courses obtained via **scholarship or gift**.
 
-**Prosedur Pengajuan:**
-1. Kirim permintaan melalui email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org) dengan subjek: **Permintaan Refund – [Nama Kursus]**.
-2. Sertakan bukti transaksi dan alasan pengajuan.
-3. Tim kami akan meninjau permintaan dalam waktu 3–5 hari kerja.
+**Refund Process:**
+1. Send a request via email to [support@nihonbuzz.org](mailto:support@nihonbuzz.org) with subject: **Refund Request – [Course Name]**.
+2. Include proof of purchase and reason for the request.
+3. Our team will review within 3–5 business days.
 
-Jika permintaan disetujui, pengembalian dana akan dilakukan melalui metode pembayaran awal dalam waktu **7–14 hari kerja**.
+If approved, the refund will be issued using the original payment method within **7–14 business days**.
 
-## 3. Ketentuan untuk Produk Fisik (Merchandise)
+## 3. Terms for Physical Products (Merchandise)
 
-Pengembalian atau penukaran produk fisik dapat dilakukan dengan syarat:
+Returns or exchanges for physical products can be requested if:
 
-- Permintaan dilakukan dalam waktu **30 (tiga puluh) hari kalender** sejak tanggal penerimaan barang.
-- Produk dalam kondisi **belum digunakan**, lengkap, dan dikemas dalam kemasan asli.
-- Barang yang tidak dapat dikembalikan meliputi:
-  - Produk yang bersifat pribadi atau higienis (misalnya masker).
-  - Barang promosi dengan label **non-refundable**.
-  - Barang yang rusak akibat kelalaian pengguna.
+- The request is made within **30 calendar days** of receipt.
+- The product is **unused**, complete, and in original packaging.
+- Non-returnable items include:
+  - Personal or hygiene-related products (e.g., masks).
+  - Promotional items marked **non-refundable**.
+  - Items damaged due to user negligence.
 
-**Prosedur Pengembalian:**
-1. Hubungi kami melalui email di [support@nihonbuzz.org](mailto:support@nihonbuzz.org) dengan subjek: **Pengembalian Barang – [Nomor Pesanan]**.
-2. Kirim produk ke alamat yang akan diinformasikan oleh tim kami melalui email.
-3. Biaya pengiriman pengembalian ditanggung oleh pembeli, kecuali kesalahan disebabkan oleh pihak kami.
+**Return Process:**
+1. Contact us at [support@nihonbuzz.org](mailto:support@nihonbuzz.org) with subject: **Return Request – [Order Number]**.
+2. Ship the product to the address provided by our team.
+3. Return shipping costs are borne by the buyer unless the error is on our side.
 
-## 4. Ketentuan Umum Pengembalian Dana
+## 4. General Refund Rules
 
-- Pengembalian dana hanya dilakukan melalui metode pembayaran yang digunakan saat transaksi.
-- Biaya pengiriman awal tidak dapat dikembalikan.
-- Jika produk fisik rusak selama pengiriman kembali, pengembalian dana tidak dapat diberikan sepenuhnya.
+- Refunds are only processed to the original payment method.
+- Original shipping fees are non-refundable.
+- If the returned item is damaged during return shipping, the refund may be partially reduced or denied.
 
-## 5. Barang dan Layanan yang Tidak Dapat Dikembalikan
+## 5. Non-Refundable Items
 
-- Produk digital yang telah diakses lebih dari 20%.
-- Merchandise bersifat personal atau higienis.
-- Produk digital unduhan dan gift card.
+- Digital products accessed over 20%.
+- Personal or hygiene items.
+- Downloadable digital products and gift cards.
 
-## 6. Kontak Layanan
+## 6. Contact Us
 
-Untuk informasi lebih lanjut, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
+For more information, visit our [Contact page](/hubungi-kami) or email [support@nihonbuzz.org](mailto:support@nihonbuzz.org).
 
-**Terakhir diperbarui:** 17 Juli 2025
+**Last updated:** July 17, 2025

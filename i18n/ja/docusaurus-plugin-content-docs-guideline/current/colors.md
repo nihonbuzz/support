@@ -1,40 +1,45 @@
+
 ---
-title: Palet Warna
-description: Warna resmi merek Nihonbuzz dan panduan penggunaannya.
+
+### ✅ **Versi Bahasa Jepang (Casual-Friendly)**
+```markdown
+---
+title: カラーパレット
+description: Nihonbuzz ブランドの公式カラーと使用ガイドライン
 slug: /colors
 sidebar_position: 2
 ---
 
-# Palet Warna Nihonbuzz
+# Nihonbuzz カラーパレット
 
-Palet warna adalah elemen penting dalam identitas visual Nihonbuzz. Warna digunakan secara konsisten di semua materi komunikasi untuk memperkuat pengenalan merek.
+カラーパレットは Nihonbuzz のビジュアルアイデンティティにおいて重要な要素です。ブランドの認知度を高めるため、すべてのデザインで一貫して使用します。
 
-## Warna Utama
+## メインカラー
 
-Gunakan warna utama sebagai fondasi visual dalam semua desain resmi Nihonbuzz.
+メインカラーは、公式デザインの基本として使用してください。
 
-| Nama Warna | Kode HEX | RGB           | Penggunaan                     |
-|------------|----------|---------------|--------------------------------|
-| Merah Nihonbuzz | `#DA0037` | `218, 0, 55`   | Logo, tombol utama, aksen utama |
-| Hitam | `#1A1A1A` | `26, 26, 26`     | Teks utama, latar, logo dark   |
-| Putih | `#FFFFFF` | `255, 255, 255` | Teks terang, latar bersih      |
+| カラー名        | HEXコード  | RGB             | 用途                                 |
+|-----------------|-----------|-----------------|--------------------------------------|
+| Nihonbuzz レッド| `#DA0037`| `218, 0, 55`    | ロゴ、メインボタン、アクセント      |
+| ブラック        | `#1A1A1A`| `26, 26, 26`    | メインテキスト、背景、ダークロゴ     |
+| ホワイト        | `#FFFFFF`| `255, 255, 255` | 明るいテキスト、クリーンな背景       |
 
-## Warna Sekunder
+## セカンダリーカラー
 
-Warna-warna ini mendukung elemen grafis dan latar belakang, memberikan fleksibilitas dalam desain.
+デザインの柔軟性を高めるために、グラフィックや背景に使用します。
 
-| Nama Warna | Kode HEX | RGB           | Penggunaan                      |
-|------------|----------|---------------|---------------------------------|
-| Abu Muda   | `#F5F5F5` | `245, 245, 245` | Latar belakang terang, pembatas |
-| Abu Gelap  | `#444444` | `68, 68, 68`    | Teks pendukung, ikon            |
-| Merah Tua  | `#8B001E` | `139, 0, 30`    | Sorotan, badge, batasan visual  |
+| カラー名       | HEXコード  | RGB             | 用途                                 |
+|----------------|-----------|-----------------|--------------------------------------|
+| ライトグレー   | `#F5F5F5`| `245, 245, 245` | 明るい背景、仕切り線                |
+| ダークグレー   | `#444444`| `68, 68, 68`    | 補助テキスト、アイコン              |
+| ディープレッド | `#8B001E`| `139, 0, 30`    | ハイライト、バッジ、強調要素        |
 
-## Contoh Penggunaan
+## 使用例
 
-Warna utama dan sekunder dapat dikombinasikan untuk menciptakan tampilan yang kohesif di semua media visual.
+メインカラーとセカンダリーカラーを組み合わせて、統一感のあるデザインを作成しましょう。
 
 ```css
-/* Contoh penggunaan CSS */
+/* CSS使用例 */
 .color-primary {
   background-color: #DA0037;
   color: #FFFFFF;
@@ -46,12 +51,12 @@ Warna utama dan sekunder dapat dikombinasikan untuk menciptakan tampilan yang ko
 }
 ```
 
-## Pedoman Penggunaan
+## 使用ガイドライン
 
-- Gunakan warna primer untuk membangun identitas visual yang kuat.
-- Pastikan kontras cukup antara latar dan teks.
-- Hindari penggunaan warna primer secara berlebihan dalam satu tampilan.
+- ブランドらしさを出すためにメインカラーを基本に使いましょう。
+- 背景とテキストのコントラストを十分に確保してください。
+- 1つの画面でメインカラーを使いすぎないように注意しましょう。
 
 ---
 
-Jika Anda memerlukan palet dalam format ASE (Adobe Swatch Exchange) atau kode warna lainnya, silakan hubungi kami melalui [support@nihonbuzz.org](/hubungi-kami).
+ASE（Adobe Swatch Exchange）形式やその他のカラーコードが必要な場合は、support@nihonbuzz.org までご連絡ください。

@@ -1,78 +1,78 @@
 ---
-title: Metode Pembayaran & Invoice
+title: Payment Methods & Invoice
 sidebar_position: 2
-description: Informasi lengkap mengenai metode pembayaran yang tersedia dan cara mendapatkan invoice resmi untuk pembelian kursus.
+description: Complete information about available payment methods and how to download official invoices for course purchases.
 ---
 
-# Metode Pembayaran & Invoice
+# Payment Methods & Invoice
 
-Untuk memudahkan proses pembelian kursus, Nihonbuzz Academy menyediakan berbagai metode pembayaran yang aman dan fleksibel. Setelah pembayaran berhasil, Anda juga bisa mengunduh invoice resmi sebagai bukti transaksi.
-
----
-
-## 💳 Metode Pembayaran yang Tersedia
-
-Berikut beberapa metode pembayaran yang dapat digunakan:
-
-### 1. Transfer Bank
-- Tersedia virtual account dari berbagai bank
-- Pembayaran dikonfirmasi otomatis
-- Petunjuk transfer muncul setelah checkout
-
-### 2. Dompet Digital
-- Mendukung berbagai dompet populer
-- Pembayaran diproses secara instan
-
-### 3. Kartu Kredit / Debit
-- Bisa digunakan untuk pembayaran instan
-- Sistem mendukung berbagai jenis kartu internasional
-
-### 4. Pembayaran Manual (khusus promo/event tertentu)
-- Konfirmasi pembayaran dilakukan secara manual
-- Proses verifikasi memerlukan waktu tambahan
-
-**Catatan:** Metode pembayaran yang tersedia dapat berbeda tergantung wilayah dan promosi yang sedang berlangsung.
+To make the course purchasing process easier, Nihonbuzz Academy provides various secure and flexible payment methods. Once your payment is successful, you can also download an official invoice as proof of the transaction.
 
 ---
 
-## 🧾 Invoice Pembayaran
+## 💳 Available Payment Methods
 
-Setelah pembayaran berhasil, invoice akan dibuat otomatis dan dapat diakses melalui:
+Here are the payment methods you can use:
 
-1. Masuk ke akun Anda
-2. Buka menu **“Riwayat Transaksi”**
-3. Klik pada detail transaksi
-4. Unduh **Invoice PDF**
+### 1. Bank Transfer
+- Virtual accounts available from various banks
+- Payments are automatically confirmed
+- Transfer instructions appear after checkout
 
-Invoice mencakup:
-- Nama kursus
-- Nomor transaksi
-- Tanggal pembelian
-- Jumlah pembayaran
-- Identitas pembeli
+### 2. E-Wallet
+- Supports popular digital wallets
+- Payments are processed instantly
 
----
+### 3. Credit / Debit Card
+- Can be used for instant payments
+- Supports various international cards
 
-## ⚠️ Gagal Melakukan Pembayaran?
+### 4. Manual Payment (for certain promos/events)
+- Payment confirmation is done manually
+- Verification process may take additional time
 
-Beberapa penyebab umum kegagalan pembayaran:
-- Melebihi batas waktu pembayaran
-- Salah nominal saat transfer manual
-- Gangguan jaringan atau error teknis
-- Saldo dompet digital atau kartu tidak mencukupi
-
-**Solusi:**
-- Ulangi proses pembelian dari awal
-- Gunakan metode pembayaran lain
-- Jika saldo terpotong tapi kursus belum aktif, segera hubungi dukungan
+**Note:** Available payment methods may vary depending on region and ongoing promotions.
 
 ---
 
-## 📬 Bukti Pembayaran Tidak Muncul?
+## 🧾 Payment Invoice
 
-Silakan tunggu beberapa menit dan refresh halaman. Jika invoice belum juga muncul, Anda bisa menghubungi tim dukungan melalui [Halaman Hubungi Kami](../hubungi-kami.md) dan menyertakan bukti pembayaran (screenshot atau resi).
+After successful payment, an invoice will be automatically generated and can be accessed through:
+
+1. Log in to your account
+2. Go to **“Transaction History”**
+3. Click on the transaction details
+4. Download the **PDF Invoice**
+
+The invoice includes:
+- Course name
+- Transaction number
+- Purchase date
+- Payment amount
+- Buyer’s details
 
 ---
 
-Untuk informasi pembanding dan pilihan kursus lainnya, lihat juga:  
-👉 [Kursus Gratis vs Berbayar](./kursus-gratis-berbayar.md)
+## ⚠️ Payment Failed?
+
+Common reasons for payment failure:
+- Exceeded payment time limit
+- Incorrect amount for manual transfers
+- Network disruptions or technical errors
+- Insufficient balance in e-wallet or card
+
+**Solutions:**
+- Retry the purchase process
+- Use an alternative payment method
+- If your balance was deducted but the course is not activated, contact support immediately
+
+---
+
+## 📬 Invoice Not Showing?
+
+Please wait a few minutes and refresh the page. If the invoice still doesn’t appear, contact our support team through [Contact Us](../hubungi-kami.md) and include proof of payment (screenshot or receipt).
+
+---
+
+For course options and comparison, see also:  
+👉 [Free vs Paid Courses](./kursus-gratis-berbayar.md)

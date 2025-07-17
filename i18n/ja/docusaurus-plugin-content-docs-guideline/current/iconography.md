@@ -1,50 +1,50 @@
 ---
-title: Ikonografi
-description: Panduan ikon resmi dan gaya ikonografi Nihonbuzz.
+title: アイコンガイド
+description: Nihonbuzzの公式アイコンとデザインガイドライン
 slug: /iconography
 sidebar_position: 4
 ---
 
-# Ikonografi Nihonbuzz
+# Nihonbuzzのアイコンガイド
 
-Ikon adalah elemen penting dalam komunikasi visual Nihonbuzz. Ikonografi kami dirancang untuk mendukung pesan secara jelas, intuitif, dan konsisten di seluruh platform.
+アイコンはNihonbuzzのビジュアルコミュニケーションに欠かせない要素です。私たちのアイコンは、**わかりやすく、直感的で、統一感のあるデザイン**を目指しています。
 
-## Gaya Ikon
+## アイコンスタイル
 
-Kami menggunakan ikon dengan gaya minimalis, solid, dan mudah dikenali. Setiap ikon dibuat dalam bentuk vektor untuk memastikan skalabilitas tanpa kehilangan kualitas.
+Nihonbuzzのアイコンは**シンプルでミニマルなデザイン**を基本としています。すべてベクターフォーマットで作成し、拡大・縮小してもきれいな表示を保証します。
 
-### Karakteristik Ikon Kami
+### 特徴
 
-- **Bentuk sederhana dan padat**
-- **Sudut membulat** untuk kesan ramah
-- **Tebal konsisten** di semua ikon
-- **Warna monokromatis** (biasanya hitam atau putih) untuk fleksibilitas
+- **シンプルでしっかりした形**
+- **角は丸みを帯びてやさしい印象**
+- **線の太さはすべて統一**
+- **基本はモノクロカラー（黒 or 白）で柔軟に対応**
 
-## Contoh Ikon
+## アイコン例
 
-Berikut adalah beberapa contoh ikon resmi kami:
+公式アイコンの一部はこちらです：
 
 <div class="preview-wrapper" style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-512.png" alt="Ikon Aplikasi" width="64" />
-  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-1024-Circle.png" alt="Ikon Bulat" width="64" />
-  <img src="/assets/Site-Icon/BIMI/nihonbuzz-tiny.svg" alt="Ikon BIMI SVG" width="64" />
+  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-512.png" alt="アプリアイコン" width="64" />
+  <img src="/assets/Site-Icon/Nihonbuzz-Logo-Icon-1024-Circle.png" alt="丸型アイコン" width="64" />
+  <img src="/assets/Site-Icon/BIMI/nihonbuzz-tiny.svg" alt="BIMI SVGアイコン" width="64" />
 </div>
 
-> Ikon-ikon tambahan dapat ditemukan di direktori: `static/assets/Site-Icon/`
+> その他のアイコンは、`static/assets/Site-Icon/`にあります。
 
-## Ukuran & Format
+## サイズ & フォーマット
 
-- Format utama: `.svg` (vektor), `.png`, `.ico`
-- Ukuran umum: 512×512 px, 1024×1024 px
-- Tersedia juga favicon dalam format `.ico` untuk web
+- メインフォーマット： `.svg`（ベクター）、`.png`、`.ico`
+- 主なサイズ：512×512 px、1024×1024 px
+- Web用にはfavicon（`.ico`）も用意しています
 
-## Pedoman Penggunaan
+## 使用ルール
 
-- Gunakan ikon resmi yang telah disediakan. Jangan mengganti bentuk atau membuat variasi baru tanpa izin.
-- Selalu gunakan versi SVG untuk hasil terbaik di perangkat beresolusi tinggi.
-- Ikon harus memiliki ruang kosong minimum di sekelilingnya agar mudah dikenali.
-- Hindari menggunakan ikon dalam warna yang tidak sesuai kontras.
+- 公式で提供されたアイコンを使用してください。形を変えたり、無断で新しいバリエーションを作成しないでください。
+- 高解像度で最適な表示をするため、**SVG形式**を推奨します。
+- アイコンの周囲には十分な余白を確保してください。
+- 見にくくなる配色（コントラスト不足）は避けてください。
 
 ---
 
-Untuk permintaan ikon tambahan atau versi khusus, silakan hubungi [support@nihonbuzz.org](/hubungi-kami).
+カスタムアイコンや追加のリクエストは [support@nihonbuzz.org](/hubungi-kami) までお問い合わせください。

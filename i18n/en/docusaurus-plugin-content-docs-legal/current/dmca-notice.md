@@ -1,30 +1,30 @@
 ---
-title: Pemberitahuan DMCA
+title: DMCA Notice
 sidebar_position: 10
-description: Prosedur pelaporan pelanggaran hak cipta berdasarkan DMCA.
+description: Procedure for reporting copyright infringement under DMCA.
 ---
 
-# Pemberitahuan DMCA
+# DMCA Notice
 
-Kami menghormati hak kekayaan intelektual pihak lain dan berharap Anda juga demikian. Sesuai dengan ketentuan Digital Millennium Copyright Act (DMCA), kami akan merespons dengan cepat terhadap klaim pelanggaran hak cipta yang dilaporkan kepada kami.
+We respect the intellectual property rights of others and expect you to do the same. In compliance with the Digital Millennium Copyright Act (DMCA), we will respond promptly to claims of copyright infringement reported to us.
 
-## Cara Mengirim Pemberitahuan
+## How to Submit a Notice
 
-Jika Anda adalah pemilik hak cipta, atau diberi wewenang untuk bertindak atas nama pemilik hak eksklusif yang diduga dilanggar, Anda dapat mengirimkan pemberitahuan pelanggaran kepada kami dengan menyertakan informasi berikut:
+If you are the copyright owner, or authorized to act on behalf of the owner of an exclusive right that has been allegedly infringed, you may send a DMCA notice to us including the following information:
 
-1. Tanda tangan fisik atau elektronik dari pemilik hak cipta atau pihak yang diberi wewenang;
-2. Identifikasi karya yang diklaim telah dilanggar;
-3. Identifikasi materi yang diduga melanggar dan informasi yang cukup agar kami dapat menemukannya;
-4. Informasi kontak Anda (alamat, nomor telepon, dan email);
-5. Pernyataan bahwa Anda memiliki keyakinan baik bahwa penggunaan tersebut tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum;
-6. Pernyataan bahwa informasi dalam pemberitahuan adalah akurat, dan bahwa Anda memiliki wewenang untuk bertindak atas nama pemilik hak eksklusif.
+1. A physical or electronic signature of the copyright owner or an authorized agent;
+2. Identification of the copyrighted work claimed to have been infringed;
+3. Identification of the material that is claimed to be infringing and information sufficient to locate the material;
+4. Your contact information (address, phone number, and email);
+5. A statement that you have a good faith belief that the use of the material is not authorized by the copyright owner, its agent, or the law;
+6. A statement that the information in the notice is accurate, and under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
 
-Pemberitahuan DMCA dapat dikirim ke:
+Please send the DMCA notice to:
 
 📩 **Email:** [support@nihonbuzz.org](mailto:support@nihonbuzz.org)
 
-Kami akan menyelidiki semua pemberitahuan pelanggaran yang sah dan mengambil tindakan yang sesuai, termasuk penghapusan materi atau penangguhan akun jika perlu.
+We will investigate all valid infringement notices and take appropriate action, including removing the material or suspending the account if necessary.
 
 ---
 
-Jika Anda memiliki pertanyaan atau memerlukan bantuan lainnya, silakan kunjungi halaman [Hubungi Kami](/hubungi-kami).
+If you have any questions or need assistance, please visit our [Contact page](/hubungi-kami).

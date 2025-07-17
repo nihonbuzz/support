@@ -1,94 +1,94 @@
 ---
-title: Upload Konten & Kuis
+title: Upload Content & Quizzes
 sidebar_position: 3
-description: Panduan bagi instruktur untuk mengunggah materi pelajaran, video, file, dan membuat kuis di dalam kursus.
+description: A guide for instructors on how to upload lessons, videos, files, and create quizzes within the course.
 ---
 
-# Upload Konten & Kuis
+# Upload Content & Quizzes
 
-Setelah membuat kerangka kursus, langkah selanjutnya adalah mengunggah materi pembelajaran dan menyusun kuis. Platform ini menyediakan antarmuka yang intuitif bagi instruktur untuk mengelola semua jenis konten, baik teks, video, maupun dokumen pelengkap.
+After setting up your course structure, the next step is uploading learning materials and creating quizzes. The platform provides an intuitive interface for instructors to manage all types of content, including text, video, and supplementary documents.
 
-Halaman ini menjelaskan bagaimana Anda dapat mengisi kursus Anda dengan materi yang menarik dan interaktif.
-
----
-
-## 📝 Jenis Konten yang Bisa Ditambahkan
-
-Sebagai instruktur, Anda dapat menambahkan:
-
-- **Teks pelajaran**  
-- **Video pembelajaran** (dari URL atau unggahan langsung)  
-- **File pendukung** (PDF, gambar, dokumen, dll.)  
-- **Kuis dan latihan soal**  
-- **Tugas atau latihan mandiri**
+This page explains how to enrich your course with engaging and interactive content.
 
 ---
 
-## 🔼 Mengunggah Materi Pelajaran
+## 📝 Types of Content You Can Add
 
-### 1. **Masuk ke Editor Kursus**
-- Buka dashboard instruktur
-- Pilih kursus yang ingin Anda kelola
-- Klik tombol **Edit Kursus**
+As an instructor, you can add:
 
-### 2. **Tambahkan Pelajaran**
-- Pilih bab / modul tempat pelajaran ingin dimasukkan
-- Klik **Tambah Pelajaran Baru**
-
-### 3. **Masukkan Konten**
-- Tambahkan judul dan isi pelajaran menggunakan editor teks
-- Jika ingin menyisipkan video, gunakan opsi **Tambah Video**
-- Jika ada file pelengkap, klik **Tambahkan Lampiran**
-
-> **Catatan:** Video bisa ditautkan dari platform eksternal atau diunggah langsung ke sistem.
+- **Lesson text**  
+- **Video lessons** (via URL or direct upload)  
+- **Supporting files** (PDFs, images, documents, etc.)  
+- **Quizzes and practice questions**  
+- **Assignments or self-study tasks**
 
 ---
 
-## ❓ Menambahkan Kuis
+## 🔼 Uploading Lesson Materials
 
-Untuk membuat kuis atau soal evaluasi:
+### 1. **Access the Course Editor**
+- Open your instructor dashboard
+- Select the course you want to manage
+- Click **Edit Course**
 
-1. Buka bagian **Kuis** di dalam modul
-2. Klik **Buat Kuis Baru**
-3. Tambahkan:
-   - Soal pilihan ganda
-   - Benar / salah
-   - Isian singkat
+### 2. **Add a Lesson**
+- Choose the module or section where the lesson will be added
+- Click **Add New Lesson**
 
-Setiap soal dapat dilengkapi dengan penjelasan dan skor otomatis.
+### 3. **Insert Content**
+- Add the lesson title and content using the text editor
+- To include a video, use the **Add Video** option
+- Attach supplementary files by clicking **Add Attachment**
 
----
-
-## 🧩 Mengelola Tugas / Latihan
-
-Jika Anda ingin memberikan tugas:
-
-- Tambahkan pelajaran khusus bertipe **Tugas**
-- Sertakan instruksi lengkap dan format jawaban
-- Anda dapat mengaktifkan fitur unggah file dari peserta
-
-Instruktur bisa memberikan nilai atau komentar langsung dari dashboard.
+> **Note:** Videos can be linked from external platforms or uploaded directly to the system.
 
 ---
 
-## 📁 Tips Pengelolaan Konten
+## ❓ Adding Quizzes
 
-- Gunakan judul pelajaran yang jelas dan ringkas
-- Susun pelajaran secara urut agar alur belajar terarah
-- Sertakan gambar atau media interaktif untuk meningkatkan pemahaman
-- Jangan unggah file terlalu besar; kompresi video sangat disarankan
+To create quizzes or evaluation questions:
 
----
+1. Go to the **Quiz** section in your module
+2. Click **Create New Quiz**
+3. Add:
+   - Multiple-choice questions
+   - True/False
+   - Short answers
 
-## 🆘 Kendala Saat Mengunggah?
-
-Jika Anda mengalami error saat mengunggah konten atau file tidak muncul setelah disimpan:
-
-- Coba logout dan login ulang
-- Pastikan format file sesuai
-- Gunakan koneksi internet stabil
-- Jika tetap gagal, hubungi tim dukungan melalui [Hubungi Kami](../hubungi-kami.md)
+Each question can include an explanation and automatic scoring.
 
 ---
 
-Dengan konten yang tersusun rapi dan kuis yang sesuai, Anda bisa menciptakan pengalaman belajar yang bermakna dan efektif untuk peserta kursus.
+## 🧩 Managing Assignments
+
+If you want to assign tasks:
+
+- Add a special lesson with **Assignment** type
+- Provide detailed instructions and answer format
+- Enable the file upload feature for participants if needed
+
+Instructors can grade submissions and leave comments directly from the dashboard.
+
+---
+
+## 📁 Content Management Tips
+
+- Use clear and concise lesson titles
+- Arrange lessons in a logical sequence for smooth learning flow
+- Include images or interactive media to enhance understanding
+- Avoid large file sizes; compress videos whenever possible
+
+---
+
+## 🆘 Having Trouble Uploading?
+
+If you encounter errors when uploading content or files don’t appear after saving:
+
+- Try logging out and back in
+- Ensure file formats are supported
+- Use a stable internet connection
+- If the issue persists, contact support via [Contact Us](../hubungi-kami.md)
+
+---
+
+With well-structured content and effective quizzes, you can deliver a meaningful and engaging learning experience to your students.

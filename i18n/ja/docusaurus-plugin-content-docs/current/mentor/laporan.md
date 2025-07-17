@@ -1,81 +1,81 @@
 ---
-title: Statistik & Laporan Kelas
+title: コースの統計とレポート
 sidebar_position: 4
-description: Panduan bagi instruktur untuk melihat laporan statistik kursus dan aktivitas peserta secara keseluruhan.
+description: 講師がコース統計や受講者の活動レポートを確認するためのガイド。
 ---
 
-# Statistik & Laporan Kelas
+# コースの統計とレポート
 
-Platform menyediakan fitur statistik dan pelaporan yang memudahkan instruktur dalam memantau performa kursus dan keterlibatan peserta. Data ini berguna untuk mengevaluasi efektivitas materi serta mengambil langkah perbaikan jika diperlukan.
+プラットフォームには、講師がコースのパフォーマンスや学習者のエンゲージメントを簡単に監視できる統計・レポート機能があります。このデータは教材の効果を評価し、改善点を特定するために役立ちます。
 
-Laporan dapat diakses langsung dari dashboard instruktur dan diperbarui secara berkala.
-
----
-
-## 📈 Akses Statistik Kursus
-
-Untuk melihat statistik:
-
-1. Masuk ke **Dashboard Instruktur**
-2. Pilih salah satu kursus yang telah Anda buat
-3. Klik tab **Statistik / Laporan**
+レポートは講師用ダッシュボードから直接アクセスでき、定期的に更新されます。
 
 ---
 
-## 🔍 Data yang Ditampilkan
+## 📈 コース統計へのアクセス
 
-Beberapa informasi yang tersedia dalam laporan:
+統計を確認するには：
 
-- **Jumlah total peserta**
-- **Jumlah peserta aktif (mingguan/bulanan)**
-- **Persentase penyelesaian kursus**
-- **Rata-rata nilai kuis**
-- **Tingkat dropout (peserta tidak menyelesaikan kursus)**
-- **Komentar atau umpan balik dari peserta**
-
-Semua data ditampilkan dalam bentuk grafik dan tabel yang mudah dibaca.
+1. **講師ダッシュボード**にログイン
+2. 確認したいコースを選択
+3. **統計 / レポート**タブをクリック
 
 ---
 
-## 📤 Unduh Laporan
+## 🔍 表示されるデータ
 
-Jika Anda ingin menyimpan laporan:
+レポートには以下の情報が含まれます：
 
-- Klik tombol **Unduh Laporan**
-- Pilih format (CSV atau PDF)
-- Laporan akan mencakup semua data kursus termasuk aktivitas per peserta
+- **総受講者数**
+- **アクティブ受講者数（週別 / 月別）**
+- **コース修了率**
+- **クイズの平均スコア**
+- **離脱率（コース未修了の受講者）**
+- **受講者からのコメントやフィードバック**
 
-Laporan ini cocok untuk keperluan dokumentasi, evaluasi, atau pelaporan ke manajemen.
-
----
-
-## 🎯 Menggunakan Data untuk Evaluasi
-
-Manfaatkan laporan untuk:
-
-- Mengetahui bagian kursus mana yang paling banyak ditinggalkan
-- Menyesuaikan metode penyampaian materi
-- Menambahkan kuis atau penjelasan tambahan di bagian yang memiliki skor rendah
-- Menghubungi peserta yang belum aktif untuk memberi dorongan
+すべてのデータは見やすいグラフと表で表示されます。
 
 ---
 
-## 🛠 Masalah Umum
+## 📤 レポートのダウンロード
 
-Jika data statistik tidak muncul atau tidak akurat:
+レポートを保存するには：
 
-- Pastikan kursus sudah diterbitkan dan memiliki peserta
-- Cek ulang rentang waktu filter laporan
-- Jika tetap tidak muncul, hubungi tim dukungan melalui halaman [Hubungi Kami](../hubungi-kami.md)
+- **「レポートをダウンロード」**をクリック
+- フォーマットを選択（CSVまたはPDF）
+- レポートには、各受講者のアクティビティを含むコースデータが記載されます
 
----
-
-## 💡 Tips
-
-- Lakukan evaluasi rutin setiap akhir bulan
-- Simpan laporan sebagai referensi untuk kursus selanjutnya
-- Jadikan umpan balik peserta sebagai bahan pengembangan
+このレポートは、ドキュメント作成、評価、または管理レポートに適しています。
 
 ---
 
-Statistik bukan hanya angka—mereka adalah cerminan kualitas pengalaman belajar yang Anda berikan. Gunakan data dengan bijak untuk terus berkembang sebagai instruktur.
+## 🎯 データを活用した評価
+
+レポートを活用して：
+
+- 離脱が多いコース部分を特定
+- 教材の提供方法を調整
+- スコアが低い部分にクイズや補足説明を追加
+- 非アクティブな受講者に連絡して再参加を促す
+
+---
+
+## 🛠 よくある問題
+
+統計が表示されない、または正確でない場合：
+
+- コースが公開され、受講者がいることを確認
+- 日付フィルターの範囲を再確認
+- 問題が続く場合は、[お問い合わせ](../hubungi-kami.md)ページからサポートに連絡
+
+---
+
+## 💡 ヒント
+
+- 毎月末に定期的な評価を行う
+- 将来のコースの参考としてレポートを保存
+- 受講者のフィードバックを教材改善に活用
+
+---
+
+統計は単なる数字ではなく、あなたが提供する学習体験の質を示すものです。データを賢く使い、講師として成長を続けましょう。
