@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "次へ",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Mulai": {
+    "message": "はじめに",
+    "description": "The label for category Mulai in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mulai.link.generated-index.description": {
+    "message": "Nihonbuzz Academyを使い始めるためのガイドです。登録から操作方法、利用規約までわかりやすく説明しています。",
+    "description": "The generated-index page description for category Mulai in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Belajar": {
+    "message": "学習",
+    "description": "The label for category Belajar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Belajar.link.generated-index.description": {
+    "message": "コースの受講、クイズの実施、証明書の取得、学習履歴の管理について詳しく説明しています。",
+    "description": "The generated-index page description for category Belajar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Marketplace": {
+    "message": "マーケットプレイス",
+    "description": "The label for category Marketplace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Marketplace.link.generated-index.description": {
+    "message": "コース購入、支払い方法、返金ポリシー、無料と有料コースの違いについてガイドしています。",
+    "description": "The generated-index page description for category Marketplace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Komunitas": {
+    "message": "コミュニティ",
+    "description": "The label for category Komunitas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Komunitas.link.generated-index.description": {
+    "message": "フォーラムやディスカッショングループ、メッセージ機能、マナー、通知の設定について紹介しています。",
+    "description": "The generated-index page description for category Komunitas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Akun": {
+    "message": "アカウント",
+    "description": "The label for category Akun in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Akun.link.generated-index.description": {
+    "message": "プロフィール編集、パスワード再設定、表示設定、アカウント削除などの設定について説明しています。",
+    "description": "The generated-index page description for category Akun in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bantuan": {
+    "message": "ヘルプ",
+    "description": "The label for category Bantuan in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bantuan.link.generated-index.description": {
+    "message": "アクセスエラー、モバイル表示、メール未着、動作が遅い場合の対応方法などを紹介しています。",
+    "description": "The generated-index page description for category Bantuan in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Instruktur": {
+    "message": "インストラクター",
+    "description": "The label for category Instruktur in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Instruktur.link.generated-index.description": {
+    "message": "インストラクター向けの完全ガイドです。コース作成、受講者管理、コンテンツアップロード、レポート閲覧などを説明しています。",
+    "description": "The generated-index page description for category Instruktur in sidebar tutorialSidebar"
+  }
+}

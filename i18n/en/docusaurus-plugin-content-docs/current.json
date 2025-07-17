@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Mulai": {
+    "message": "Getting Started",
+    "description": "The label for category Mulai in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mulai.link.generated-index.description": {
+    "message": "Guide to getting started with Nihonbuzz Academy, from registration and navigation to terms & conditions.",
+    "description": "The generated-index page description for category Mulai in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Belajar": {
+    "message": "Learning",
+    "description": "The label for category Belajar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Belajar.link.generated-index.description": {
+    "message": "Complete information about taking courses, completing quizzes, certificates, and managing your learning history.",
+    "description": "The generated-index page description for category Belajar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Marketplace": {
+    "message": "Marketplace",
+    "description": "The label for category Marketplace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Marketplace.link.generated-index.description": {
+    "message": "Guide to purchasing courses, payment methods, refund policy, and differences between free and paid courses.",
+    "description": "The generated-index page description for category Marketplace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Komunitas": {
+    "message": "Community",
+    "description": "The label for category Komunitas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Komunitas.link.generated-index.description": {
+    "message": "Community features such as forums, discussion groups, messaging, interaction etiquette, and activity notifications.",
+    "description": "The generated-index page description for category Komunitas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Akun": {
+    "message": "Account",
+    "description": "The label for category Akun in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Akun.link.generated-index.description": {
+    "message": "User account settings including profile editing, password reset, display preferences, and account deletion.",
+    "description": "The generated-index page description for category Akun in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bantuan": {
+    "message": "Help",
+    "description": "The label for category Bantuan in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bantuan.link.generated-index.description": {
+    "message": "Solutions for technical issues such as access errors, mobile display, missing emails, and slow performance.",
+    "description": "The generated-index page description for category Bantuan in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Instruktur": {
+    "message": "Instructor",
+    "description": "The label for category Instruktur in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Instruktur.link.generated-index.description": {
+    "message": "Complete guide for instructors to create courses, manage participants, upload content, and view reports.",
+    "description": "The generated-index page description for category Instruktur in sidebar tutorialSidebar"
+  }
+}

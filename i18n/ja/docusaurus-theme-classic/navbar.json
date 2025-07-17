@@ -1,0 +1,10 @@
+{
+  "title": { "message": "Nihonbuzzサポート" },
+  "logo.alt": { "message": "Nihonbuzzサポートロゴ" },
+  "item.label.Pusat Bantuan": { "message": "ヘルプセンター" },
+  "item.label.Kebijakan Nihonbuzz": { "message": "Nihonbuzzポリシー" },
+  "item.label.Brand Guideline": { "message": "ブランドガイドライン" },
+  "item.label.Cari": { "message": "検索" },
+  "item.label.Nihonbuzz": { "message": "Nihonbuzz" },
+  "item.label.Nihonbuzz Academy": { "message": "Nihonbuzzアカデミー" }
+}

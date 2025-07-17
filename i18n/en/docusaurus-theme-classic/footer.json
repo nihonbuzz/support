@@ -1,0 +1,42 @@
+{
+  "link.title.Panduan": { "message": "Guides" },
+  "link.title.Tautan Terkait": { "message": "Related Links" },
+  "link.title.Sosial Media": { "message": "Social Media" },
+  "link.title.Kebijakan": { "message": "Policies" },
+
+  "link.item.label.Mulai": { "message": "Getting Started" },
+  "link.item.label.Belajar": { "message": "Learning" },
+  "link.item.label.Marketplace": { "message": "Marketplace" },
+  "link.item.label.Komunitas": { "message": "Community" },
+  "link.item.label.Akun": { "message": "Account" },
+  "link.item.label.Instruktur": { "message": "Instructor" },
+
+  "link.item.label.Dukungan": { "message": "Support" },
+  "link.item.label.Brand Guideline": { "message": "Brand Guideline" },
+  "link.item.label.Nihonbuzz": { "message": "Nihonbuzz" },
+  "link.item.label.Nihonbuzz Academy": { "message": "Nihonbuzz Academy" },
+  "link.item.label.Formulir Kontak": { "message": "Contact Form" },
+  "link.item.label.Instagram": { "message": "Instagram" },
+  "link.item.label.YouTube": { "message": "YouTube" },
+  "link.item.label.TikTok": { "message": "TikTok" },
+
+  "link.item.label.Kebijakan & Ketentuan": { "message": "Policies & Terms" },
+  "link.item.label.Kebijakan Privasi": { "message": "Privacy Policy" },
+  "link.item.label.Syarat dan Ketentuan": { "message": "Terms of Service" },
+  "link.item.label.Kebijakan Pengembalian Dana dan Pengembalian Barang": {
+    "message": "Refund and Return Policy"
+  },
+  "link.item.label.Kebijakan Cookie": { "message": "Cookie Policy" },
+  "link.item.label.Perjanjian Pengguna": { "message": "User Agreement" },
+  "link.item.label.Perjanjian Instruktur": { "message": "Instructor Agreement" },
+  "link.item.label.Kebijakan Perlindungan Anak": { "message": "Child Protection Policy" },
+  "link.item.label.Pemberitahuan Hak Cipta": { "message": "Copyright Notice" },
+  "link.item.label.Pemberitahuan DMCA": { "message": "DMCA Notice" },
+  "link.item.label.Keamanan Pembayaran": { "message": "Payment Security Policy" },
+  "link.item.label.Kekayaan Intelektual": { "message": "Intellectual Property" },
+  "link.item.label.Disclaimer": { "message": "Disclaimer" },
+
+  "copyright": {
+    "message": "Copyright © 2025 - 2025 Nihonbuzz, Inc."
+  }
+}

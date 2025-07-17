@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.guidelineSidebar.category.Logo": {
+    "message": "Logo",
+    "description": "The label for category Logo in sidebar guidelineSidebar"
+  },
+  "sidebar.guidelineSidebar.category.Logo.link.generated-index.description": {
+    "message": "Complete guide for using official Nihonbuzz logos, including versions for the company and the Academy.",
+    "description": "The generated-index page description for category Logo in sidebar guidelineSidebar"
+  }
+}

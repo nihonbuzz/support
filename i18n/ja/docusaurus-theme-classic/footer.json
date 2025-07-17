@@ -1,0 +1,42 @@
+{
+  "link.title.Panduan": { "message": "ガイド" },
+  "link.title.Tautan Terkait": { "message": "関連リンク" },
+  "link.title.Sosial Media": { "message": "SNS" },
+  "link.title.Kebijakan": { "message": "ポリシー" },
+
+  "link.item.label.Mulai": { "message": "はじめに" },
+  "link.item.label.Belajar": { "message": "学習" },
+  "link.item.label.Marketplace": { "message": "マーケットプレイス" },
+  "link.item.label.Komunitas": { "message": "コミュニティ" },
+  "link.item.label.Akun": { "message": "アカウント" },
+  "link.item.label.Instruktur": { "message": "インストラクター" },
+
+  "link.item.label.Dukungan": { "message": "サポート" },
+  "link.item.label.Brand Guideline": { "message": "ブランドガイドライン" },
+  "link.item.label.Nihonbuzz": { "message": "Nihonbuzz" },
+  "link.item.label.Nihonbuzz Academy": { "message": "Nihonbuzzアカデミー" },
+  "link.item.label.Formulir Kontak": { "message": "お問い合わせフォーム" },
+  "link.item.label.Instagram": { "message": "Instagram" },
+  "link.item.label.YouTube": { "message": "YouTube" },
+  "link.item.label.TikTok": { "message": "TikTok" },
+
+  "link.item.label.Kebijakan & Ketentuan": { "message": "ポリシーと利用規約" },
+  "link.item.label.Kebijakan Privasi": { "message": "プライバシーポリシー" },
+  "link.item.label.Syarat dan Ketentuan": { "message": "利用規約" },
+  "link.item.label.Kebijakan Pengembalian Dana dan Pengembalian Barang": {
+    "message": "返金・返品ポリシー"
+  },
+  "link.item.label.Kebijakan Cookie": { "message": "クッキーポリシー" },
+  "link.item.label.Perjanjian Pengguna": { "message": "ユーザー契約" },
+  "link.item.label.Perjanjian Instruktur": { "message": "インストラクター契約" },
+  "link.item.label.Kebijakan Perlindungan Anak": { "message": "児童保護ポリシー" },
+  "link.item.label.Pemberitahuan Hak Cipta": { "message": "著作権に関する通知" },
+  "link.item.label.Pemberitahuan DMCA": { "message": "DMCA通知" },
+  "link.item.label.Keamanan Pembayaran": { "message": "支払いセキュリティポリシー" },
+  "link.item.label.Kekayaan Intelektual": { "message": "知的財産" },
+  "link.item.label.Disclaimer": { "message": "免責事項" },
+
+  "copyright": {
+    "message": "Copyright © 2025 - 2025 Nihonbuzz, Inc."
+  }
+}
