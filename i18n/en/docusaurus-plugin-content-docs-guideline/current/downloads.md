@@ -11,27 +11,27 @@ This page provides direct links to download all official Nihonbuzz brand assets.
 
 ## 🎒 Full Package
 
-- [Download All Nihonbuzz Assets](/static/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
+- [Download All Nihonbuzz Assets](/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
 
 ## 🏢 Company Logo
 
-- [Nihonbuzz Company Pack](/static/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
+- [Nihonbuzz Company Pack](/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
 
 ## 🎓 Academy Logo
 
-- [Nihonbuzz Academy Pack](/static/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
+- [Nihonbuzz Academy Pack](/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
 
 ## 🆔 Brand Identity
 
-- [Nihonbuzz Identity Pack](/static/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
+- [Nihonbuzz Identity Pack](/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
 
 ## 🧩 Visual Patterns
 
-- [Nihonbuzz Pattern Pack](/static/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
+- [Nihonbuzz Pattern Pack](/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
 
 ## 🖼️ Icons & Favicon
 
-- [Nihonbuzz Site Icon Pack](/static/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
+- [Nihonbuzz Site Icon Pack](/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
 
 ---
 

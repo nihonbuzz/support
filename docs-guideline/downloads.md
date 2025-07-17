@@ -11,27 +11,27 @@ Halaman ini menyediakan tautan langsung untuk mengunduh semua aset resmi brand N
 
 ## 🎒 Paket Lengkap
 
-- [Unduh Semua Aset Nihonbuzz](/static/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
+- [Unduh Semua Aset Nihonbuzz](/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
 
 ## 🏢 Logo Perusahaan (Company)
 
-- [Nihonbuzz Company Pack](/static/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
+- [Nihonbuzz Company Pack](/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
 
 ## 🎓 Logo Akademi (Academy)
 
-- [Nihonbuzz Academy Pack](/static/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
+- [Nihonbuzz Academy Pack](/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
 
 ## 🆔 Identitas Merek
 
-- [Nihonbuzz Identity Pack](/static/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
+- [Nihonbuzz Identity Pack](/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
 
 ## 🧩 Pola Visual
 
-- [Nihonbuzz Pattern Pack](/static/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
+- [Nihonbuzz Pattern Pack](/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
 
 ## 🖼️ Ikon & Favicon
 
-- [Nihonbuzz Site Icon Pack](/static/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
+- [Nihonbuzz Site Icon Pack](/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
 
 ---
 
