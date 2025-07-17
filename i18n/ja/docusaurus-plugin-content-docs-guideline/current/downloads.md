@@ -11,27 +11,27 @@ sidebar_position: 7
 
 ## 🎒 フルパッケージ
 
-- [Nihonbuzzアセットをすべてダウンロード](../static/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
+- [Nihonbuzzアセットをすべてダウンロード](/static/assets/Brand-Pack/Nihonbuzz-Brand-Guideline-All-Pack.zip)
 
 ## 🏢 会社ロゴ
 
-- [Nihonbuzz Company Pack](../static/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
+- [Nihonbuzz Company Pack](/static/assets/Brand-Pack/Nihonbuzz-Company-Pack.zip)
 
 ## 🎓 アカデミーロゴ
 
-- [Nihonbuzz Academy Pack](../static/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
+- [Nihonbuzz Academy Pack](/static/assets/Brand-Pack/Nihonbuzz-Academy-Pack.zip)
 
 ## 🆔 ブランドアイデンティティ
 
-- [Nihonbuzz Identity Pack](../static/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
+- [Nihonbuzz Identity Pack](/static/assets/Brand-Pack/Nihonbuzz-Identity-Pack.zip)
 
 ## 🧩 ビジュアルパターン
 
-- [Nihonbuzz Pattern Pack](../static/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
+- [Nihonbuzz Pattern Pack](/static/assets/Brand-Pack/Nihonbuzz-Pattern-Pack.zip)
 
 ## 🖼️ アイコン & ファビコン
 
-- [Nihonbuzz Site Icon Pack](../static/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
+- [Nihonbuzz Site Icon Pack](/static/assets/Brand-Pack/Nihonbuzz-Site-Icon-Pack.rar)
 
 ---
 

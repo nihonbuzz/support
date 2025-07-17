@@ -1,78 +1,78 @@
 ---
 id: intro
 slug: /
-title: Nihonbuzz Academy Guide & Documentation – Official Support Center
+title: Nihonbuzz Academy ガイド＆ドキュメント – 公式サポートセンター
 sidebar_label: Intro
-description: Official documentation and help center for Nihonbuzz Academy users. Find technical guides, common troubleshooting solutions, and feature documentation.
+description: Nihonbuzz Academyの公式ドキュメントとヘルプセンターです。テクニカルガイド、よくある問題の解決方法、機能の使い方を確認できます。
 keywords:
-  - Nihonbuzz documentation
-  - Nihonbuzz Academy support
-  - user help
-  - how to use Nihonbuzz
-  - Japanese learning guide
-  - Nihonbuzz login issues
-  - Japanese work education platform
-  - Nihonbuzz help center
+  - Nihonbuzz ドキュメント
+  - Nihonbuzz Academy サポート
+  - ユーザーサポート
+  - Nihonbuzz の使い方
+  - 日本語学習ガイド
+  - Nihonbuzz ログイン問題
+  - 日本での仕事向け教育プラットフォーム
+  - Nihonbuzz ヘルプセンター
 image: https://support.nihonbuzz.org/img/og-image-nihonbuzz.png
 sidebar_position: 1
 ---
 
-# Welcome to Nihonbuzz Academy Support Center
+# Nihonbuzz Academy サポートセンターへようこそ
 
-Welcome to **support.nihonbuzz.org**, the **official documentation** and **help center** for all users of **[Nihonbuzz Academy](https://academy.nihonbuzz.org/)**. Here, you’ll find:
+**support.nihonbuzz.org** へようこそ！ここは **[Nihonbuzz Academy](https://academy.nihonbuzz.org/)** の **公式ドキュメント** と **ヘルプセンター** です。ここでは次の情報をご覧いただけます：
 
-- **Step-by-step guides** on using the platform  
-- **Solutions** for common technical issues  
-- **Feature references** and the latest updates  
-- **Special documentation** for mentors & admins  
-
----
-
-## Why Is This Documentation Important?
-
-Nihonbuzz Academy combines functionalities from Nihonbuzz Community, Nihonbuzz Academy, and Nihonbuzz Shop. With so many modules and features, this documentation helps you:
-
-1. **Get started** quickly without confusion  
-2. **Complete courses** and earn certificates  
-3. **Purchase and manage** courses in the marketplace  
-4. **Join and interact** in the learning community  
-5. **Manage content and students** as a mentor or admin  
+- **ステップごとのガイド**（使い方）  
+- **よくある問題の解決方法**  
+- **機能紹介**と最新アップデート  
+- **メンター・管理者向けの特別ドキュメント**  
 
 ---
 
-## Documentation Structure
+## なぜこのドキュメントが重要なの？
 
-Our documentation is divided into main categories:
+Nihonbuzz Academy は、Nihonbuzz Community・Nihonbuzz Academy・Nihonbuzz Shop の機能を一つにまとめています。たくさんのモジュールと機能があるので、このドキュメントを見れば：
 
-1. **Getting Started with Nihonbuzz Academy**  
-2. **Learning Guides**  
-3. **Marketplace & Purchases**  
-4. **Community & Social**  
-5. **Account & Profile**  
-6. **Technical Help**  
-7. **For Mentors & Course Admins**  
-8. **Contact Us**
-
-Use the sidebar menu to navigate the topics you need.
+1. **すぐに始められる**（迷わない）  
+2. **コースを修了**して認定証を取得できる  
+3. **マーケットプレイスで簡単に購入・管理**できる  
+4. **学習コミュニティに参加し、交流できる**  
+5. **メンターや管理者としてコンテンツや受講者を管理**できる  
 
 ---
 
-## How to Use This Documentation
+## ドキュメントの構成
 
-1. **Search for Topics** — Enter keywords in the search box at the top-right corner.  
-2. **Browse Categories** — Select a category from the sidebar to see available articles.  
-3. **Read & Apply** — Follow our guides with steps, images, and examples.  
-4. **Contact Us** — If you can’t find what you need, visit **Contact Us** for a support form or communication channels.
+ドキュメントは次のカテゴリーに分かれています：
+
+1. **Nihonbuzz Academy のはじめ方**  
+2. **学習ガイド**  
+3. **マーケットプレイスと購入方法**  
+4. **コミュニティと交流**  
+5. **アカウントとプロフィール**  
+6. **技術サポート**  
+7. **メンター・コース管理者向け**  
+8. **お問い合わせ**
+
+必要なトピックはサイドバーのメニューから探してください。
 
 ---
 
-## Updates & Contributions
+## このドキュメントの使い方
 
-This documentation is continuously updated as the platform evolves. Each page displays the “Last Updated” date at the bottom. If you find errors, missing updates, or want to contribute, you can:
-
-- **Report via the form** on the Contact Us page  
-- **Join our community** on Telegram for direct discussion  
+1. **トピックを検索** — 右上の検索ボックスでキーワードを入力  
+2. **カテゴリーを選択** — サイドバーでカテゴリーをクリック  
+3. **読んで実践** — ステップ・画像・例を見ながら進める  
+4. **お問い合わせ** — 解決できない場合は **お問い合わせページ** へ  
 
 ---
 
-**Thank you** for being part of the Nihonbuzz ecosystem. We hope this documentation helps you learn, solve issues, and make the most of your experience on Nihonbuzz Academy!
+## 更新と協力について
+
+このドキュメントは、プラットフォームの変更に合わせて随時更新しています。各ページには「最終更新日」が表示されます。もし誤りや不足があれば、次の方法でお知らせください：
+
+- **お問い合わせフォーム** から報告  
+- **Telegram コミュニティ** に参加して直接相談  
+
+---
+
+**ありがとうございます！** Nihonbuzz エコシステムの一員になっていただき感謝します。このドキュメントが、学習・問題解決・Nihonbuzz Academy の活用に役立つことを願っています。
