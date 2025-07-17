@@ -78,11 +78,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'https://support.nihonbuzz.org/img/og-image.png',
+      image: 'https://support.nihonbuzz.org/img/og-image-nihonbuzz.png',
       metadata: [
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:image', content: 'https://support.nihonbuzz.org/img/og-image.png' },
-        { property: 'og:image', content: 'https://support.nihonbuzz.org/img/og-image.png' },
+        { name: 'twitter:image', content: 'https://support.nihonbuzz.org/img/og-image-nihonbuzz.png' },
+        { property: 'og:image', content: 'https://support.nihonbuzz.org/img/og-image-nihonbuzz.png' },
       ],
       navbar: {
         title: 'Nihonbuzz Support',
