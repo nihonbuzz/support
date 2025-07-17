@@ -40,7 +40,7 @@ Jika transaksi tetap gagal, silakan hubungi kami melalui halaman [Hubungi Kami](
 
 ## Pengembalian Dana
 
-Kebijakan pengembalian dana diatur dalam [Kebijakan Pengembalian dan Pembatalan](/legal/refund-policy). Pengguna berhak mengajukan pengembalian dana jika memenuhi syarat dan prosedur yang ditentukan.
+Kebijakan pengembalian dana diatur dalam [Kebijakan Pengembalian dan Pembatalan](/legal/refund-return-policy). Pengguna berhak mengajukan pengembalian dana jika memenuhi syarat dan prosedur yang ditentukan.
 
 ## Perubahan Kebijakan
 

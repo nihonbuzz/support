@@ -1,7 +1,8 @@
 ---
 title: Kebijakan & Ketentuan
-sidebar_position: 1
 description: Halaman pengantar untuk seluruh kebijakan dan ketentuan yang berlaku di platform kami.
+sidebar_position: 1
+slug: /
 ---
 
 # Kebijakan & Ketentuan NihonBuzz Academy
@@ -14,7 +15,7 @@ Kami menyarankan Anda membaca dengan saksama setiap dokumen agar memahami bagaim
 
 - [Kebijakan Privasi](/legal/privacy-policy)
 - [Syarat dan Ketentuan Layanan](/legal/terms-of-service)
-- [Kebijakan Pengembalian Dana](/legal/refund-policy)
+- [Kebijakan Pengembalian Dana dan Pengembalian Barang](/legal/refund-return-policy)
 - [Kebijakan Cookie](/legal/cookie-policy)
 - [Perjanjian Pengguna](/legal/user-agreement)
 - [Perjanjian Instruktur](/legal/instructor-agreement)
@@ -22,7 +23,7 @@ Kami menyarankan Anda membaca dengan saksama setiap dokumen agar memahami bagaim
 - [Pemberitahuan Hak Cipta](/legal/copyright-notice)
 - [Pemberitahuan DMCA](/legal/dmca-notice)
 - [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy)
-- [Kebijakan Kekayaan Intelektual](/legal/intellectual-property)
+- [Kebijakan Kekayaan Intelektual](/legal/intellectual-property-policy)
 - [Penafian (Disclaimer)](/legal/disclaimer)
 
 Jika Anda memiliki pertanyaan, silakan hubungi kami melalui [halaman kontak](/hubungi-kami) atau kirim email ke [support@nihonbuzz.org](mailto:support@nihonbuzz.org).

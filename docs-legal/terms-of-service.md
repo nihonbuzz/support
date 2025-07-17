@@ -36,7 +36,7 @@ Anda harus berusia minimal 13 tahun atau memiliki izin dari orang tua/wali untuk
 
 ## 6. Pembayaran dan Pengembalian Dana
 
-Untuk informasi lengkap mengenai pembayaran dan kebijakan pengembalian dana, silakan lihat [Kebijakan Pengembalian Dana](/legal/refund-policy) dan [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy).
+Untuk informasi lengkap mengenai pembayaran dan kebijakan pengembalian dana, silakan lihat [Kebijakan Pengembalian Dana](/legal/refund-return-policy) dan [Kebijakan Keamanan Pembayaran](/legal/payment-security-policy).
 
 ## 7. Penangguhan dan Penghentian
 

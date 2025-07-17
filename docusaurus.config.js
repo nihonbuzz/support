@@ -51,6 +51,16 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
+        id: 'legal',
+        path: 'docs-legal',
+        routeBasePath: 'legal',
+        sidebarPath: require.resolve('./sidebarsLegal.js'),
+        editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
         id: 'guideline',
         path: 'docs-guideline',
         routeBasePath: 'guideline',
@@ -81,6 +91,13 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Pusat Bantuan',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'legalSidebar',
+            docsPluginId: 'legal',
+            position: 'left',
+            label: 'Kebijakan Nihonbuzz',
           },
           {
             type: 'docSidebar',
@@ -163,7 +180,7 @@ const config = {
               { label: 'Kebijakan & Ketentuan', to: '/legal' },
               { label: 'Kebijakan Privasi', to: '/legal/privacy-policy' },
               { label: 'Syarat dan Ketentuan', to: '/legal/terms-of-service' },
-              { label: 'Kebijakan Pengembalian Dana', to: '/legal/refund-policy' },
+              { label: 'Kebijakan Pengembalian Dana dan Pengembalian Barang', to: '/legal/refund-return-policy' },
               { label: 'Kebijakan Cookie', to: '/legal/cookie-policy' },
               { label: 'Perjanjian Pengguna', to: '/legal/user-agreement' },
               { label: 'Perjanjian Instruktur', to: '/legal/instructor-agreement' },
