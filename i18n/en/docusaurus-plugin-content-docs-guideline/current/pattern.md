@@ -1,15 +1,4 @@
 ---
-title: Pola Visual
-description: Panduan elemen pola dekoratif untuk identitas visual Nihonbuzz.
-slug: /pattern
-sidebar_position: 5
----
-
-# Pola Visual Nihonbuzz
-
-Pola visual merupakan elemen dekoratif yang digunakan untuk memperkuat identitas Nihonbuzz secara estetis. Pola-pola ini dapat digunakan sebagai latar belakang, pengisi ruang negatif, atau elemen desain tambahan dalam berbagai media.
-
----
 title: Visual Patterns
 description: Decorative pattern guidelines for Nihonbuzz brand identity.
 slug: /pattern
@@ -49,19 +38,3 @@ Patterns are available in the following formats:
 
 All pattern files can be found at:
 
-```
-https://brand.nihonbuzz.org/assets/Pattern/pattern.eps
-https://brand.nihonbuzz.org/assets/Pattern/pattern.png
-https://brand.nihonbuzz.org/assets/Pattern/pattern.svg
-```
-
-## Usage Guidelines
-
-- Use patterns with low opacity as background or visual accents.
-- Do not modify the base pattern without the design team’s approval.
-- Avoid overusing patterns to prevent distraction from main content.
-- Combine patterns with primary brand colors for visual consistency.
-
----
-
-If you need patterns in specific dimensions or custom color variations, please contact us at [support@nihonbuzz.org](/hubungi-kami).

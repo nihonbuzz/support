@@ -1,8 +1,3 @@
-
----
-
-### ✅ **Versi Bahasa Jepang (Casual-Friendly)**
-```markdown
 ---
 title: カラーパレット
 description: Nihonbuzz ブランドの公式カラーと使用ガイドライン
