@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16px" height="16px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 16 16"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <path d="M8 0c4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path fill="white" d="M8 0c4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8z"/>
+  <g clip-path="url(#id0)">
+   <g id="_2074702948928">
+    <g>
+     <circle fill="red" cx="8" cy="6" r="3"/>
+     <line fill="none" x1="11" y1="10" x2="11" y2= "11" />
+     <line fill="none" x1="5" y1="10" x2="5" y2= "11" />
+     <path fill="black" d="M5 8c1,0 2,-1 3,-1 0,-1 0,-1 0,-1 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,1 1,0 2,1 3,1 0,0 0,-1 0,-1 -1,0 -2,-1 -2,-2 0,0 0,0 0,0 0,0 0,0 0,0l-1 0 -1 0c0,0 0,0 0,0 0,0 0,0 0,0 0,1 -1,2 -2,2 0,0 0,0 0,1 0,0 0,0 0,0z"/>
+     <path fill="black" d="M8 7l-1 0c0,1 0,2 -1,2 0,0 0,0 0,0 0,0 0,1 -1,1l0 1c1,0 2,-1 3,-2 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 1,1 2,2 3,2l0 -1c-1,0 -1,-1 -1,-1 0,0 0,0 0,0 -1,0 -1,-1 -1,-2l-1 0z"/>
+     <polygon fill="black" points="11,9 11,10 12,10 12,9 12,8 11,8 "/>
+     <polygon fill="black" points="8,13 8,13 12,13 12,12 12,11 11,11 11,12 9,12 9,11 8,11 8,11 7,11 7,12 5,12 5,11 4,11 4,12 4,13 "/>
+     <polygon fill="black" points="4,9 4,10 5,10 5,9 5,8 4,8 "/>
+    </g>
+   </g>
+  </g>
+  <path fill="none" d="M8 0c4,0 8,4 8,8 0,4 -4,8 -8,8 -4,0 -8,-4 -8,-8 0,-4 4,-8 8,-8z"/>
+ </g>
+</svg>

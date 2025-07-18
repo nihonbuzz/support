@@ -86,7 +86,7 @@ const config = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/img/og-image-nihonbuzz.png',
+            href: '/static/assets/Site-Icon/logo-32.svg',
           },
           {
             tagName: 'link',

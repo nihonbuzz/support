@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Logo Centered</title>
+<style>
+    body {
+        margin: 0;
+        display: flex;
+        justify-content: center; /* Horizontal center */
+        align-items: center;    /* Vertical center */
+        height: 100vh;          /* Full viewport height */
+        background-color: #1d997e;
+    }
+    img {
+        width: 300px;
+        height: 300px;
+        object-fit: contain; /* menjaga proporsi jika bukan 1:1 */
+    }
+</style>
+</head>
+<body>
+    <img src="logo.svg" alt="Logo">
+</body>
+</html>
