@@ -22,13 +22,13 @@ const config = {
     locales: ['id', 'en', 'ja'],
     localeConfigs: {
       id: {
-        label: 'Bahasa Indonesia',
+        label: 'Indonesian',
       },
       en: {
         label: 'English',
       },
       ja: {
-        label: '日本語',
+        label: 'Japanese',
       },
     },
   },
@@ -71,6 +71,34 @@ const config = {
         routeBasePath: 'guideline',
         sidebarPath: require.resolve('./sidebarsGuideline.js'),
         editUrl: 'https://github.com/nihonbuzz/support/blob/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/og-image-nihonbuzz.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json',
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: 'rgba(155, 17, 41, 1)',
+          },
+        ],
       },
     ],
   ],
