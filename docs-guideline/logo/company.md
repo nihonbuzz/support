@@ -7,10 +7,6 @@ sidebar_position: 1
 
 # Logo Nihonbuzz
 
-Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
-
-## Logo Nihonbuzz (Company)
-
 Gunakan logo ini untuk representasi merek perusahaan secara umum, termasuk komunikasi bisnis, kemitraan, dan media korporat.
 
 ### Versi Logo

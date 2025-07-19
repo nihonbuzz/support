@@ -5,11 +5,7 @@ slug: /logo/academy
 sidebar_position: 2
 ---
 
-# Logo Nihonbuzz
-
-Logo merupakan elemen paling esensial dari identitas visual Nihonbuzz. Kami memiliki dua identitas utama: **Nihonbuzz** sebagai entitas perusahaan, dan **Nihonbuzz Academy** sebagai divisi pendidikan.
-
-## Logo Nihonbuzz Academy
+# Logo Nihonbuzz Academy
 
 Gunakan logo Academy dalam konteks edukatif seperti kursus, konten pelatihan, dan acara pembelajaran.
 
