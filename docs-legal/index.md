@@ -3,6 +3,17 @@ title: Kebijakan & Ketentuan
 description: Halaman pengantar untuk seluruh kebijakan dan ketentuan yang berlaku di platform kami.
 sidebar_position: 1
 slug: /
+keywords:
+  - kebijakan Nihonbuzz
+  - syarat dan ketentuan Nihonbuzz
+  - kebijakan privasi Nihonbuzz
+  - legal Nihonbuzz Academy
+  - perjanjian pengguna Nihonbuzz
+  - refund Nihonbuzz
+  - DMCA Nihonbuzz
+  - keamanan data Nihonbuzz
+  - kebijakan hukum Nihonbuzz
+  - dokumen hukum platform edukasi
 ---
 
 # Kebijakan & Ketentuan NihonBuzz Academy

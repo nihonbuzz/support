@@ -86,7 +86,7 @@ const config = {
           {
             tagName: 'link',
             rel: 'icon',
-            href: '/static/assets/Site-Icon/logo-32.svg',
+            href: '/assets/Site-Icon/logo-32.svg',
           },
           {
             tagName: 'link',

@@ -1,7 +1,7 @@
 ---
 id: intro
 slug: /
-title: Panduan & Dokumentasi Nihonbuzz Academy – Pusat Dukungan Resmi
+title: Panduan & Dokumentasi Nihonbuzz Academy
 sidebar_label: Intro
 description: Dokumentasi resmi dan pusat bantuan untuk pengguna Nihonbuzz Academy. Temukan panduan teknis, solusi masalah umum, serta dokumentasi fitur platform.
 keywords:

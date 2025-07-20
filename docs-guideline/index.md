@@ -1,9 +1,19 @@
 ---
-
 title: Panduan Identitas Merek
 description: Panduan resmi identitas visual Nihonbuzz
-slug: /
 sidebar_position: 0
+slug: /
+keywords:
+  - identitas visual Nihonbuzz
+  - panduan branding Nihonbuzz
+  - logo Nihonbuzz
+  - panduan warna Nihonbuzz
+  - tipografi Nihonbuzz
+  - aset brand Nihonbuzz
+  - panduan desain Nihonbuzz
+  - brand guideline Nihonbuzz
+  - desain visual Nihonbuzz
+  - dokumen identitas merek
 ---
 
 # Panduan Identitas Merek NihonBuzz
